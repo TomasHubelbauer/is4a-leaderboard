@@ -4,4 +4,8 @@
 
 ![](https://github.com/tomashubelbauer/is4a-leaderboard/workflows/github-pages/badge.svg)
 
-Display the current IS4A .NET repositories GitHub leaderboard position.
+Displays the current IS4A .NET repositories GitHub leaderboard position.
+
+## To-Do
+
+Display the amount of stars needed to overtake the next position.
