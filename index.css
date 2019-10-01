@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
-span {
+#positionSpan {
   font-size: 300px;
+}
+
+#gapSpan {
+  font-size: 100px;
 }

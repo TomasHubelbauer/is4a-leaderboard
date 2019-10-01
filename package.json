@@ -1,0 +1,16 @@
+{
+  "name": "is4a-leaderboard",
+  "scripts": {
+    "start": "node script.js",
+    "serve": "serve ."
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.0",
+    "@types/node-fetch": "^2.5.2",
+    "serve": "^11.2.0"
+  }
+}

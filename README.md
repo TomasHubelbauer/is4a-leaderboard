@@ -6,6 +6,8 @@
 
 Displays the current IS4A .NET repositories GitHub leaderboard position.
 
-## To-Do
+## Running
 
-Display the amount of stars needed to overtake the next position.
+The code runs hourly in a GitHub Actions workflow, see [`main.yml`](.github/workflows/main.yml).
+
+Locally you can run the backend using `npm start` and the frontend using `npm run serve`.
