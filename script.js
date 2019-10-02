@@ -17,7 +17,7 @@ void async function () {
   console.log(`The next repository has ${nextRepository.stargazers_count} stars. That's ${starDifference} more star${starDifference > 1 ? 's' : ''} to go.`);
 
   await fs.writeJson('data.json', {
-    stars: repositoryJson.stargazers_count,
+    position: searchJson.total_count,
     gap: starDifference,
     contenderName: nextRepository.full_name,
     contenderUrl: nextRepository.html_url,
