@@ -21,5 +21,5 @@ void async function () {
     gap: starDifference,
     contenderName: nextRepository.full_name,
     contenderUrl: nextRepository.html_url,
-  });
+  }, { spaces: 2 });
 }()
