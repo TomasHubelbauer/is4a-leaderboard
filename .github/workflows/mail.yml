@@ -5,8 +5,8 @@ on:
     # Limit to the `master` branch
     - master
   schedule:
-    # Run hourly
-    - cron:  '0 * * * *'
+    # Run daily at midnight
+    - cron:  '0 0 * * *'
 jobs:
   github-pages:
     runs-on: ubuntu-latest
