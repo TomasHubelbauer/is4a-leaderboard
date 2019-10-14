@@ -1,7 +1,7 @@
 window.addEventListener('load', async () => {
   const response = await fetch('data.json');
   const json = await response.json();
-  document.getElementById('positionSpan').textContent = json.position;
+  document.getElementById('positionSpan').textContent = '#' + json.position;
   document.getElementById('gapSpan').textContent = json.gap;
   
   const contendersSpan = document.getElementById('contendersSpan');
