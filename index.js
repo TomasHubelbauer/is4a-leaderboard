@@ -13,7 +13,7 @@ window.addEventListener('load', async () => {
     contenderA.textContent = contender.name;
     contenderA.href = contender.link;
     contendersSpan.append(contenderA);
-    contendersSpan.append(document.createTextNode(counter === json.contenders.length ? '' : (counter === json.contenders.length - 1 ? ' and ' : ', ')));
+    contendersSpan.append(document.createTextNode(counter === json.contenders.length - 1 ? '' : (counter === json.contenders.length - 2 ? ' and ' : ', ')));
     counter++;
   }
 });
