@@ -2,5 +2,15 @@
   "position": 405,
   "gap": 1,
   "contenderName": "ScutGame/Scut",
-  "contenderUrl": "https://github.com/ScutGame/Scut"
+  "contenderUrl": "https://github.com/ScutGame/Scut",
+  "contenders": [
+    {
+      "name": "ScutGame/Scut",
+      "link": "https://github.com/ScutGame/Scut"
+    },
+    {
+      "name": "QianMo/Unity-Design-Pattern",
+      "link": "https://github.com/QianMo/Unity-Design-Pattern"
+    }
+  ]
 }
