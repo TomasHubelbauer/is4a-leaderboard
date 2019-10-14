@@ -24,8 +24,6 @@ void async function () {
   await fs.writeJson('data.json', {
     position: searchJson.total_count,
     gap: starDifference,
-    contenderName: nextRepository.full_name,
-    contenderUrl: nextRepository.html_url,
     contenders
   }, { spaces: 2 });
 }()
