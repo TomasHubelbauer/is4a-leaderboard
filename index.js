@@ -6,11 +6,14 @@ window.addEventListener('load', async () => {
   
   const contendersSpan = document.getElementById('contendersSpan');
   contendersSpan.innerHTML = '';
+  
+  let counter = 0;
   for (let contender of json.contenders) {
     const contenderA = document.createElement('a');
     contenderA.textContent = contender.name;
     contenderA.href = contender.link;
     contendersSpan.append(contenderA);
-    contendersSpan.append(document.createTextNode(', '));
+    contendersSpan.append(document.createTextNode(counter === json.contenders.length ? '' : (counter === json.contenders.length - 1 ? ' and ' : ', ')));
+    counter++;
   }
 });
