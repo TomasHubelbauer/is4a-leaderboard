@@ -16,10 +16,16 @@ void async function () {
   const starDifference = nextRepository.stargazers_count - repositoryJson.stargazers_count;
   console.log(`The next repository has ${nextRepository.stargazers_count} stars. That's ${starDifference} more star${starDifference > 1 ? 's' : ''} to go.`);
 
+  const contenders = searchJson.items
+    .filter(item => item.stargazers_count === nextRepository.stargazers_count)
+    .map(item => ({ name: item.full_name, link: item.html_url }))
+  ;
+  
   await fs.writeJson('data.json', {
     position: searchJson.total_count,
     gap: starDifference,
     contenderName: nextRepository.full_name,
     contenderUrl: nextRepository.html_url,
+    contenders
   }, { spaces: 2 });
 }()
