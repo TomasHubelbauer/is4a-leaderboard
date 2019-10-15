@@ -1,14 +1,14 @@
 {
-  "position": 405,
+  "position": 403,
   "gap": 1,
   "contenders": [
     {
-      "name": "ScutGame/Scut",
-      "link": "https://github.com/ScutGame/Scut"
-    },
-    {
       "name": "QianMo/Unity-Design-Pattern",
       "link": "https://github.com/QianMo/Unity-Design-Pattern"
+    },
+    {
+      "name": "tjoudeh/AngularJSAuthentication",
+      "link": "https://github.com/tjoudeh/AngularJSAuthentication"
     }
   ]
 }
