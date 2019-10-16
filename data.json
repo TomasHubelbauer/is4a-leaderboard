@@ -1,14 +1,10 @@
 {
-  "position": 403,
+  "position": 404,
   "gap": 1,
   "contenders": [
     {
-      "name": "QianMo/Unity-Design-Pattern",
-      "link": "https://github.com/QianMo/Unity-Design-Pattern"
-    },
-    {
-      "name": "tjoudeh/AngularJSAuthentication",
-      "link": "https://github.com/tjoudeh/AngularJSAuthentication"
+      "name": "gibbed/SteamAchievementManager",
+      "link": "https://github.com/gibbed/SteamAchievementManager"
     }
   ]
 }
