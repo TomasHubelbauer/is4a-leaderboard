@@ -1,7 +1,15 @@
 {
   "position": 401,
-  "gap": 5,
+  "gap": 4,
   "contenders": [
+    {
+      "name": "jwt-dotnet/jwt",
+      "link": "https://github.com/jwt-dotnet/jwt"
+    },
+    {
+      "name": "voat/voat",
+      "link": "https://github.com/voat/voat"
+    },
     {
       "name": "discord-net/Discord.Net",
       "link": "https://github.com/discord-net/Discord.Net"
