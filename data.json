@@ -1,14 +1,10 @@
 {
-  "position": 402,
-  "gap": 1,
+  "position": 400,
+  "gap": 7,
   "contenders": [
     {
-      "name": "jwt-dotnet/jwt",
-      "link": "https://github.com/jwt-dotnet/jwt"
-    },
-    {
-      "name": "voat/voat",
-      "link": "https://github.com/voat/voat"
+      "name": "dotnet/spark",
+      "link": "https://github.com/dotnet/spark"
     }
   ]
 }
