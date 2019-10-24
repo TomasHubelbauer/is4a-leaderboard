@@ -1,6 +1,6 @@
 {
   "position": 402,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "jwt-dotnet/jwt",
