@@ -1,10 +1,14 @@
 {
-  "position": 398,
-  "gap": 2,
+  "position": 397,
+  "gap": 5,
   "contenders": [
     {
-      "name": "SlightlyMad/VolumetricLights",
-      "link": "https://github.com/SlightlyMad/VolumetricLights"
+      "name": "jimradford/superputty",
+      "link": "https://github.com/jimradford/superputty"
+    },
+    {
+      "name": "sharpdx/SharpDX",
+      "link": "https://github.com/sharpdx/SharpDX"
     }
   ]
 }
