@@ -1,14 +1,10 @@
 {
   "position": 397,
-  "gap": 3,
+  "gap": 1,
   "contenders": [
     {
       "name": "jimradford/superputty",
       "link": "https://github.com/jimradford/superputty"
-    },
-    {
-      "name": "sharpdx/SharpDX",
-      "link": "https://github.com/sharpdx/SharpDX"
     }
   ]
 }
