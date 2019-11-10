@@ -3,8 +3,8 @@
   "gap": 1,
   "contenders": [
     {
-      "name": "TouchScript/TouchScript",
-      "link": "https://github.com/TouchScript/TouchScript"
+      "name": "Azure/azure-functions-host",
+      "link": "https://github.com/Azure/azure-functions-host"
     }
   ]
 }
