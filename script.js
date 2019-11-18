@@ -27,4 +27,6 @@ void async function () {
     gap: starDifference,
     contenders
   }, { spaces: 2 });
+  
+  await fs.writeFile('data.txt', searchJson.total_count);
 }()
