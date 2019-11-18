@@ -1,10 +1,12 @@
 {
   "position": 392,
-  "gap": 2,
+  "stars": 1261,
+  "gap": 3,
   "contenders": [
     {
       "name": "nsubstitute/NSubstitute",
-      "link": "https://github.com/nsubstitute/NSubstitute"
+      "link": "https://github.com/nsubstitute/NSubstitute",
+      "stars": 1264
     }
   ]
 }
