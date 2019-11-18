@@ -10,3 +10,9 @@ Displays the current .NET GitHub repositories leaderboard position for the
 Remotely, the code runs daily in a GitHub Actions workflow, see [`main.yml`](.github/workflows/main.yml).
 
 Locally you can run the backend using `npm start` and the frontend using `npm run serve`.
+
+## To-Do
+
+### Cut a release each time the position advances
+
+Add a pipeline step which uses the GitHub API to cut a release each time the position advances.
