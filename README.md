@@ -8,8 +8,8 @@ Displays the current .NET GitHub repositories leaderboard position for the
 [Skoruba.IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin) repository.
 
 
-Releases a new GitHub version each time the position changes.
-Use *Watch Releases* to subscribe to the position change email notifications.
+Releases a new GitHub release each time the position changes.
+Use *Watch Releases* to subscribe.
 
 Remotely, the code runs daily in a GitHub Actions workflow, see [`main.yml`](.github/workflows/main.yml).
 
