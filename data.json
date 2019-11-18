@@ -1,6 +1,6 @@
 {
   "position": 392,
-  "gap": 5,
+  "gap": 2,
   "contenders": [
     {
       "name": "nsubstitute/NSubstitute",
