@@ -31,16 +31,16 @@ jobs:
         #if git diff-index --quiet HEAD --; then
           #exit
         #fi
-        git commit -m "Generate GitHub Pages"
+        #git commit -m "Generate GitHub Pages"
         # Authenticate with GitHub using the default integration PAT (this one won't deploy GitHub Pages)
-        git remote set-url origin https://tomashubelbauer:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        #git remote set-url origin https://tomashubelbauer:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         # Pull before pushing to integrate fast forward changes if any
-        git pull
+        #git pull
         # Push the changes to GitHub where it will cause another workflow which will kill itself immediately due to ***NO_CI***
-        git push
+        #git push
         # Enqueue a GitHub Pages deployment using the API with the custom PAT
-        curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" -H "Accept: application/vnd.github.mister-fantastic-preview+json" "https://api.github.com/repos/${{ github.repository }}/pages/builds"
+        #curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" -H "Accept: application/vnd.github.mister-fantastic-preview+json" "https://api.github.com/repos/${{ github.repository }}/pages/builds"
         # Create a GitHub release for this leaderboard position
         curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$(cat data.txt)'"}'
         # Show GitHub Pages URL
-        echo https://tomashubelbauer.github.io/rss-reader
+        echo https://tomashubelbauer.github.io/is4a-leaderboard
