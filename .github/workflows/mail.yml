@@ -24,7 +24,7 @@ jobs:
         npm install
         npm start
         # Add generated GitHub Pages to Git stage
-        git add data.json
+        git add data.json data.txt
         # Reset unstaged changes to prevent `git commit` from yelling if there's changes outside of `docs`
         git checkout -- .
         # Commit the changes to the Git repository to deploy GitHub Pages (if any)
