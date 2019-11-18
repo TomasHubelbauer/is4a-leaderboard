@@ -28,9 +28,9 @@ jobs:
         # Reset unstaged changes to prevent `git commit` from yelling if there's changes outside of `docs`
         git checkout -- .
         # Commit the changes to the Git repository to deploy GitHub Pages (if any)
-        if git diff-index --quiet HEAD --; then
+        #if git diff-index --quiet HEAD --; then
           #exit
-        fi
+        #fi
         git commit -m "Generate GitHub Pages"
         # Authenticate with GitHub using the default integration PAT (this one won't deploy GitHub Pages)
         git remote set-url origin https://tomashubelbauer:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
