@@ -41,6 +41,7 @@ jobs:
         # Enqueue a GitHub Pages deployment using the API with the custom PAT
         curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" -H "Accept: application/vnd.github.mister-fantastic-preview+json" "https://api.github.com/repos/${{ github.repository }}/pages/builds"
         # Create a GitHub release for this leaderboard position
-        curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$(cat data.txt)'"}'
+        sudo apt install jq
+        curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$(cat data.json | jq .position)'"}'
         # Show GitHub Pages URL
         echo https://tomashubelbauer.github.io/is4a-leaderboard
