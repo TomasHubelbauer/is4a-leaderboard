@@ -23,6 +23,12 @@ jobs:
         # Search for .NET repositories with more stars than IS4A where the total + 1 will be the IS4A leaderboard position
         npm install
         npm start
+        # Find the old position before staging the new one
+        sudo apt install jq
+        oldPosition=git show :data.json | jq .position
+        echo "Old position: $oldPosition"
+        newPosition=cat data.json | jq .position
+        echo "New position: $newPosition"
         # Add generated GitHub Pages to Git stage
         git add data.json
         # Reset unstaged changes to prevent `git commit` from yelling if there's changes outside of `docs`
@@ -40,8 +46,10 @@ jobs:
         git push
         # Enqueue a GitHub Pages deployment using the API with the custom PAT
         curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" -H "Accept: application/vnd.github.mister-fantastic-preview+json" "https://api.github.com/repos/${{ github.repository }}/pages/builds"
-        # Create a GitHub release for this leaderboard position
-        sudo apt install jq
-        curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$(cat data.json | jq .position)'"}'
+        # Create a GitHub release for this leaderboard position if changed
+        if [ $newPosition != $oldPosition ]
+        then
+          curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$newPosition'"}'
+        fi
         # Show GitHub Pages URL
         echo https://tomashubelbauer.github.io/is4a-leaderboard
