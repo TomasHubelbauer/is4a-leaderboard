@@ -1,12 +1,12 @@
 {
-  "position": 393,
-  "stars": 1266,
-  "gap": 1,
+  "position": 392,
+  "stars": 1268,
+  "gap": 2,
   "contenders": [
     {
-      "name": "nsubstitute/NSubstitute",
-      "link": "https://github.com/nsubstitute/NSubstitute",
-      "stars": 1267
+      "name": "charlesw/tesseract",
+      "link": "https://github.com/charlesw/tesseract",
+      "stars": 1270
     }
   ]
 }
