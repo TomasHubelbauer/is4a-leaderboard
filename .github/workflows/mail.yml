@@ -24,7 +24,6 @@ jobs:
         npm install
         npm start
         # Find the old position before staging the new one
-        sudo apt install jq
         oldPosition=$(git show :data.json | jq .position)
         echo "Old position: $oldPosition"
         newPosition=$(cat data.json | jq .position)
