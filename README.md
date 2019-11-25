@@ -13,3 +13,7 @@ Use *Watch Releases* to subscribe.
 Remotely, the code runs daily in a GitHub Actions workflow, see [`main.yml`](.github/workflows/main.yml).
 
 Locally you can run the backend using `npm start` and the frontend using `npm run serve`.
+
+## To-do
+
+Collect milestones.
