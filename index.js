@@ -18,5 +18,5 @@ window.addEventListener('load', async () => {
     counter++;
   }
   
-  contendersSpan.append(document.createTextNode(` (${json.stars + json.gap})`));
+  contendersSpan.append(document.createTextNode(` (${json.stars + json.gap} ★)`));
 });
