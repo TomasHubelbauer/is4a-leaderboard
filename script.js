@@ -18,7 +18,7 @@ void async function () {
 
   const contenders = searchJson.items
     .filter(item => item.stargazers_count === nextRepository.stargazers_count)
-    .map(item => ({ name: item.full_name, link: item.html_url, stars: item.stargazers_count }))
+    .map(item => ({ name: item.full_name, link: item.html_url }))
   ;
   
   await fs.writeJson('data.json', {
