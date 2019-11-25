@@ -1,15 +1,11 @@
 {
   "position": 391,
-  "stars": 1270,
-  "gap": 3,
+  "stars": 1271,
+  "gap": 2,
   "contenders": [
     {
       "name": "koush/UniversalAdbDriver",
       "link": "https://github.com/koush/UniversalAdbDriver"
-    },
-    {
-      "name": "NewEraCracker/LOIC",
-      "link": "https://github.com/NewEraCracker/LOIC"
     }
   ]
 }
