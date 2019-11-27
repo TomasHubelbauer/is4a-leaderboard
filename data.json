@@ -1,11 +1,11 @@
 {
-  "position": 390,
-  "stars": 1273,
-  "gap": 1,
+  "position": 389,
+  "stars": 1274,
+  "gap": 10,
   "contenders": [
     {
-      "name": "NewEraCracker/LOIC",
-      "link": "https://github.com/NewEraCracker/LOIC"
+      "name": "duke7553/files-uwp",
+      "link": "https://github.com/duke7553/files-uwp"
     }
   ]
 }
