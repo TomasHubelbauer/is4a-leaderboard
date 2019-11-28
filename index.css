@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 #positionSpan {
   font-size: 300px;
 }
