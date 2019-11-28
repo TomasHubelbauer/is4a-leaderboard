@@ -4,10 +4,10 @@ window.addEventListener('load', async () => {
   document.getElementById('positionSpan').textContent = json.position;
   document.getElementById('gapSpan').textContent = json.gap;
   document.getElementById('starsSpan').textContent = json.stars;
-  
+
   const contendersSpan = document.getElementById('contendersSpan');
   contendersSpan.innerHTML = '';
-  
+
   let counter = 0;
   for (let contender of json.contenders) {
     const contenderA = document.createElement('a');
@@ -17,6 +17,15 @@ window.addEventListener('load', async () => {
     contendersSpan.append(document.createTextNode(counter === json.contenders.length - 1 ? '' : (counter === json.contenders.length - 2 ? ' and ' : ', ')));
     counter++;
   }
-  
+
   contendersSpan.append(document.createTextNode(` (${json.stars + json.gap} ★)`));
+
+  if (json.milestones) {
+    const milestonesDiv = document.getElementById('milestonesDiv');
+    for (const milestone in json.milestones) {
+      const milestoneDiv = document.createElement('p');
+      milestoneDiv.textContent = `${milestone}: ${new Date(json.milestones[milestone]).toLocaleDateString()}`;
+      milestonesDiv.append(milestoneDiv);
+    }
+  }
 });

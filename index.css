@@ -10,3 +10,11 @@ body {
 #gapSpan {
   font-size: 100px;
 }
+
+#copyrightP {
+  border-top: 1px solid silver;
+  margin: 10ex auto auto;
+  min-width: 500px;
+  padding-top: 1em;
+  width: 50%;
+}
