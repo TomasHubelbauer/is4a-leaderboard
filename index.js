@@ -24,7 +24,10 @@ window.addEventListener('load', async () => {
     const milestonesDiv = document.getElementById('milestonesDiv');
     for (const milestone in json.milestones) {
       const milestoneDiv = document.createElement('p');
-      milestoneDiv.textContent = `${milestone}: ${new Date(json.milestones[milestone]).toLocaleDateString()}`;
+      const milestoneStrong = document.createElement('strong');
+      milestoneStrong.textContent = milestone;
+      milestoneDiv.append(milestoneStrong);
+      milestoneDiv.append(document.createTextNode(' ' + new Date(json.milestones[milestone]).toLocaleDateString()));
       milestonesDiv.append(milestoneDiv);
     }
   }
