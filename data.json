@@ -1,7 +1,7 @@
 {
   "position": 389,
-  "stars": 1280,
-  "gap": 6,
+  "stars": 1282,
+  "gap": 4,
   "contenders": [
     {
       "name": "zzzprojects/EntityFramework.Extended",
