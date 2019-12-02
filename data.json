@@ -1,11 +1,15 @@
 {
-  "position": 388,
-  "stars": 1286,
-  "gap": 1,
+  "position": 387,
+  "stars": 1287,
+  "gap": 4,
   "contenders": [
     {
-      "name": "duke7553/files-uwp",
-      "link": "https://github.com/duke7553/files-uwp"
+      "name": "Monnoroch/ColorHighlighter",
+      "link": "https://github.com/Monnoroch/ColorHighlighter"
+    },
+    {
+      "name": "Seneral/Node_Editor_Framework",
+      "link": "https://github.com/Seneral/Node_Editor_Framework"
     }
   ],
   "milestones": {
