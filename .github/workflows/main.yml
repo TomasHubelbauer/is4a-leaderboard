@@ -58,6 +58,7 @@ jobs:
           From: "IS4A Leaderboard" <bot@hubelbauer.net>
           Content-Type: text/html
           <b>$newPosition</b>
+
           EOF
         fi
         # Show GitHub Pages URL
