@@ -1,11 +1,11 @@
 {
-  "position": 389,
-  "stars": 1285,
+  "position": 388,
+  "stars": 1286,
   "gap": 1,
   "contenders": [
     {
-      "name": "zzzprojects/EntityFramework.Extended",
-      "link": "https://github.com/zzzprojects/EntityFramework.Extended"
+      "name": "duke7553/files-uwp",
+      "link": "https://github.com/duke7553/files-uwp"
     }
   ],
   "milestones": {
