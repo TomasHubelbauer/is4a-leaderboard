@@ -25,13 +25,9 @@ jobs:
         npm start
         # Find the old position before staging the new one
         oldPosition=$(git show :data.json | jq .position)
-        echo "Old position: $oldPosition"
         newPosition=$(cat data.json | jq .position)
-        echo "New position: $newPosition"
         oldGap=$(git show :data.json | jq .gap)
-        echo "Old gap: $oldGap"
         newGap=$(cat data.json | jq .gap)
-        echo "New gap: $newGap"
         # Add generated GitHub Pages to Git stage
         git add data.json
         # Reset unstaged changes to prevent `git commit` from yelling if there's changes outside of `docs`
