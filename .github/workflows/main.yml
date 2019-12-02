@@ -28,6 +28,10 @@ jobs:
         echo "Old position: $oldPosition"
         newPosition=$(cat data.json | jq .position)
         echo "New position: $newPosition"
+        oldGap=$(git show :data.json | jq .gap)
+        echo "Old gap: $oldGap"
+        newGap=$(cat data.json | jq .gap)
+        echo "New gap: $newGap"
         # Add generated GitHub Pages to Git stage
         git add data.json
         # Reset unstaged changes to prevent `git commit` from yelling if there's changes outside of `docs`
@@ -45,11 +49,15 @@ jobs:
         git push
         # Enqueue a GitHub Pages deployment using the API with the custom PAT
         curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" -H "Accept: application/vnd.github.mister-fantastic-preview+json" "https://api.github.com/repos/${{ github.repository }}/pages/builds"
-        # Create a release and send an email notification if position changed
+        # Create a release if the position has changed
         if [ $newPosition != $oldPosition ]
         then
           # Create a GitHub release for this leaderboard position
           curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$newPosition'"}'
+        fi
+        # Send an email notification if position or gap has changed
+        if [ $newPosition != $oldPosition ] || [ $oldGap != $newGap ]
+        then
           # Send myself an email with the new leaderboard position number
           git clone https://TomasHubelbauer:${{ secrets.GITHUB_PAGES_PAT }}@github.com/TomasHubelbauer/self-email.git
           chmod +x ./self-email/self-email.sh
@@ -57,7 +65,7 @@ jobs:
           Subject: IS4A Leaderboard Position
           From: "IS4A Leaderboard" <bot@hubelbauer.net>
           Content-Type: text/html
-          <b>$newPosition</b>
+          <b>$newPosition</b> (gap ($newGap))
 
           EOF
         fi
