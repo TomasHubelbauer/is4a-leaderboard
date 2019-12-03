@@ -52,7 +52,7 @@ jobs:
           curl -f -X POST -H "Authorization: token ${{ secrets.GITHUB_PAGES_PAT }}" "https://api.github.com/repos/${{ github.repository }}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$newPosition'"}'
         fi
         # Send an email notification if position or gap has changed
-        if [ $newPosition != $oldPosition ] || [ $oldGap != $newGap ] || true
+        if [ $newPosition != $oldPosition ] || [ $oldGap != $newGap ]
         then
           # Send myself an email with the new leaderboard position number
           git clone https://TomasHubelbauer:${{ secrets.GITHUB_PAGES_PAT }}@github.com/TomasHubelbauer/self-email.git
