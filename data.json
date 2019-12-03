@@ -4,10 +4,6 @@
   "gap": 3,
   "contenders": [
     {
-      "name": "Monnoroch/ColorHighlighter",
-      "link": "https://github.com/Monnoroch/ColorHighlighter"
-    },
-    {
       "name": "Seneral/Node_Editor_Framework",
       "link": "https://github.com/Seneral/Node_Editor_Framework"
     }
