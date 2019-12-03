@@ -63,7 +63,7 @@ jobs:
           Content-Type: text/html
           <b>$newPosition</b> (gap ($newGap))
 
-          EOF
+          <<-EOF
 
         fi
         # Show GitHub Pages URL
