@@ -10,7 +10,7 @@ Displays the current .NET GitHub repositories leaderboard position for the
 Releases a new GitHub release each time the position changes.
 Use *Watch Releases* to subscribe.
 
-Remotely, the code runs daily in a GitHub Actions workflow, see [`main.yml`](.github/workflows/main.yml).
+Remotely, the code runs hourly in a GitHub Actions workflow, see [`main.yml`](.github/workflows/main.yml).
 
 Locally you can run the backend using `npm start` and the frontend using `npm run serve`.
 
