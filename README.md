@@ -17,13 +17,3 @@ Locally you can run the backend using `npm start` and the frontend using `npm ru
 ## To-do
 
 ### Replay the stars from the API to generate old milestones.
-
-### Fix incorrect milestone calculation
-
-385 will become 380 instead of 390. The fix is probably to calculate as it is
-now but then add `Math.pow(10, magnitude - 1)` at the end. That should be enough
-to fix it.
-
-### Add star milestones in addition to position milestones we already have
-
-Display probably as two columns side by side?

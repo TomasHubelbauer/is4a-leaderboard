@@ -22,32 +22,55 @@ void async function () {
   console.log(`The contender${contenders.length > 1 ? 's' : ''} ${contenders.length > 1 ? 'have' : 'has'} ${contenderStars}★`);
   console.log(`That's ${gap} more star${gap > 1 ? 's' : ''} to go`);
 
-  const { milestones } = await fs.readJson('data.json');
+  const { positionMilestones, starsMilestones } = await fs.readJson('data.json');
 
-  let milestone;
-  if (position > 100) {
-    const digits = Math.ceil(Math.log10(position + 1));
-    const magnitude = Math.pow(10, digits - 2);
-    milestone = ~~(position / magnitude) * magnitude;
-    if (!milestones || !milestones[milestone]) {
-      console.log('Reached a new milestone,', milestone);
-    }
-  }
-
-  if (milestone) {
-    milestone = { [milestone]: new Date().toISOString() };
-  }
+  const positionMilestone = { [calculateFlooringMilestone(position)]: new Date().toISOString() };
+  const starsMilestone = { [calculateCeilingMilestone(stars)]: new Date().toISOString() };
 
   await fs.writeJson('data.json', {
     position,
     stars,
     gap,
     contenders,
-    milestones: {
+    positionMilestones: {
       // Write the calculated milestone first so it gets replaced if it existed
-      ...milestone,
+      ...positionMilestone,
       // Preserve all the existing milestones replacing the above one if not new
-      ...milestones
-    }
+      ...positionMilestones,
+    },
+    starsMilestones: {
+      // Write the calculated milestone first so it gets replaced if it existed
+      ...starsMilestone,
+      // Preserve all the existing milestones replacing the above one if not new
+      ...starsMilestones,
+    },
   }, { spaces: 2 });
 }()
+
+// https://github.com/TomasHubelbauer/js-milestone
+function calculateFlooringMilestone(/** @type {number} */ number) {
+  if (number < 0) {
+    throw new Error('The number cannot be negative');
+  }
+
+  const digits = Math.ceil(Math.log10(number + 1)) || 1 /* 0 has 1 digit */;
+  const magnitude = Math.pow(10, digits > 2 ? digits - 2 : digits - 1);
+
+  let temp = ~~(number / magnitude) * magnitude;
+  if (temp !== number) {
+    temp += magnitude;
+  }
+
+  return temp;
+}
+
+// https://github.com/TomasHubelbauer/js-milestone
+function calculateCeilingMilestone(/** @type {number} */ number) {
+  if (number < 0) {
+    throw new Error('The number cannot be negative');
+  }
+
+  const digits = Math.ceil(Math.log10(number + 1)) || 1 /* 0 has 1 digit */;
+  const magnitude = Math.pow(10, digits > 2 ? digits - 2 : digits - 1);
+  return ~~(number / magnitude) * magnitude;
+}

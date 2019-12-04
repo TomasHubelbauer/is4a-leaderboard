@@ -8,7 +8,10 @@
       "link": "https://github.com/filoe/cscore"
     }
   ],
-  "milestones": {
-    "380": "2019-11-28T19:20:33.364Z"
+  "positionMilestones": {
+    "390": "2019-12-04T22:56:29.559Z"
+  },
+  "starsMilestones": {
+    "1200": "2019-12-04T22:56:54.528Z"
   }
 }
