@@ -20,15 +20,23 @@ window.addEventListener('load', async () => {
 
   contendersSpan.append(document.createTextNode(` (${json.stars + json.gap} ★)`));
 
-  if (json.milestones) {
-    const milestonesDiv = document.getElementById('milestonesDiv');
-    for (const milestone in json.milestones) {
-      const milestoneDiv = document.createElement('p');
-      const milestoneStrong = document.createElement('strong');
-      milestoneStrong.textContent = milestone;
-      milestoneDiv.append(milestoneStrong);
-      milestoneDiv.append(document.createTextNode(' ' + new Date(json.milestones[milestone]).toLocaleDateString()));
-      milestonesDiv.append(milestoneDiv);
-    }
+  const positionMilestonesDiv = document.getElementById('positionMilestonesDiv');
+  for (const positionMilestone in json.positionMilestones) {
+    const milestoneDiv = document.createElement('p');
+    const milestoneStrong = document.createElement('strong');
+    milestoneStrong.textContent = positionMilestone;
+    positionMilestonesDiv.append(milestoneStrong);
+    positionMilestonesDiv.append(document.createTextNode(' ' + new Date(json.positionMilestones[positionMilestone]).toLocaleDateString()));
+    positionMilestonesDiv.append(milestoneDiv);
+  }
+
+  const starsMilestonesDiv = document.getElementById('starsMilestonesDiv');
+  for (const starsMilestone in json.starsMilestones) {
+    const milestoneDiv = document.createElement('p');
+    const milestoneStrong = document.createElement('strong');
+    milestoneStrong.textContent = starsMilestone;
+    starsMilestonesDiv.append(milestoneStrong);
+    starsMilestonesDiv.append(document.createTextNode(' ' + new Date(json.starsMilestones[starsMilestone]).toLocaleDateString()));
+    starsMilestonesDiv.append(milestoneDiv);
   }
 });

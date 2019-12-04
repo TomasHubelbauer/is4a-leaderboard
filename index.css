@@ -15,6 +15,16 @@ a {
   font-size: 100px;
 }
 
+#milestonesDiv {
+  display: flex;
+  margin: auto;
+  width: 500px;
+}
+
+#milestonesDiv div {
+  flex: 1;
+}
+
 #copyrightP {
   border-top: 1px solid silver;
   margin: 10ex auto auto;
