@@ -57,7 +57,16 @@ jobs:
           # Send myself an email with the new leaderboard position number
           git clone https://TomasHubelbauer:${{ secrets.GITHUB_PAGES_PAT }}@github.com/TomasHubelbauer/self-email.git
           chmod +x ./self-email/self-email.sh
-          ./self-email/self-email.sh "IS4A Leaderboard Position" "$newPosition\n\nGap: $newGap"
+          ./self-email/self-email.sh <<- EOL
+          From: IS4A Bot <bot@hubelbauer.net>
+          Subject: IS4A Leaderboard Position
+          Content-Type: text/html
+          
+          <b>$newPosition</b>
+          
+          Gap: $newGap
+          
+          EOL
         fi
         # Show GitHub Pages URL
         echo https://tomashubelbauer.github.io/is4a-leaderboard
