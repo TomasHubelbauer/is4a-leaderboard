@@ -67,6 +67,7 @@ jobs:
           Gap: $newGap
           
           EOL
+
         fi
         # Show GitHub Pages URL
         echo https://tomashubelbauer.github.io/is4a-leaderboard
