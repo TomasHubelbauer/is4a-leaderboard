@@ -1,17 +1,18 @@
 {
-  "position": 384,
-  "stars": 1299,
+  "position": 383,
+  "stars": 1300,
   "gap": 1,
   "contenders": [
     {
-      "name": "filoe/cscore",
-      "link": "https://github.com/filoe/cscore"
+      "name": "dotnet/wcf",
+      "link": "https://github.com/dotnet/wcf"
     }
   ],
   "positionMilestones": {
     "390": "2019-12-04T22:56:29.559Z"
   },
   "starsMilestones": {
-    "1200": "2019-12-04T22:56:54.528Z"
+    "1200": "2019-12-04T22:56:54.528Z",
+    "1300": "2019-12-05T02:01:39.753Z"
   }
 }
