@@ -28,6 +28,7 @@ jobs:
         newPosition=$(cat data.json | jq .position)
         oldGap=$(git show :data.json | jq .gap)
         newGap=$(cat data.json | jq .gap)
+        stars=$(cat data.json | jq .stars)
         # Add generated GitHub Pages to Git stage
         git add data.json
         # Reset unstaged changes to prevent `git commit` from yelling if there's changes outside of `docs`
@@ -58,11 +59,16 @@ jobs:
           git clone https://TomasHubelbauer:${{secrets.GITHUB_PAGES_PAT}}@github.com/TomasHubelbauer/self-email.git
           chmod +x ./self-email/self-email.sh
           echo "From: IS4A Bot <bot@hubelbauer.net>" >> email.eml
-          echo "Subject: IS4A Leaderboard: #${newPosition} (gap ${newGap})" >> email.eml
+          echo "Subject: IS4A Leaderboard: #${newPosition} (${stars} ★, gap ${newGap})" >> email.eml
           echo "Content-Type: text/html" >> email.eml
-          echo "<b>$newPosition</b>" >> email.eml
-          echo "" >> email.eml
+          echo "<b>#$newPosition</b>" >> email.eml
+          echo "<br />" >> email.eml
+          echo "<br />" >> email.eml
           echo "Gap: $newGap" >> email.eml
+          echo "<br />" >> email.eml
+          echo "<a href='https://tomashubelbauer.github.io/is4a-leaderboard'>The site</a>" >> email.eml
+          echo "<br />" >> email.eml
+          echo "Thank you"
           cat email.eml | ./self-email/self-email.sh
         fi
         # Show GitHub Pages URL
