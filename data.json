@@ -6,10 +6,6 @@
     {
       "name": "confluentinc/confluent-kafka-dotnet",
       "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
-    },
-    {
-      "name": "rlabrecque/Steamworks.NET",
-      "link": "https://github.com/rlabrecque/Steamworks.NET"
     }
   ],
   "positionMilestones": {
