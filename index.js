@@ -21,7 +21,8 @@ window.addEventListener('load', async () => {
   contendersSpan.append(document.createTextNode(` (${json.stars + json.gap} ★)`));
 
   const positionMilestonesDiv = document.getElementById('positionMilestonesDiv');
-  for (const positionMilestone in json.positionMilestones) {
+  const positionMilestones = Object.keys(json.positionMilestones).sort((a, b) => a.localeCompare(b));
+  for (const positionMilestone of positionMilestones) {
     const milestoneDiv = document.createElement('p');
     const milestoneStrong = document.createElement('strong');
     milestoneStrong.textContent = positionMilestone;
@@ -31,7 +32,8 @@ window.addEventListener('load', async () => {
   }
 
   const starsMilestonesDiv = document.getElementById('starsMilestonesDiv');
-  for (const starsMilestone in json.starsMilestones) {
+  const starsMilestones = Object.keys(json.starsMilestones).sort((a, b) => b.localeCompare(a));
+  for (const starsMilestone of starsMilestones) {
     const milestoneDiv = document.createElement('p');
     const milestoneStrong = document.createElement('strong');
     milestoneStrong.textContent = starsMilestone;
