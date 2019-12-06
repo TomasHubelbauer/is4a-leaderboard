@@ -1,14 +1,19 @@
 {
-  "position": 381,
-  "stars": 1303,
-  "gap": 1,
+  "position": 380,
+  "stars": 1304,
+  "gap": 7,
   "contenders": [
     {
-      "name": "fluentribbon/Fluent.Ribbon",
-      "link": "https://github.com/fluentribbon/Fluent.Ribbon"
+      "name": "confluentinc/confluent-kafka-dotnet",
+      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
+    },
+    {
+      "name": "rlabrecque/Steamworks.NET",
+      "link": "https://github.com/rlabrecque/Steamworks.NET"
     }
   ],
   "positionMilestones": {
+    "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "starsMilestones": {
