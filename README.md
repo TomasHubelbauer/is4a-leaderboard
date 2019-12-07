@@ -16,6 +16,4 @@ Locally you can run the backend using `npm start` and the frontend using `npm ru
 
 ## To-do
 
-### Replay the stars from the API to generate old milestones.
-
 ### Use the milestones as a Node Git dependency
