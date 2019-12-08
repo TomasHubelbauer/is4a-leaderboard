@@ -1,5 +1,6 @@
 const fetch = require('node-fetch');
 const fs = require('fs-extra');
+const { calculateFlooringMilestone, calculateCeilingMilestone } = require('milestone');
 
 void async function () {
   // Download the current star count for IS4A
@@ -24,8 +25,10 @@ void async function () {
 
   const { positionMilestones, starsMilestones } = await fs.readJson('data.json');
 
-  const positionMilestone = { [calculateFlooringMilestone(position)]: new Date().toISOString() };
-  const starsMilestone = { [calculateCeilingMilestone(stars)]: new Date().toISOString() };
+  const positionMilestone = { [calculateFlooringMilestone(position, 2)]: new Date().toISOString() };
+  console.log(`The position milestones is ${calculateFlooringMilestone(position, 2)}`);
+  const starsMilestone = { [calculateCeilingMilestone(stars, 2)]: new Date().toISOString() };
+  console.log(`The stars milestones is ${calculateCeilingMilestone(stars, 2)}`);
 
   await fs.writeJson('data.json', {
     position,
@@ -46,31 +49,3 @@ void async function () {
     },
   }, { spaces: 2 });
 }()
-
-// https://github.com/TomasHubelbauer/js-milestone
-function calculateFlooringMilestone(/** @type {number} */ number) {
-  if (number < 0) {
-    throw new Error('The number cannot be negative');
-  }
-
-  const digits = Math.ceil(Math.log10(number + 1)) || 1 /* 0 has 1 digit */;
-  const magnitude = Math.pow(10, digits > 2 ? digits - 2 : digits - 1);
-
-  let temp = ~~(number / magnitude) * magnitude;
-  if (temp !== number) {
-    temp += magnitude;
-  }
-
-  return temp;
-}
-
-// https://github.com/TomasHubelbauer/js-milestone
-function calculateCeilingMilestone(/** @type {number} */ number) {
-  if (number < 0) {
-    throw new Error('The number cannot be negative');
-  }
-
-  const digits = Math.ceil(Math.log10(number + 1)) || 1 /* 0 has 1 digit */;
-  const magnitude = Math.pow(10, digits > 2 ? digits - 2 : digits - 1);
-  return ~~(number / magnitude) * magnitude;
-}
