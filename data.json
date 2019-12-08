@@ -1,7 +1,7 @@
 {
   "position": 380,
-  "stars": 1309,
-  "gap": 2,
+  "stars": 1310,
+  "gap": 1,
   "contenders": [
     {
       "name": "confluentinc/confluent-kafka-dotnet",
