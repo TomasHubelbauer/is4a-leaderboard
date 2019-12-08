@@ -26,9 +26,9 @@ void async function () {
   const { positionMilestones, starsMilestones } = await fs.readJson('data.json');
 
   const positionMilestone = { [calculateFlooringMilestone(position, 2)]: new Date().toISOString() };
-  console.log(`The position milestones is ${calculateFlooringMilestone(position, 2)}`);
+  console.log(`The position milestone is ${calculateFlooringMilestone(position, 2)}`);
   const starsMilestone = { [calculateCeilingMilestone(stars, 2)]: new Date().toISOString() };
-  console.log(`The stars milestones is ${calculateCeilingMilestone(stars, 2)}`);
+  console.log(`The stars milestone is ${calculateCeilingMilestone(stars, 2)}`);
 
   await fs.writeJson('data.json', {
     position,
