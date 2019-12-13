@@ -33,8 +33,6 @@ a {
 
 #starsMilestonesDiv p:first-of-type {
   color: gray;
-  text-decoration: underline;
-  text-decoration-color: transparent;
 }
 
 #copyrightP {

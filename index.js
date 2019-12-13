@@ -26,7 +26,7 @@ window.addEventListener('load', async () => {
   const positionMilestoneGapStrong = document.createElement('strong');
   positionMilestoneGapStrong.textContent = json.positionMilestoneToGo.milestone;
   positionMilestoneGapP.append(positionMilestoneGapStrong);
-  positionMilestoneGapP.append(` ${json.positionMilestoneToGo.gap} to go (${json.positionMilestoneToGo.stars - json.stars} ★)`);
+  positionMilestoneGapP.append(` ${json.positionMilestoneToGo.gap} spots (${json.positionMilestoneToGo.stars - json.stars} ★) to go`);
   positionMilestonesDiv.append(positionMilestoneGapP);
   const positionMilestones = Object.keys(json.positionMilestones).sort((a, b) => a.localeCompare(b));
   for (const positionMilestone of positionMilestones) {
@@ -43,7 +43,7 @@ window.addEventListener('load', async () => {
   const starsMilestoneGapStrong = document.createElement('strong');
   starsMilestoneGapStrong.textContent = json.starsMilestoneToGo.milestone;
   starsMilestoneGapP.append(starsMilestoneGapStrong);
-  starsMilestoneGapP.append(` ${json.starsMilestoneToGo.gap} to go`);
+  starsMilestoneGapP.append(` ${json.starsMilestoneToGo.gap} ★ to go`);
   starsMilestonesDiv.append(starsMilestoneGapP);
   const starsMilestones = Object.keys(json.starsMilestones).sort((a, b) => b.localeCompare(a));
   for (const starsMilestone of starsMilestones) {
