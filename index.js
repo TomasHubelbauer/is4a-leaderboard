@@ -22,6 +22,7 @@ window.addEventListener('load', async () => {
 
   const positionMilestonesDiv = document.getElementById('positionMilestonesDiv');
   const positionMilestoneGapP = document.createElement('p');
+  positionMilestoneGapP.title = json.positionMilestoneToGo.name;
   const positionMilestoneGapStrong = document.createElement('strong');
   positionMilestoneGapStrong.textContent = json.positionMilestoneToGo.milestone;
   positionMilestoneGapP.append(positionMilestoneGapStrong);

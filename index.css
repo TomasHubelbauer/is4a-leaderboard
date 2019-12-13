@@ -27,6 +27,8 @@ a {
 
 #positionMilestonesDiv p:first-of-type {
   color: gray;
+  text-decoration: underline;
+  text-decoration-style: dashed;
 }
 
 #starsMilestonesDiv p:first-of-type {

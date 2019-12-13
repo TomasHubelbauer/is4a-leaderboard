@@ -35,6 +35,7 @@ void async function () {
   const contender = items[positionMilestoneToGo.gap];
   console.log(`At position milestone ${positionMilestoneToGo.milestone}, ${contender.full_name} has ${contender.stargazers_count} stars`);
   positionMilestoneToGo.stars = contender.stargazers_count;
+  positionMilestoneToGo.name = contender.full_name;
 
   const { milestone: currentStarsMilestone, gap: starsMilestoneGap } = calculateCeilingMilestone(stars, 2);
   const starsMilestone = { [currentStarsMilestone]: new Date().toISOString() };
