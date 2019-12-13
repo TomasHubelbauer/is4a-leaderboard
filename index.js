@@ -58,4 +58,11 @@ window.addEventListener('load', async () => {
     milestoneP.append(' ', new Date(json.starsMilestones[starsMilestone]).toLocaleDateString());
     starsMilestonesDiv.append(milestoneP);
   }
+
+  const realtimeResponse = await fetch('https://api.github.com/repos/skoruba/IdentityServer4.Admin');
+  const realtimeJson = await realtimeResponse.json();
+  if (json.stars !== realtimeJson.stargazers_count) {
+    document.getElementById('starsSpan').textContent = json.stars;
+    document.getElementById('realtimeNoticeP').className = 'on';
+  }
 });

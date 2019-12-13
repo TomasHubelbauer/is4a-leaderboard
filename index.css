@@ -7,6 +7,14 @@ a {
   text-decoration: none;
 }
 
+#realtimeNoticeP {
+  display: none;
+}
+
+#realtimeNoticeP.on {
+  display: initial;
+}
+
 #positionSpan {
   font-size: 300px;
 }
