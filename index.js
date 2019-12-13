@@ -21,24 +21,36 @@ window.addEventListener('load', async () => {
   contendersSpan.append(document.createTextNode(` (${json.stars + json.gap} ★)`));
 
   const positionMilestonesDiv = document.getElementById('positionMilestonesDiv');
+  const positionMilestoneGapP = document.createElement('p');
+  const positionMilestoneGapStrong = document.createElement('strong');
+  positionMilestoneGapStrong.textContent = json.positionMilestoneToGo.milestone;
+  positionMilestoneGapP.append(positionMilestoneGapStrong);
+  positionMilestoneGapP.append(` ${json.positionMilestoneToGo.gap} to go (${json.positionMilestoneToGo.stars - json.stars} ★)`);
+  positionMilestonesDiv.append(positionMilestoneGapP);
   const positionMilestones = Object.keys(json.positionMilestones).sort((a, b) => a.localeCompare(b));
   for (const positionMilestone of positionMilestones) {
-    const milestoneDiv = document.createElement('p');
+    const milestoneP = document.createElement('p');
     const milestoneStrong = document.createElement('strong');
     milestoneStrong.textContent = positionMilestone;
-    positionMilestonesDiv.append(milestoneStrong);
-    positionMilestonesDiv.append(document.createTextNode(' ' + new Date(json.positionMilestones[positionMilestone]).toLocaleDateString()));
-    positionMilestonesDiv.append(milestoneDiv);
+    milestoneP.append(milestoneStrong);
+    milestoneP.append(' ' + new Date(json.positionMilestones[positionMilestone]).toLocaleDateString());
+    positionMilestonesDiv.append(milestoneP);
   }
 
   const starsMilestonesDiv = document.getElementById('starsMilestonesDiv');
+  const starsMilestoneGapP = document.createElement('p');
+  const starsMilestoneGapStrong = document.createElement('strong');
+  starsMilestoneGapStrong.textContent = json.starsMilestoneToGo.milestone;
+  starsMilestoneGapP.append(starsMilestoneGapStrong);
+  starsMilestoneGapP.append(` ${json.starsMilestoneToGo.gap} to go`);
+  starsMilestonesDiv.append(starsMilestoneGapP);
   const starsMilestones = Object.keys(json.starsMilestones).sort((a, b) => b.localeCompare(a));
   for (const starsMilestone of starsMilestones) {
-    const milestoneDiv = document.createElement('p');
+    const milestoneP = document.createElement('p');
     const milestoneStrong = document.createElement('strong');
     milestoneStrong.textContent = starsMilestone;
-    starsMilestonesDiv.append(milestoneStrong);
-    starsMilestonesDiv.append(document.createTextNode(' ' + new Date(json.starsMilestones[starsMilestone]).toLocaleDateString()));
-    starsMilestonesDiv.append(milestoneDiv);
+    milestoneP.append(milestoneStrong);
+    milestoneP.append(' ' + new Date(json.starsMilestones[starsMilestone]).toLocaleDateString());
+    starsMilestonesDiv.append(milestoneP);
   }
 });

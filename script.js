@@ -25,10 +25,22 @@ void async function () {
 
   const { positionMilestones, starsMilestones } = await fs.readJson('data.json');
 
-  const positionMilestone = { [calculateFlooringMilestone(position, 2)]: new Date().toISOString() };
-  console.log(`The position milestone is ${calculateFlooringMilestone(position, 2)}`);
-  const starsMilestone = { [calculateCeilingMilestone(stars, 2)]: new Date().toISOString() };
-  console.log(`The stars milestone is ${calculateCeilingMilestone(stars, 2)}`);
+  const { milestone: currentPositionMilestone, gap: positionMilestoneGap } = calculateFlooringMilestone(position, 2);
+  const positionMilestone = { [currentPositionMilestone]: new Date().toISOString() };
+  console.log(`The position milestone is ${currentPositionMilestone}`);
+  console.log(`${positionMilestoneGap} to position milestone ${position - positionMilestoneGap}`);
+  const positionMilestoneToGo = { milestone: position - positionMilestoneGap, gap: positionMilestoneGap };
+
+  // Find the star contender at the position milestone break to see how many stars to reach them
+  const contender = items[positionMilestoneToGo.gap];
+  console.log(`At position milestone ${positionMilestoneToGo.milestone}, ${contender.full_name} has ${contender.stargazers_count} stars`);
+  positionMilestoneToGo.stars = contender.stargazers_count;
+
+  const { milestone: currentStarsMilestone, gap: starsMilestoneGap } = calculateCeilingMilestone(stars, 2);
+  const starsMilestone = { [currentStarsMilestone]: new Date().toISOString() };
+  console.log(`The stars milestone is ${currentStarsMilestone}`);
+  console.log(`${starsMilestoneGap} to stars milestone ${stars + starsMilestoneGap}`);
+  const starsMilestoneToGo = { milestone: stars + starsMilestoneGap, gap: starsMilestoneGap };
 
   await fs.writeJson('data.json', {
     position,
@@ -41,11 +53,13 @@ void async function () {
       // Preserve all the existing milestones replacing the above one if not new
       ...positionMilestones,
     },
+    positionMilestoneToGo,
     starsMilestones: {
       // Write the calculated milestone first so it gets replaced if it existed
       ...starsMilestone,
       // Preserve all the existing milestones replacing the above one if not new
       ...starsMilestones,
     },
+    starsMilestoneToGo
   }, { spaces: 2 });
 }()

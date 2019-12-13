@@ -25,6 +25,14 @@ a {
   flex: 1;
 }
 
+#positionMilestonesDiv p:first-of-type {
+  color: gray;
+}
+
+#starsMilestonesDiv p:first-of-type {
+  color: gray;
+}
+
 #copyrightP {
   border-top: 1px solid silver;
   margin: 10ex auto auto;

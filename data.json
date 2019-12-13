@@ -1,7 +1,7 @@
 {
   "position": 378,
-  "stars": 1318,
-  "gap": 2,
+  "stars": 1319,
+  "gap": 1,
   "contenders": [
     {
       "name": "praeclarum/Ooui",
@@ -12,8 +12,17 @@
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
+  "positionMilestoneToGo": {
+    "milestone": 370,
+    "gap": 8,
+    "stars": 1336
+  },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
     "1300": "2019-12-05T02:01:39.753Z"
+  },
+  "starsMilestoneToGo": {
+    "milestone": 1400,
+    "gap": 81
   }
 }
