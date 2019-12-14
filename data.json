@@ -1,8 +1,12 @@
 {
-  "position": 378,
+  "position": 379,
   "stars": 1320,
   "gap": 1,
   "contenders": [
+    {
+      "name": "confluentinc/confluent-kafka-dotnet",
+      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
+    },
     {
       "name": "praeclarum/Ooui",
       "link": "https://github.com/praeclarum/Ooui"
@@ -18,7 +22,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 8,
+    "gap": 9,
     "stars": 1338,
     "name": "GavinYellow/SharpSCADA"
   },
