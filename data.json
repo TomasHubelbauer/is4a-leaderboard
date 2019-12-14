@@ -1,11 +1,11 @@
 {
-  "position": 378,
-  "stars": 1319,
+  "position": 377,
+  "stars": 1320,
   "gap": 1,
   "contenders": [
     {
-      "name": "praeclarum/Ooui",
-      "link": "https://github.com/praeclarum/Ooui"
+      "name": "zzzprojects/EntityFramework-Plus",
+      "link": "https://github.com/zzzprojects/EntityFramework-Plus"
     }
   ],
   "positionMilestones": {
@@ -14,7 +14,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 8,
+    "gap": 7,
     "stars": 1338,
     "name": "GavinYellow/SharpSCADA"
   },
@@ -24,6 +24,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 81
+    "gap": 80
   }
 }
