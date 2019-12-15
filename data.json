@@ -6,10 +6,6 @@
     {
       "name": "confluentinc/confluent-kafka-dotnet",
       "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
-    },
-    {
-      "name": "zzzprojects/EntityFramework-Plus",
-      "link": "https://github.com/zzzprojects/EntityFramework-Plus"
     }
   ],
   "positionMilestones": {
