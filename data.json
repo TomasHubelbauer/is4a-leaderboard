@@ -1,7 +1,7 @@
 {
   "position": 380,
   "stars": 1320,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "aspnet/Extensions",
