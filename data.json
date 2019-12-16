@@ -6,10 +6,6 @@
     {
       "name": "aspnet/Extensions",
       "link": "https://github.com/aspnet/Extensions"
-    },
-    {
-      "name": "confluentinc/confluent-kafka-dotnet",
-      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
     }
   ],
   "positionMilestones": {
