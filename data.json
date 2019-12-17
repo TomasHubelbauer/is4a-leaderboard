@@ -1,11 +1,19 @@
 {
   "position": 380,
   "stars": 1320,
-  "gap": 3,
+  "gap": 4,
   "contenders": [
+    {
+      "name": "aspnet/Extensions",
+      "link": "https://github.com/aspnet/Extensions"
+    },
     {
       "name": "confluentinc/confluent-kafka-dotnet",
       "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
+    },
+    {
+      "name": "praeclarum/Ooui",
+      "link": "https://github.com/praeclarum/Ooui"
     }
   ],
   "positionMilestones": {
