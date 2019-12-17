@@ -11,6 +11,10 @@ a {
   font-size: 300px;
 }
 
+#realtimeP {
+  color: gray;
+}
+
 #gapSpan {
   font-size: 100px;
 }
