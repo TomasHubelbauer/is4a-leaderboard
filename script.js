@@ -31,6 +31,15 @@ void async function () {
   console.log(`${positionMilestoneGap} to position milestone ${position - positionMilestoneGap}`);
   const positionMilestoneToGo = { milestone: position - positionMilestoneGap, gap: positionMilestoneGap };
 
+  // Remove position milestones which are ahead of the current position
+  // Note that can happen either because the repository regressed in stars or because the GitHub API freaks out (rare)
+  for (const milestonePosition of Object.keys(positionMilestones)) {
+    if (Number(milestonePosition) < position) {
+      delete positionMilestones[milestonePosition];
+      console.log('Deleted ahread position milestone ', milestonePosition);
+    }
+  }
+
   // Find the star contender at the position milestone break to see how many stars to reach them
   const contender = items[positionMilestoneToGo.gap];
   console.log(`At position milestone ${positionMilestoneToGo.milestone}, ${contender.full_name} has ${contender.stargazers_count} stars`);
@@ -43,7 +52,17 @@ void async function () {
   console.log(`${starsMilestoneGap} to stars milestone ${stars + starsMilestoneGap}`);
   const starsMilestoneToGo = { milestone: stars + starsMilestoneGap, gap: starsMilestoneGap };
 
+  // Remove stars milestones which are ahead of the current stars
+  // Note that can happen either because the repository regressed in stars or because the GitHub API freaks out (rare)
+  for (const milestoneStars of Object.keys(starsMilestones)) {
+    if (Number(milestoneStars) > stars) {
+      delete starsMilestones[milestoneStars];
+      console.log('Deleted ahread stars milestone ', milestoneStars);
+    }
+  }
+
   await fs.writeJson('data.json', {
+    dateAndTime: new Date().toISOString(),
     position,
     stars,
     gap,
