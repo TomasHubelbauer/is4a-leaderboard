@@ -23,8 +23,8 @@
   "positionMilestoneToGo": {
     "milestone": 370,
     "gap": 10,
-    "stars": 1340,
-    "name": "dotnetcore/NPOI"
+    "stars": 1341,
+    "name": "aws/aws-sdk-net"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
