@@ -59,7 +59,8 @@ window.addEventListener('load', async () => {
     starsMilestonesDiv.append(milestoneP);
   }
 
-  document.getElementById('realtimeP').textContent = `(accurate as of ${~~((new Date() - new Date(json.dateAndTime)) / 1000 / 60)} m ago)`;
+  const delayMinutes = ~~((new Date() - new Date(json.dateAndTime)) / 1000 / 60);
+  document.getElementById('realtimeP').textContent = `(accurate as of ${delayMinutes ? `${delayMinutes} m ago` : 'now'})`;
 
   const realtimeResponse = await fetch('https://api.github.com/repos/skoruba/IdentityServer4.Admin');
   const realtimeJson = await realtimeResponse.json();
