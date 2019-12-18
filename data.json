@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2019-12-18T03:01:31.596Z",
+  "dateAndTime": "2019-12-18T04:01:53.131Z",
   "position": 380,
   "stars": 1321,
   "gap": 3,
   "contenders": [
-    {
-      "name": "confluentinc/confluent-kafka-dotnet",
-      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
-    },
     {
       "name": "praeclarum/Ooui",
       "link": "https://github.com/praeclarum/Ooui"
