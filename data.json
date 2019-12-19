@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2019-12-19T13:02:26.259Z",
+  "dateAndTime": "2019-12-19T14:02:38.115Z",
   "position": 379,
   "stars": 1322,
   "gap": 2,
@@ -17,7 +17,7 @@
     "milestone": 370,
     "gap": 9,
     "stars": 1342,
-    "name": "ButchersBoy/Dragablz"
+    "name": "aws/aws-sdk-net"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
