@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-19T16:02:34.847Z",
+  "dateAndTime": "2019-12-19T17:02:36.023Z",
   "position": 379,
-  "stars": 1322,
-  "gap": 3,
+  "stars": 1323,
+  "gap": 2,
   "contenders": [
     {
       "name": "tmsmith/Dapper-Extensions",
@@ -21,7 +21,7 @@
     "milestone": 370,
     "gap": 9,
     "stars": 1342,
-    "name": "ButchersBoy/Dragablz"
+    "name": "aws/aws-sdk-net"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 78
+    "gap": 77
   }
 }
