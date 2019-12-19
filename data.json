@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2019-12-19T14:02:38.115Z",
+  "dateAndTime": "2019-12-19T15:02:46.800Z",
   "position": 379,
   "stars": 1322,
-  "gap": 2,
+  "gap": 3,
   "contenders": [
+    {
+      "name": "tmsmith/Dapper-Extensions",
+      "link": "https://github.com/tmsmith/Dapper-Extensions"
+    },
     {
       "name": "praeclarum/Ooui",
       "link": "https://github.com/praeclarum/Ooui"
@@ -17,7 +21,7 @@
     "milestone": 370,
     "gap": 9,
     "stars": 1342,
-    "name": "aws/aws-sdk-net"
+    "name": "ButchersBoy/Dragablz"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
