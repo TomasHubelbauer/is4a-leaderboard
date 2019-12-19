@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2019-12-19T20:02:39.405Z",
-  "position": 379,
+  "dateAndTime": "2019-12-19T21:02:40.756Z",
+  "position": 339,
   "stars": 1323,
   "gap": 2,
   "contenders": [
@@ -14,14 +14,15 @@
     }
   ],
   "positionMilestones": {
+    "340": "2019-12-19T21:02:40.756Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 370,
+    "milestone": 330,
     "gap": 9,
-    "stars": 1342,
-    "name": "aws/aws-sdk-net"
+    "stars": 1343,
+    "name": "markrendle/Simple.Data"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
