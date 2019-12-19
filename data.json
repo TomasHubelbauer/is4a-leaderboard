@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2019-12-19T11:02:31.967Z",
-  "position": 380,
+  "dateAndTime": "2019-12-19T12:02:50.104Z",
+  "position": 379,
   "stars": 1322,
   "gap": 2,
   "contenders": [
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 10,
+    "gap": 9,
     "stars": 1342,
     "name": "aws/aws-sdk-net"
   },
