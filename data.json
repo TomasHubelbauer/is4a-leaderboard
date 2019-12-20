@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2019-12-20T02:02:52.274Z",
+  "dateAndTime": "2019-12-20T03:02:41.934Z",
   "position": 379,
-  "stars": 1323,
-  "gap": 2,
+  "stars": 1324,
+  "gap": 1,
   "contenders": [
-    {
-      "name": "tmsmith/Dapper-Extensions",
-      "link": "https://github.com/tmsmith/Dapper-Extensions"
-    },
     {
       "name": "praeclarum/Ooui",
       "link": "https://github.com/praeclarum/Ooui"
@@ -29,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 77
+    "gap": 76
   }
 }
