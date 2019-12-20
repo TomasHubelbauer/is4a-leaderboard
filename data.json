@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-20T14:02:55.297Z",
+  "dateAndTime": "2019-12-20T15:02:47.184Z",
   "position": 377,
-  "stars": 1327,
-  "gap": 2,
+  "stars": 1328,
+  "gap": 1,
   "contenders": [
     {
       "name": "zzzprojects/EntityFramework-Plus",
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 73
+    "gap": 72
   }
 }
