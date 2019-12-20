@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-20T07:02:45.943Z",
-  "position": 379,
-  "stars": 1324,
-  "gap": 1,
+  "dateAndTime": "2019-12-20T08:03:05.809Z",
+  "position": 377,
+  "stars": 1326,
+  "gap": 3,
   "contenders": [
     {
-      "name": "praeclarum/Ooui",
-      "link": "https://github.com/praeclarum/Ooui"
+      "name": "zzzprojects/EntityFramework-Plus",
+      "link": "https://github.com/zzzprojects/EntityFramework-Plus"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 9,
+    "gap": 7,
     "stars": 1342,
     "name": "aws/aws-sdk-net"
   },
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 76
+    "gap": 74
   }
 }
