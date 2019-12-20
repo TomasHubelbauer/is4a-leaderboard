@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2019-12-20T09:02:21.163Z",
+  "dateAndTime": "2019-12-20T10:02:25.228Z",
   "position": 377,
   "stars": 1326,
   "gap": 3,
@@ -16,8 +16,8 @@
   "positionMilestoneToGo": {
     "milestone": 370,
     "gap": 7,
-    "stars": 1342,
-    "name": "aws/aws-sdk-net"
+    "stars": 1343,
+    "name": "markrendle/Simple.Data"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
