@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-21T17:02:49.180Z",
-  "position": 376,
-  "stars": 1330,
-  "gap": 1,
+  "dateAndTime": "2019-12-21T18:02:39.872Z",
+  "position": 375,
+  "stars": 1331,
+  "gap": 3,
   "contenders": [
     {
-      "name": "zzzprojects/EntityFramework-Plus",
-      "link": "https://github.com/zzzprojects/EntityFramework-Plus"
+      "name": "PowerShell/PSReadLine",
+      "link": "https://github.com/PowerShell/PSReadLine"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 6,
+    "gap": 5,
     "stars": 1343,
     "name": "dotnetcore/NPOI"
   },
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 70
+    "gap": 69
   }
 }
