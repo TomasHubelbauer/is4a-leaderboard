@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2019-12-21T14:02:42.128Z",
+  "dateAndTime": "2019-12-21T15:02:39.277Z",
   "position": 376,
   "stars": 1330,
   "gap": 1,
@@ -17,7 +17,7 @@
     "milestone": 370,
     "gap": 6,
     "stars": 1343,
-    "name": "markrendle/Simple.Data"
+    "name": "dotnetcore/NPOI"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
