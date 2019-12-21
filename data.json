@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-21T11:02:41.369Z",
-  "position": 377,
-  "stars": 1329,
+  "dateAndTime": "2019-12-21T12:02:56.928Z",
+  "position": 376,
+  "stars": 1330,
   "gap": 1,
   "contenders": [
     {
-      "name": "confluentinc/confluent-kafka-dotnet",
-      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
+      "name": "zzzprojects/EntityFramework-Plus",
+      "link": "https://github.com/zzzprojects/EntityFramework-Plus"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 7,
+    "gap": 6,
     "stars": 1343,
     "name": "markrendle/Simple.Data"
   },
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 71
+    "gap": 70
   }
 }
