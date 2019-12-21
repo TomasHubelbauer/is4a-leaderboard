@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2019-12-21T01:02:44.985Z",
+  "dateAndTime": "2019-12-21T02:02:56.955Z",
   "position": 377,
   "stars": 1329,
   "gap": 1,
@@ -7,10 +7,6 @@
     {
       "name": "confluentinc/confluent-kafka-dotnet",
       "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
-    },
-    {
-      "name": "zzzprojects/EntityFramework-Plus",
-      "link": "https://github.com/zzzprojects/EntityFramework-Plus"
     }
   ],
   "positionMilestones": {
