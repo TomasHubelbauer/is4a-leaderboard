@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2019-12-22T14:02:31.459Z",
-  "position": 376,
+  "dateAndTime": "2019-12-22T15:02:39.054Z",
+  "position": 375,
   "stars": 1331,
   "gap": 1,
   "contenders": [
@@ -15,9 +15,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 6,
+    "gap": 5,
     "stars": 1343,
-    "name": "dotnetcore/NPOI"
+    "name": "markrendle/Simple.Data"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
