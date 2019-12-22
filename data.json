@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-22T21:02:51.099Z",
-  "position": 375,
-  "stars": 1332,
+  "dateAndTime": "2019-12-22T22:02:46.828Z",
+  "position": 374,
+  "stars": 1333,
   "gap": 1,
   "contenders": [
     {
-      "name": "confluentinc/confluent-kafka-dotnet",
-      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
+      "name": "PowerShell/PSReadLine",
+      "link": "https://github.com/PowerShell/PSReadLine"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 5,
+    "gap": 4,
     "stars": 1344,
     "name": "Cenmrev/V2RayW"
   },
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 68
+    "gap": 67
   }
 }
