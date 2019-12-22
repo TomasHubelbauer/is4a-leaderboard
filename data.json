@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-22T05:02:54.677Z",
-  "position": 375,
+  "dateAndTime": "2019-12-22T06:03:04.931Z",
+  "position": 376,
   "stars": 1331,
-  "gap": 3,
+  "gap": 1,
   "contenders": [
     {
-      "name": "PowerShell/PSReadLine",
-      "link": "https://github.com/PowerShell/PSReadLine"
+      "name": "confluentinc/confluent-kafka-dotnet",
+      "link": "https://github.com/confluentinc/confluent-kafka-dotnet"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 5,
+    "gap": 6,
     "stars": 1343,
     "name": "dotnetcore/NPOI"
   },
