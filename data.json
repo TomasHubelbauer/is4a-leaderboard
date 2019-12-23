@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2019-12-23T07:02:29.835Z",
+  "dateAndTime": "2019-12-23T08:02:36.264Z",
   "position": 373,
   "stars": 1335,
   "gap": 3,
@@ -17,7 +17,7 @@
     "milestone": 370,
     "gap": 3,
     "stars": 1344,
-    "name": "Cenmrev/V2RayW"
+    "name": "dotnetcore/NPOI"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
