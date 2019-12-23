@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-23T02:02:44.817Z",
+  "dateAndTime": "2019-12-23T03:02:57.794Z",
   "position": 373,
-  "stars": 1334,
-  "gap": 4,
+  "stars": 1335,
+  "gap": 3,
   "contenders": [
     {
       "name": "i-saint/Unity5Effects",
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 66
+    "gap": 65
   }
 }
