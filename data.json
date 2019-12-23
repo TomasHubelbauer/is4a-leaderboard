@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-23T01:02:49.449Z",
-  "position": 374,
-  "stars": 1333,
-  "gap": 1,
+  "dateAndTime": "2019-12-23T02:02:44.817Z",
+  "position": 373,
+  "stars": 1334,
+  "gap": 4,
   "contenders": [
     {
-      "name": "PowerShell/PSReadLine",
-      "link": "https://github.com/PowerShell/PSReadLine"
+      "name": "i-saint/Unity5Effects",
+      "link": "https://github.com/i-saint/Unity5Effects"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 4,
+    "gap": 3,
     "stars": 1344,
     "name": "Cenmrev/V2RayW"
   },
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 67
+    "gap": 66
   }
 }
