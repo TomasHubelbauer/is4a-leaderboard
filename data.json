@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2019-12-24T17:02:42.076Z",
+  "dateAndTime": "2019-12-24T18:02:36.588Z",
   "position": 372,
   "stars": 1339,
-  "gap": 4,
+  "gap": 5,
   "contenders": [
+    {
+      "name": "markrendle/Simple.Data",
+      "link": "https://github.com/markrendle/Simple.Data"
+    },
     {
       "name": "aspnet/Extensions",
       "link": "https://github.com/aspnet/Extensions"
