@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-24T06:02:23.667Z",
+  "dateAndTime": "2019-12-24T07:02:32.899Z",
   "position": 372,
-  "stars": 1338,
-  "gap": 5,
+  "stars": 1339,
+  "gap": 4,
   "contenders": [
     {
       "name": "aspnet/Extensions",
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 62
+    "gap": 61
   }
 }
