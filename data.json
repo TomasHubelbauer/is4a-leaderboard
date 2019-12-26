@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-26T13:02:38.617Z",
+  "dateAndTime": "2019-12-26T14:02:40.071Z",
   "position": 372,
-  "stars": 1340,
-  "gap": 3,
+  "stars": 1341,
+  "gap": 2,
   "contenders": [
     {
       "name": "markrendle/Simple.Data",
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 60
+    "gap": 59
   }
 }
