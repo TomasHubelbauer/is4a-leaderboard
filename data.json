@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-27T17:02:52.765Z",
-  "position": 372,
-  "stars": 1343,
-  "gap": 1,
+  "dateAndTime": "2019-12-27T18:02:42.984Z",
+  "position": 371,
+  "stars": 1344,
+  "gap": 2,
   "contenders": [
     {
-      "name": "markrendle/Simple.Data",
-      "link": "https://github.com/markrendle/Simple.Data"
+      "name": "ButchersBoy/Dragablz",
+      "link": "https://github.com/ButchersBoy/Dragablz"
     }
   ],
   "positionMilestones": {
@@ -15,7 +15,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 370,
-    "gap": 2,
+    "gap": 1,
     "stars": 1347,
     "name": "dotnet/corefxlab"
   },
@@ -25,6 +25,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 57
+    "gap": 56
   }
 }
