@@ -1,31 +1,24 @@
 {
-  "dateAndTime": "2019-12-29T05:02:32.822Z",
-  "position": 371,
-  "stars": 1346,
+  "dateAndTime": "2019-12-29T06:02:38.211Z",
+  "position": 368,
+  "stars": 1347,
   "gap": 1,
   "contenders": [
     {
-      "name": "dotnet/corefxlab",
-      "link": "https://github.com/dotnet/corefxlab"
-    },
-    {
-      "name": "ButchersBoy/Dragablz",
-      "link": "https://github.com/ButchersBoy/Dragablz"
-    },
-    {
-      "name": "dotnetcore/NPOI",
-      "link": "https://github.com/dotnetcore/NPOI"
+      "name": "aws/aws-sdk-net",
+      "link": "https://github.com/aws/aws-sdk-net"
     }
   ],
   "positionMilestones": {
+    "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 370,
-    "gap": 1,
-    "stars": 1347,
-    "name": "ButchersBoy/Dragablz"
+    "milestone": 360,
+    "gap": 8,
+    "stars": 1372,
+    "name": "UnityTech/UIWidgets"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -33,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 54
+    "gap": 53
   }
 }
