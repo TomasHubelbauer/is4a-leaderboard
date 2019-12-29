@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-29T09:02:37.653Z",
+  "dateAndTime": "2019-12-29T10:02:39.880Z",
   "position": 367,
   "stars": 1348,
-  "gap": 4,
+  "gap": 5,
   "contenders": [
     {
       "name": "eventflow/EventFlow",
