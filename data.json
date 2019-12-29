@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2019-12-29T03:02:24.408Z",
-  "position": 370,
+  "dateAndTime": "2019-12-29T04:02:32.772Z",
+  "position": 371,
   "stars": 1346,
   "gap": 1,
   "contenders": [
@@ -9,20 +9,23 @@
       "link": "https://github.com/dotnet/corefxlab"
     },
     {
+      "name": "ButchersBoy/Dragablz",
+      "link": "https://github.com/ButchersBoy/Dragablz"
+    },
+    {
       "name": "dotnetcore/NPOI",
       "link": "https://github.com/dotnetcore/NPOI"
     }
   ],
   "positionMilestones": {
-    "370": "2019-12-29T03:02:24.407Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 360,
-    "gap": 10,
-    "stars": 1372,
-    "name": "UnityTech/UIWidgets"
+    "milestone": 370,
+    "gap": 1,
+    "stars": 1347,
+    "name": "ButchersBoy/Dragablz"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
