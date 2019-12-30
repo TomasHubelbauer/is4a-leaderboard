@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-30T01:02:39.390Z",
-  "position": 368,
-  "stars": 1348,
-  "gap": 1,
+  "dateAndTime": "2019-12-30T02:02:23.605Z",
+  "position": 367,
+  "stars": 1349,
+  "gap": 4,
   "contenders": [
     {
-      "name": "dotnetcore/NPOI",
-      "link": "https://github.com/dotnetcore/NPOI"
+      "name": "eventflow/EventFlow",
+      "link": "https://github.com/eventflow/EventFlow"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 8,
+    "gap": 7,
     "stars": 1373,
     "name": "UnityTech/UIWidgets"
   },
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 52
+    "gap": 51
   }
 }
