@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2019-12-30T12:02:52.332Z",
+  "dateAndTime": "2019-12-30T13:02:44.952Z",
   "position": 368,
   "stars": 1349,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "dotnetcore/NPOI",
