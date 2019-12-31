@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2019-12-31T13:02:49.085Z",
-  "position": 368,
+  "dateAndTime": "2019-12-31T14:02:57.815Z",
+  "position": 369,
   "stars": 1349,
-  "gap": 2,
+  "gap": 1,
   "contenders": [
     {
-      "name": "dotnetcore/NPOI",
-      "link": "https://github.com/dotnetcore/NPOI"
+      "name": "ButchersBoy/Dragablz",
+      "link": "https://github.com/ButchersBoy/Dragablz"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 8,
+    "gap": 9,
     "stars": 1373,
     "name": "xamarin/ios-samples"
   },
