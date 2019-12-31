@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2019-12-31T16:02:46.332Z",
-  "position": 369,
+  "dateAndTime": "2019-12-31T17:02:49.613Z",
+  "position": 370,
   "stars": 1349,
   "gap": 1,
   "contenders": [
+    {
+      "name": "aws/aws-sdk-net",
+      "link": "https://github.com/aws/aws-sdk-net"
+    },
     {
       "name": "ButchersBoy/Dragablz",
       "link": "https://github.com/ButchersBoy/Dragablz"
@@ -16,7 +20,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 9,
+    "gap": 10,
     "stars": 1373,
     "name": "xamarin/ios-samples"
   },
