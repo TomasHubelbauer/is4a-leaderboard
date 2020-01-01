@@ -1,16 +1,16 @@
 {
-  "dateAndTime": "2020-01-01T05:02:31.649Z",
+  "dateAndTime": "2020-01-01T06:02:49.771Z",
   "position": 370,
   "stars": 1349,
   "gap": 1,
   "contenders": [
     {
-      "name": "aws/aws-sdk-net",
-      "link": "https://github.com/aws/aws-sdk-net"
-    },
-    {
       "name": "ButchersBoy/Dragablz",
       "link": "https://github.com/ButchersBoy/Dragablz"
+    },
+    {
+      "name": "aws/aws-sdk-net",
+      "link": "https://github.com/aws/aws-sdk-net"
     }
   ],
   "positionMilestones": {
