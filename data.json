@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-02T16:02:32.983Z",
-  "position": 367,
-  "stars": 1352,
-  "gap": 4,
+  "dateAndTime": "2020-01-02T17:02:26.943Z",
+  "position": 366,
+  "stars": 1353,
+  "gap": 3,
   "contenders": [
     {
       "name": "xamarin/xamarin-android",
@@ -16,9 +16,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 7,
-    "stars": 1373,
-    "name": "xamarin/ios-samples"
+    "gap": 6,
+    "stars": 1370,
+    "name": "GavinYellow/SharpSCADA"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 48
+    "gap": 47
   }
 }
