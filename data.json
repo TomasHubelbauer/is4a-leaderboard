@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-02T06:02:35.404Z",
+  "dateAndTime": "2020-01-02T07:02:38.018Z",
   "position": 368,
-  "stars": 1350,
-  "gap": 2,
+  "stars": 1351,
+  "gap": 1,
   "contenders": [
     {
       "name": "dotnetcore/NPOI",
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 50
+    "gap": 49
   }
 }
