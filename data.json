@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-02T01:02:30.251Z",
-  "position": 369,
-  "stars": 1349,
-  "gap": 1,
+  "dateAndTime": "2020-01-02T02:02:36.966Z",
+  "position": 368,
+  "stars": 1350,
+  "gap": 2,
   "contenders": [
     {
-      "name": "aws/aws-sdk-net",
-      "link": "https://github.com/aws/aws-sdk-net"
+      "name": "dotnetcore/NPOI",
+      "link": "https://github.com/dotnetcore/NPOI"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 9,
+    "gap": 8,
     "stars": 1373,
     "name": "xamarin/ios-samples"
   },
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 51
+    "gap": 50
   }
 }
