@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-03T06:02:38.178Z",
+  "dateAndTime": "2020-01-03T07:02:35.992Z",
   "position": 366,
   "stars": 1353,
   "gap": 3,
@@ -17,7 +17,7 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 6,
-    "stars": 1372,
+    "stars": 1373,
     "name": "GavinYellow/SharpSCADA"
   },
   "starsMilestones": {
