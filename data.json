@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-03T10:02:50.807Z",
+  "dateAndTime": "2020-01-03T11:02:40.959Z",
   "position": 366,
-  "stars": 1354,
-  "gap": 2,
+  "stars": 1355,
+  "gap": 1,
   "contenders": [
     {
       "name": "xamarin/xamarin-android",
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 46
+    "gap": 45
   }
 }
