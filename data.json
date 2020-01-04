@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-01-04T13:02:42.683Z",
+  "dateAndTime": "2020-01-04T14:02:33.630Z",
   "position": 366,
-  "stars": 1355,
-  "gap": 2,
+  "stars": 1356,
+  "gap": 1,
   "contenders": [
     {
       "name": "eventflow/EventFlow",
       "link": "https://github.com/eventflow/EventFlow"
+    },
+    {
+      "name": "liangxiegame/QFramework",
+      "link": "https://github.com/liangxiegame/QFramework"
     },
     {
       "name": "xamarin/xamarin-android",
@@ -30,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 45
+    "gap": 44
   }
 }
