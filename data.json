@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-01-04T11:02:31.921Z",
+  "dateAndTime": "2020-01-04T12:02:52.366Z",
   "position": 366,
   "stars": 1355,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
+    {
+      "name": "eventflow/EventFlow",
+      "link": "https://github.com/eventflow/EventFlow"
+    },
     {
       "name": "xamarin/xamarin-android",
       "link": "https://github.com/xamarin/xamarin-android"
