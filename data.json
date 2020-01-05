@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-05T04:02:28.581Z",
+  "dateAndTime": "2020-01-05T05:02:36.829Z",
   "position": 367,
   "stars": 1356,
   "gap": 1,
@@ -15,10 +15,6 @@
     {
       "name": "xamarin/xamarin-android",
       "link": "https://github.com/xamarin/xamarin-android"
-    },
-    {
-      "name": "anjoy8/Blog.Core",
-      "link": "https://github.com/anjoy8/Blog.Core"
     }
   ],
   "positionMilestones": {
@@ -29,7 +25,7 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 7,
-    "stars": 1373,
+    "stars": 1374,
     "name": "xamarin/ios-samples"
   },
   "starsMilestones": {
