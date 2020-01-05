@@ -1,20 +1,12 @@
 {
-  "dateAndTime": "2020-01-05T06:02:37.274Z",
-  "position": 367,
-  "stars": 1356,
+  "dateAndTime": "2020-01-05T07:02:38.877Z",
+  "position": 364,
+  "stars": 1357,
   "gap": 1,
   "contenders": [
     {
-      "name": "eventflow/EventFlow",
-      "link": "https://github.com/eventflow/EventFlow"
-    },
-    {
-      "name": "liangxiegame/QFramework",
-      "link": "https://github.com/liangxiegame/QFramework"
-    },
-    {
-      "name": "xamarin/xamarin-android",
-      "link": "https://github.com/xamarin/xamarin-android"
+      "name": "anjoy8/Blog.Core",
+      "link": "https://github.com/anjoy8/Blog.Core"
     }
   ],
   "positionMilestones": {
@@ -24,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 7,
+    "gap": 4,
     "stars": 1374,
     "name": "xamarin/ios-samples"
   },
@@ -34,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 44
+    "gap": 43
   }
 }
