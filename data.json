@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-01-06T17:02:25.280Z",
+  "dateAndTime": "2020-01-06T18:02:34.377Z",
   "position": 364,
   "stars": 1361,
-  "gap": 7,
+  "gap": 8,
   "contenders": [
+    {
+      "name": "Cenmrev/V2RayW",
+      "link": "https://github.com/Cenmrev/V2RayW"
+    },
     {
       "name": "anjoy8/Blog.Core",
       "link": "https://github.com/anjoy8/Blog.Core"
