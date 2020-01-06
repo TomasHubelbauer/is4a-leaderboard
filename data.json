@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-06T06:14:26.914Z",
-  "position": 365,
-  "stars": 1358,
-  "gap": 1,
+  "dateAndTime": "2020-01-06T07:02:30.881Z",
+  "position": 364,
+  "stars": 1359,
+  "gap": 4,
   "contenders": [
     {
-      "name": "liangxiegame/QFramework",
-      "link": "https://github.com/liangxiegame/QFramework"
+      "name": "anjoy8/Blog.Core",
+      "link": "https://github.com/anjoy8/Blog.Core"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 5,
+    "gap": 4,
     "stars": 1374,
     "name": "xamarin/ios-samples"
   },
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 42
+    "gap": 41
   }
 }
