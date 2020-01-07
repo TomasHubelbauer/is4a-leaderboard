@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-01-07T14:02:40.429Z",
-  "position": 364,
+  "dateAndTime": "2020-01-07T15:02:44.986Z",
+  "position": 365,
   "stars": 1364,
   "gap": 6,
   "contenders": [
@@ -16,9 +16,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 4,
-    "stars": 1375,
-    "name": "ServiceStack/ServiceStack.OrmLite"
+    "gap": 5,
+    "stars": 1376,
+    "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
