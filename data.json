@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-07T01:02:43.388Z",
+  "dateAndTime": "2020-01-07T02:02:27.008Z",
   "position": 364,
   "stars": 1361,
   "gap": 8,
@@ -7,10 +7,6 @@
     {
       "name": "Cenmrev/V2RayW",
       "link": "https://github.com/Cenmrev/V2RayW"
-    },
-    {
-      "name": "anjoy8/Blog.Core",
-      "link": "https://github.com/anjoy8/Blog.Core"
     }
   ],
   "positionMilestones": {
