@@ -20,3 +20,5 @@ Locally you can run the backend using `npm start` and the frontend using `npm ru
 
 Ditch `data.json`, generate the HTML directly and in one file to both embed in the
 email notification and serve through GitHub Pages.
+
+### Generate a MarkDown readme section in addition to the email and web
