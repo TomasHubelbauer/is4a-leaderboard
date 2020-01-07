@@ -15,3 +15,8 @@ Remotely, the code runs hourly in a GitHub Actions workflow, see [`main.yml`](.g
 Locally you can run the backend using `npm start` and the frontend using `npm run serve`.
 
 ## To-Do
+
+### Generate the HTML output directly and use it for both email and web
+
+Ditch `data.json`, generate the HTML directly and in one file to both embed in the
+email notification and serve through GitHub Pages.
