@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-07T13:02:36.133Z",
-  "position": 364,
+  "dateAndTime": "2020-01-07T13:20:31.996Z",
+  "position": 365,
   "stars": 1363,
-  "gap": 7,
+  "gap": 1,
   "contenders": [
     {
-      "name": "Cenmrev/V2RayW",
-      "link": "https://github.com/Cenmrev/V2RayW"
+      "name": "liangxiegame/QFramework",
+      "link": "https://github.com/liangxiegame/QFramework"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 4,
+    "gap": 5,
     "stars": 1375,
     "name": "ServiceStack/ServiceStack.OrmLite"
   },
