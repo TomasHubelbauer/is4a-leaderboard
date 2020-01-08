@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-08T02:02:35.034Z",
+  "dateAndTime": "2020-01-08T03:02:21.540Z",
   "position": 365,
   "stars": 1365,
   "gap": 6,
@@ -21,8 +21,8 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 5,
-    "stars": 1377,
-    "name": "dotnet/extensions"
+    "stars": 1378,
+    "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
