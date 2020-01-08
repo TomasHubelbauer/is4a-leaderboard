@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-01-08T20:02:46.082Z",
-  "position": 365,
+  "dateAndTime": "2020-01-08T21:02:29.315Z",
+  "position": 366,
   "stars": 1366,
   "gap": 5,
   "contenders": [
@@ -16,9 +16,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 5,
-    "stars": 1383,
-    "name": "anjoy8/Blog.Core"
+    "gap": 6,
+    "stars": 1384,
+    "name": "GavinYellow/SharpSCADA"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
