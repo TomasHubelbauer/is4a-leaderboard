@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-09T09:02:40.798Z",
+  "dateAndTime": "2020-01-09T10:02:46.914Z",
   "position": 366,
-  "stars": 1368,
-  "gap": 3,
+  "stars": 1367,
+  "gap": 4,
   "contenders": [
     {
       "name": "Franiac/TwitchLeecher",
@@ -17,7 +17,7 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 6,
-    "stars": 1385,
+    "stars": 1386,
     "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 32
+    "gap": 33
   }
 }
