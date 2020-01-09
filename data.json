@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-09T13:02:42.988Z",
+  "dateAndTime": "2020-01-09T14:02:22.923Z",
   "position": 366,
   "stars": 1367,
   "gap": 4,
@@ -17,7 +17,7 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 6,
-    "stars": 1386,
+    "stars": 1387,
     "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
