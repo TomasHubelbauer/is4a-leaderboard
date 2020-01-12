@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-12T08:02:40.113Z",
+  "dateAndTime": "2020-01-12T09:02:34.694Z",
   "position": 366,
-  "stars": 1370,
-  "gap": 4,
+  "stars": 1371,
+  "gap": 3,
   "contenders": [
     {
       "name": "Franiac/TwitchLeecher",
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 30
+    "gap": 29
   }
 }
