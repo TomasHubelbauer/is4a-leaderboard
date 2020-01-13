@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-13T03:03:05.213Z",
+  "dateAndTime": "2020-01-13T04:03:08.577Z",
   "position": 366,
-  "stars": 1372,
-  "gap": 4,
+  "stars": 1373,
+  "gap": 3,
   "contenders": [
     {
       "name": "Franiac/TwitchLeecher",
@@ -17,7 +17,7 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 6,
-    "stars": 1396,
+    "stars": 1397,
     "name": "UnityTech/UIWidgets"
   },
   "starsMilestones": {
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 28
+    "gap": 27
   }
 }
