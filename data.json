@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-13T06:02:38.002Z",
+  "dateAndTime": "2020-01-13T07:02:22.908Z",
   "position": 366,
-  "stars": 1373,
-  "gap": 4,
+  "stars": 1374,
+  "gap": 3,
   "contenders": [
     {
       "name": "Cenmrev/V2RayW",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 27
+    "gap": 26
   }
 }
