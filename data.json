@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-13T14:02:35.888Z",
+  "dateAndTime": "2020-01-13T15:02:36.558Z",
   "position": 363,
-  "stars": 1377,
-  "gap": 2,
+  "stars": 1378,
+  "gap": 1,
   "contenders": [
     {
       "name": "xamarin/ios-samples",
@@ -17,7 +17,7 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 3,
-    "stars": 1397,
+    "stars": 1398,
     "name": "UnityTech/UIWidgets"
   },
   "starsMilestones": {
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 23
+    "gap": 22
   }
 }
