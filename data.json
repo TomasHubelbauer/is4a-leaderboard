@@ -1,20 +1,12 @@
 {
-  "dateAndTime": "2020-01-13T12:02:35.626Z",
-  "position": 366,
-  "stars": 1376,
-  "gap": 1,
+  "dateAndTime": "2020-01-13T13:02:36.241Z",
+  "position": 363,
+  "stars": 1377,
+  "gap": 2,
   "contenders": [
     {
-      "name": "Cenmrev/V2RayW",
-      "link": "https://github.com/Cenmrev/V2RayW"
-    },
-    {
-      "name": "Franiac/TwitchLeecher",
-      "link": "https://github.com/Franiac/TwitchLeecher"
-    },
-    {
-      "name": "ServiceStack/ServiceStack.OrmLite",
-      "link": "https://github.com/ServiceStack/ServiceStack.OrmLite"
+      "name": "xamarin/ios-samples",
+      "link": "https://github.com/xamarin/ios-samples"
     }
   ],
   "positionMilestones": {
@@ -24,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 6,
+    "gap": 3,
     "stars": 1397,
     "name": "UnityTech/UIWidgets"
   },
@@ -34,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 24
+    "gap": 23
   }
 }
