@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-14T09:02:28.223Z",
-  "position": 364,
-  "stars": 1378,
-  "gap": 1,
+  "dateAndTime": "2020-01-14T10:02:26.520Z",
+  "position": 363,
+  "stars": 1379,
+  "gap": 2,
   "contenders": [
     {
-      "name": "Cenmrev/V2RayW",
-      "link": "https://github.com/Cenmrev/V2RayW"
+      "name": "xamarin/ios-samples",
+      "link": "https://github.com/xamarin/ios-samples"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 4,
+    "gap": 3,
     "stars": 1399,
     "name": "UnityTech/UIWidgets"
   },
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 22
+    "gap": 21
   }
 }
