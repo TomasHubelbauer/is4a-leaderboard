@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-14T14:02:34.083Z",
-  "position": 363,
-  "stars": 1380,
-  "gap": 1,
+  "dateAndTime": "2020-01-14T15:02:35.659Z",
+  "position": 362,
+  "stars": 1381,
+  "gap": 9,
   "contenders": [
     {
-      "name": "xamarin/ios-samples",
-      "link": "https://github.com/xamarin/ios-samples"
+      "name": "GavinYellow/SharpSCADA",
+      "link": "https://github.com/GavinYellow/SharpSCADA"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 3,
+    "gap": 2,
     "stars": 1399,
     "name": "zzzprojects/html-agility-pack"
   },
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 20
+    "gap": 19
   }
 }
