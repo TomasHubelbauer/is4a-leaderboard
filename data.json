@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-01-14T06:02:43.420Z",
+  "dateAndTime": "2020-01-14T07:02:27.971Z",
   "position": 364,
   "stars": 1378,
-  "gap": 2,
+  "gap": 1,
   "contenders": [
     {
       "name": "Cenmrev/V2RayW",
       "link": "https://github.com/Cenmrev/V2RayW"
-    },
-    {
-      "name": "xamarin/ios-samples",
-      "link": "https://github.com/xamarin/ios-samples"
     }
   ],
   "positionMilestones": {
