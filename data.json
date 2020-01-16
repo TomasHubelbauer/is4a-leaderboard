@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-16T07:09:30.823Z",
+  "dateAndTime": "2020-01-16T08:02:42.305Z",
   "position": 362,
-  "stars": 1387,
-  "gap": 6,
+  "stars": 1388,
+  "gap": 5,
   "contenders": [
     {
       "name": "GavinYellow/SharpSCADA",
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 13
+    "gap": 12
   }
 }
