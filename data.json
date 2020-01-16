@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-01-16T02:02:29.515Z",
-  "position": 362,
+  "dateAndTime": "2020-01-16T03:02:28.341Z",
+  "position": 339,
   "stars": 1386,
   "gap": 6,
   "contenders": [
@@ -10,15 +10,16 @@
     }
   ],
   "positionMilestones": {
+    "340": "2020-01-16T03:02:28.341Z",
     "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 360,
-    "gap": 2,
-    "stars": 1402,
-    "name": "zzzprojects/html-agility-pack"
+    "milestone": 330,
+    "gap": 9,
+    "stars": 1427,
+    "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
