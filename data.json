@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-19T06:02:48.747Z",
+  "dateAndTime": "2020-01-19T07:02:41.529Z",
   "position": 362,
-  "stars": 1392,
-  "gap": 2,
+  "stars": 1393,
+  "gap": 1,
   "contenders": [
     {
       "name": "GavinYellow/SharpSCADA",
@@ -17,8 +17,8 @@
   "positionMilestoneToGo": {
     "milestone": 360,
     "gap": 2,
-    "stars": 1403,
-    "name": "xamarin/mobile-samples"
+    "stars": 1404,
+    "name": "dotnet/extensions"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 8
+    "gap": 7
   }
 }
