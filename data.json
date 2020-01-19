@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-19T19:02:27.525Z",
-  "position": 362,
-  "stars": 1393,
-  "gap": 1,
+  "dateAndTime": "2020-01-19T20:02:33.492Z",
+  "position": 361,
+  "stars": 1394,
+  "gap": 9,
   "contenders": [
     {
-      "name": "GavinYellow/SharpSCADA",
-      "link": "https://github.com/GavinYellow/SharpSCADA"
+      "name": "xamarin/mobile-samples",
+      "link": "https://github.com/xamarin/mobile-samples"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 2,
+    "gap": 1,
     "stars": 1404,
     "name": "dotnet/extensions"
   },
@@ -26,6 +26,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1400,
-    "gap": 7
+    "gap": 6
   }
 }
