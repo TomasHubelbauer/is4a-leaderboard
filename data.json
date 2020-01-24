@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-24T08:02:51.537Z",
-  "position": 362,
-  "stars": 1400,
+  "dateAndTime": "2020-01-24T09:02:42.144Z",
+  "position": 361,
+  "stars": 1402,
   "gap": 2,
   "contenders": [
     {
-      "name": "xamarin/mobile-samples",
-      "link": "https://github.com/xamarin/mobile-samples"
+      "name": "MetacoSA/NBitcoin",
+      "link": "https://github.com/MetacoSA/NBitcoin"
     }
   ],
   "positionMilestones": {
@@ -16,7 +16,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 360,
-    "gap": 2,
+    "gap": 1,
     "stars": 1405,
     "name": "Windows-XAML/Template10"
   },
@@ -27,6 +27,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 100
+    "gap": 98
   }
 }
