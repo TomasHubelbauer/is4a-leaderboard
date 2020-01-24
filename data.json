@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-24T17:02:28.314Z",
-  "position": 347,
-  "stars": 1402,
-  "gap": 2,
+  "dateAndTime": "2020-01-24T18:02:38.609Z",
+  "position": 361,
+  "stars": 1403,
+  "gap": 1,
   "contenders": [
     {
       "name": "MetacoSA/NBitcoin",
@@ -10,16 +10,15 @@
     }
   ],
   "positionMilestones": {
-    "350": "2020-01-24T17:02:28.313Z",
     "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 340,
-    "gap": 7,
-    "stars": 1418,
-    "name": "fairygui/FairyGUI-unity"
+    "milestone": 360,
+    "gap": 1,
+    "stars": 1405,
+    "name": "Windows-XAML/Template10"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -28,6 +27,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 98
+    "gap": 97
   }
 }
