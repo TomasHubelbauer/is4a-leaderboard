@@ -1,24 +1,25 @@
 {
-  "dateAndTime": "2020-01-25T02:02:30.602Z",
-  "position": 361,
-  "stars": 1403,
+  "dateAndTime": "2020-01-25T03:02:36.898Z",
+  "position": 360,
+  "stars": 1404,
   "gap": 1,
   "contenders": [
     {
-      "name": "MetacoSA/NBitcoin",
-      "link": "https://github.com/MetacoSA/NBitcoin"
+      "name": "Windows-XAML/Template10",
+      "link": "https://github.com/Windows-XAML/Template10"
     }
   ],
   "positionMilestones": {
+    "360": "2020-01-25T03:02:36.898Z",
     "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 360,
-    "gap": 1,
-    "stars": 1405,
-    "name": "Windows-XAML/Template10"
+    "milestone": 350,
+    "gap": 10,
+    "stars": 1456,
+    "name": "statianzo/Fleck"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -27,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 97
+    "gap": 96
   }
 }
