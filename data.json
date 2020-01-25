@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-01-25T08:02:57.621Z",
-  "position": 360,
-  "stars": 1404,
-  "gap": 1,
+  "dateAndTime": "2020-01-25T09:02:38.666Z",
+  "position": 359,
+  "stars": 1405,
+  "gap": 3,
   "contenders": [
     {
-      "name": "Windows-XAML/Template10",
-      "link": "https://github.com/Windows-XAML/Template10"
+      "name": "NEventStore/NEventStore",
+      "link": "https://github.com/NEventStore/NEventStore"
     }
   ],
   "positionMilestones": {
@@ -17,7 +17,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 10,
+    "gap": 9,
     "stars": 1456,
     "name": "statianzo/Fleck"
   },
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 96
+    "gap": 95
   }
 }
