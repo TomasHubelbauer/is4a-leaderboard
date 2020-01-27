@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-27T12:02:52.666Z",
+  "dateAndTime": "2020-01-27T13:02:51.928Z",
   "position": 357,
   "stars": 1409,
-  "gap": 3,
+  "gap": 4,
   "contenders": [
     {
       "name": "UnityTech/UIWidgets",
