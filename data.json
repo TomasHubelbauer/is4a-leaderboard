@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-29T17:02:46.039Z",
+  "dateAndTime": "2020-01-29T18:02:42.644Z",
   "position": 356,
-  "stars": 1415,
-  "gap": 4,
+  "stars": 1416,
+  "gap": 3,
   "contenders": [
     {
       "name": "UnityTech/UIWidgets",
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 85
+    "gap": 84
   }
 }
