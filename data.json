@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-29T01:02:20.989Z",
+  "dateAndTime": "2020-01-29T02:02:19.796Z",
   "position": 356,
   "stars": 1413,
   "gap": 2,
@@ -18,7 +18,7 @@
   "positionMilestoneToGo": {
     "milestone": 350,
     "gap": 6,
-    "stars": 1447,
+    "stars": 1448,
     "name": "Unity-Technologies/NavMeshComponents"
   },
   "starsMilestones": {
