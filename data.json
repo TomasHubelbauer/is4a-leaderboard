@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-01-30T08:02:37.240Z",
-  "position": 356,
-  "stars": 1419,
+  "dateAndTime": "2020-01-30T09:02:58.479Z",
+  "position": 354,
+  "stars": 1420,
   "gap": 1,
   "contenders": [
     {
-      "name": "UnityTech/UIWidgets",
-      "link": "https://github.com/UnityTech/UIWidgets"
-    },
-    {
-      "name": "fairygui/FairyGUI-unity",
-      "link": "https://github.com/fairygui/FairyGUI-unity"
+      "name": "zzzprojects/html-agility-pack",
+      "link": "https://github.com/zzzprojects/html-agility-pack"
     }
   ],
   "positionMilestones": {
@@ -21,8 +17,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 6,
-    "stars": 1448,
+    "gap": 4,
+    "stars": 1449,
     "name": "Unity-Technologies/NavMeshComponents"
   },
   "starsMilestones": {
@@ -32,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 81
+    "gap": 80
   }
 }
