@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-01-30T07:02:50.669Z",
+  "dateAndTime": "2020-01-30T08:02:37.240Z",
   "position": 356,
-  "stars": 1418,
+  "stars": 1419,
   "gap": 1,
   "contenders": [
     {
       "name": "UnityTech/UIWidgets",
       "link": "https://github.com/UnityTech/UIWidgets"
+    },
+    {
+      "name": "fairygui/FairyGUI-unity",
+      "link": "https://github.com/fairygui/FairyGUI-unity"
     }
   ],
   "positionMilestones": {
@@ -28,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 82
+    "gap": 81
   }
 }
