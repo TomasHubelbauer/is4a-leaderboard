@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-01-31T06:02:34.125Z",
+  "dateAndTime": "2020-01-31T07:02:46.208Z",
   "position": 354,
   "stars": 1422,
   "gap": 5,
@@ -18,7 +18,7 @@
   "positionMilestoneToGo": {
     "milestone": 350,
     "gap": 4,
-    "stars": 1451,
+    "stars": 1452,
     "name": "Ryujinx/Ryujinx"
   },
   "starsMilestones": {
