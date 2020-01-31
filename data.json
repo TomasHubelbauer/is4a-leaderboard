@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-31T16:02:44.861Z",
+  "dateAndTime": "2020-01-31T17:02:38.401Z",
   "position": 354,
-  "stars": 1423,
-  "gap": 4,
+  "stars": 1424,
+  "gap": 3,
   "contenders": [
     {
       "name": "peachpiecompiler/peachpie",
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 77
+    "gap": 76
   }
 }
