@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-01-31T09:02:45.481Z",
+  "dateAndTime": "2020-01-31T10:02:53.127Z",
   "position": 354,
-  "stars": 1422,
-  "gap": 5,
+  "stars": 1423,
+  "gap": 4,
   "contenders": [
     {
       "name": "peachpiecompiler/peachpie",
@@ -18,7 +18,7 @@
   "positionMilestoneToGo": {
     "milestone": 350,
     "gap": 4,
-    "stars": 1453,
+    "stars": 1454,
     "name": "Ryujinx/Ryujinx"
   },
   "starsMilestones": {
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 78
+    "gap": 77
   }
 }
