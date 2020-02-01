@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-01T10:02:35.010Z",
-  "position": 353,
-  "stars": 1428,
-  "gap": 1,
+  "dateAndTime": "2020-02-01T11:02:39.319Z",
+  "position": 352,
+  "stars": 1429,
+  "gap": 7,
   "contenders": [
     {
-      "name": "dotnet/extensions",
-      "link": "https://github.com/dotnet/extensions"
+      "name": "NuGetPackageExplorer/NuGetPackageExplorer",
+      "link": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer"
     }
   ],
   "positionMilestones": {
@@ -17,7 +17,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 3,
+    "gap": 2,
     "stars": 1459,
     "name": "statianzo/Fleck"
   },
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 72
+    "gap": 71
   }
 }
