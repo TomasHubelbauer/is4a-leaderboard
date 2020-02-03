@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-03T06:02:37.716Z",
+  "dateAndTime": "2020-02-03T07:02:38.478Z",
   "position": 352,
-  "stars": 1434,
-  "gap": 2,
+  "stars": 1435,
+  "gap": 1,
   "contenders": [
     {
       "name": "NuGetPackageExplorer/NuGetPackageExplorer",
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 66
+    "gap": 65
   }
 }
