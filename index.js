@@ -18,7 +18,7 @@ window.addEventListener('load', async () => {
     counter++;
   }
 
-  contendersSpan.append(document.createTextNode(` (${json.stars + json.gap}`), document.createElement('&nbsp;★)'));
+  contendersSpan.append(document.createTextNode(` (${json.stars + json.gap}\u00A0★)`));
 
   const positionMilestonesDiv = document.getElementById('positionMilestonesDiv');
   const positionMilestoneGapP = document.createElement('p');
