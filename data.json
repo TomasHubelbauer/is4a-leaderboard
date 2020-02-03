@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-03T07:02:38.478Z",
-  "position": 352,
-  "stars": 1435,
-  "gap": 1,
+  "dateAndTime": "2020-02-03T08:02:33.932Z",
+  "position": 351,
+  "stars": 1436,
+  "gap": 15,
   "contenders": [
     {
-      "name": "NuGetPackageExplorer/NuGetPackageExplorer",
-      "link": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer"
+      "name": "Unity-Technologies/NavMeshComponents",
+      "link": "https://github.com/Unity-Technologies/NavMeshComponents"
     }
   ],
   "positionMilestones": {
@@ -17,7 +17,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 2,
+    "gap": 1,
     "stars": 1461,
     "name": "statianzo/Fleck"
   },
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 65
+    "gap": 64
   }
 }
