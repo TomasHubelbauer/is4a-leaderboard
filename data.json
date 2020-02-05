@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-05T20:02:55.390Z",
+  "dateAndTime": "2020-02-05T21:02:58.314Z",
   "position": 351,
-  "stars": 1441,
-  "gap": 15,
+  "stars": 1440,
+  "gap": 17,
   "contenders": [
     {
       "name": "Unity-Technologies/NavMeshComponents",
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 59
+    "gap": 60
   }
 }
