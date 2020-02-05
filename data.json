@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-02-05T22:02:47.519Z",
-  "position": 351,
+  "dateAndTime": "2020-02-05T23:02:32.459Z",
+  "position": 346,
   "stars": 1440,
   "gap": 17,
   "contenders": [
@@ -10,16 +10,17 @@
     }
   ],
   "positionMilestones": {
+    "350": "2020-02-05T23:02:32.459Z",
     "360": "2020-01-25T03:02:36.898Z",
     "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 350,
-    "gap": 1,
-    "stars": 1461,
-    "name": "statianzo/Fleck"
+    "milestone": 340,
+    "gap": 6,
+    "stars": 1474,
+    "name": "bitbeans/SimpleDnsCrypt"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
