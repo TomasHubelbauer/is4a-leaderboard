@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-06T12:02:53.421Z",
-  "position": 351,
-  "stars": 1443,
-  "gap": 16,
+  "dateAndTime": "2020-02-06T13:02:47.233Z",
+  "position": 320,
+  "stars": 1445,
+  "gap": 14,
   "contenders": [
     {
       "name": "Unity-Technologies/NavMeshComponents",
@@ -10,16 +10,17 @@
     }
   ],
   "positionMilestones": {
+    "320": "2020-02-06T13:02:47.233Z",
     "360": "2020-01-25T03:02:36.898Z",
     "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 350,
-    "gap": 1,
-    "stars": 1461,
-    "name": "statianzo/Fleck"
+    "milestone": 310,
+    "gap": 10,
+    "stars": 1492,
+    "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -28,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 57
+    "gap": 55
   }
 }
