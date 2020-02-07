@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-07T10:03:00.689Z",
+  "dateAndTime": "2020-02-07T11:02:47.992Z",
   "position": 351,
-  "stars": 1447,
-  "gap": 14,
+  "stars": 1448,
+  "gap": 13,
   "contenders": [
     {
       "name": "Unity-Technologies/NavMeshComponents",
@@ -18,7 +18,7 @@
   "positionMilestoneToGo": {
     "milestone": 350,
     "gap": 1,
-    "stars": 1463,
+    "stars": 1464,
     "name": "statianzo/Fleck"
   },
   "starsMilestones": {
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 53
+    "gap": 52
   }
 }
