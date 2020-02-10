@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-10T12:05:09.601Z",
-  "position": 351,
-  "stars": 1457,
-  "gap": 5,
+  "dateAndTime": "2020-02-10T13:04:20.997Z",
+  "position": 352,
+  "stars": 1458,
+  "gap": 1,
   "contenders": [
     {
-      "name": "Unity-Technologies/NavMeshComponents",
-      "link": "https://github.com/Unity-Technologies/NavMeshComponents"
+      "name": "dotnet/extensions",
+      "link": "https://github.com/dotnet/extensions"
     }
   ],
   "positionMilestones": {
@@ -17,7 +17,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 1,
+    "gap": 2,
     "stars": 1466,
     "name": "statianzo/Fleck"
   },
@@ -28,6 +28,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 43
+    "gap": 42
   }
 }
