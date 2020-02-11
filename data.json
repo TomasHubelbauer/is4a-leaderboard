@@ -1,29 +1,30 @@
 {
-  "dateAndTime": "2020-02-11T07:04:24.513Z",
-  "position": 352,
-  "stars": 1461,
-  "gap": 1,
+  "dateAndTime": "2020-02-11T08:04:46.165Z",
+  "position": 350,
+  "stars": 1462,
+  "gap": 4,
   "contenders": [
     {
-      "name": "Unity-Technologies/NavMeshComponents",
-      "link": "https://github.com/Unity-Technologies/NavMeshComponents"
+      "name": "statianzo/Fleck",
+      "link": "https://github.com/statianzo/Fleck"
     },
     {
-      "name": "dotnet/extensions",
-      "link": "https://github.com/dotnet/extensions"
+      "name": "jshackles/idle_master",
+      "link": "https://github.com/jshackles/idle_master"
     }
   ],
   "positionMilestones": {
+    "350": "2020-02-11T08:04:46.164Z",
     "360": "2020-01-25T03:02:36.898Z",
     "370": "2019-12-29T06:02:38.204Z",
     "380": "2019-12-06T14:01:37.425Z",
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 350,
-    "gap": 2,
-    "stars": 1466,
-    "name": "statianzo/Fleck"
+    "milestone": 340,
+    "gap": 10,
+    "stars": 1494,
+    "name": "Fody/Costura"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -32,6 +33,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 39
+    "gap": 38
   }
 }
