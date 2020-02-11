@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-02-11T22:04:39.322Z",
-  "position": 352,
-  "stars": 1464,
+  "dateAndTime": "2020-02-11T23:04:39.620Z",
+  "position": 351,
+  "stars": 1465,
   "gap": 1,
   "contenders": [
     {
-      "name": "dotnet/runtime",
-      "link": "https://github.com/dotnet/runtime"
+      "name": "statianzo/Fleck",
+      "link": "https://github.com/statianzo/Fleck"
+    },
+    {
+      "name": "jshackles/idle_master",
+      "link": "https://github.com/jshackles/idle_master"
     }
   ],
   "positionMilestones": {
@@ -17,7 +21,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 2,
+    "gap": 1,
     "stars": 1466,
     "name": "jshackles/idle_master"
   },
@@ -28,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 36
+    "gap": 35
   }
 }
