@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-11T16:04:30.511Z",
+  "dateAndTime": "2020-02-11T17:04:37.291Z",
   "position": 351,
-  "stars": 1463,
-  "gap": 3,
+  "stars": 1464,
+  "gap": 2,
   "contenders": [
     {
       "name": "statianzo/Fleck",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 37
+    "gap": 36
   }
 }
