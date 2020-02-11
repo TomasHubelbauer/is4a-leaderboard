@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-02-11T11:04:27.353Z",
+  "dateAndTime": "2020-02-11T12:05:06.546Z",
   "position": 351,
   "stars": 1463,
   "gap": 3,
   "contenders": [
-    {
-      "name": "dotnet/extensions",
-      "link": "https://github.com/dotnet/extensions"
-    },
     {
       "name": "statianzo/Fleck",
       "link": "https://github.com/statianzo/Fleck"
@@ -27,7 +23,7 @@
     "milestone": 350,
     "gap": 1,
     "stars": 1466,
-    "name": "statianzo/Fleck"
+    "name": "jshackles/idle_master"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
