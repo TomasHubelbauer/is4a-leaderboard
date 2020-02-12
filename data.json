@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-02-12T09:04:35.322Z",
+  "dateAndTime": "2020-02-12T10:04:34.169Z",
   "position": 349,
   "stars": 1469,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
+    {
+      "name": "JabbR/JabbR",
+      "link": "https://github.com/JabbR/JabbR"
+    },
     {
       "name": "dotnet/runtime",
       "link": "https://github.com/dotnet/runtime"
