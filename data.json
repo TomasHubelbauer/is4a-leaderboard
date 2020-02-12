@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-12T21:04:36.268Z",
+  "dateAndTime": "2020-02-12T22:04:29.279Z",
   "position": 348,
   "stars": 1471,
-  "gap": 8,
+  "gap": 9,
   "contenders": [
     {
       "name": "dotnet/runtime",
