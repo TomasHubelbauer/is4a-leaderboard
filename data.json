@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-12T10:04:34.169Z",
+  "dateAndTime": "2020-02-12T11:04:35.433Z",
   "position": 349,
   "stars": 1469,
   "gap": 2,
@@ -7,10 +7,6 @@
     {
       "name": "JabbR/JabbR",
       "link": "https://github.com/JabbR/JabbR"
-    },
-    {
-      "name": "dotnet/runtime",
-      "link": "https://github.com/dotnet/runtime"
     }
   ],
   "positionMilestones": {
