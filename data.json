@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-12T07:04:26.872Z",
-  "position": 350,
-  "stars": 1466,
-  "gap": 1,
+  "dateAndTime": "2020-02-12T08:04:46.224Z",
+  "position": 349,
+  "stars": 1467,
+  "gap": 3,
   "contenders": [
     {
-      "name": "XLabs/Xamarin-Forms-Labs",
-      "link": "https://github.com/XLabs/Xamarin-Forms-Labs"
+      "name": "dotnet/runtime",
+      "link": "https://github.com/dotnet/runtime"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 10,
+    "gap": 9,
     "stars": 1500,
     "name": "AppMetrics/AppMetrics"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 34
+    "gap": 33
   }
 }
