@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-12T20:05:19.206Z",
-  "position": 349,
-  "stars": 1470,
-  "gap": 1,
+  "dateAndTime": "2020-02-12T21:04:36.268Z",
+  "position": 348,
+  "stars": 1471,
+  "gap": 8,
   "contenders": [
     {
-      "name": "JabbR/JabbR",
-      "link": "https://github.com/JabbR/JabbR"
+      "name": "dotnet/runtime",
+      "link": "https://github.com/dotnet/runtime"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 9,
+    "gap": 8,
     "stars": 1500,
     "name": "AppMetrics/AppMetrics"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 30
+    "gap": 29
   }
 }
