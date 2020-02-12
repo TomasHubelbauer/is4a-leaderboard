@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-02-11T23:04:39.620Z",
-  "position": 351,
+  "dateAndTime": "2020-02-12T00:07:41.011Z",
+  "position": 352,
   "stars": 1465,
   "gap": 1,
   "contenders": [
@@ -21,9 +21,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 350,
-    "gap": 1,
-    "stars": 1466,
-    "name": "jshackles/idle_master"
+    "gap": 2,
+    "stars": 1467,
+    "name": "XLabs/Xamarin-Forms-Labs"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
