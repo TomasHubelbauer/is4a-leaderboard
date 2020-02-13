@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-13T00:07:31.973Z",
+  "dateAndTime": "2020-02-13T01:04:30.685Z",
   "position": 348,
-  "stars": 1471,
-  "gap": 9,
+  "stars": 1472,
+  "gap": 8,
   "contenders": [
     {
       "name": "dotnet/runtime",
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 29
+    "gap": 28
   }
 }
