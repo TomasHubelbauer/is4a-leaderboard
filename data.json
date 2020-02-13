@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-02-13T04:04:44.875Z",
+  "dateAndTime": "2020-02-13T05:04:50.943Z",
   "position": 348,
   "stars": 1472,
   "gap": 9,
   "contenders": [
-    {
-      "name": "dotnet/runtime",
-      "link": "https://github.com/dotnet/runtime"
-    },
     {
       "name": "DotNetAnalyzers/StyleCopAnalyzers",
       "link": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers"
