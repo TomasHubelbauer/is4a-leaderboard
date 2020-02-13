@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-13T14:04:45.253Z",
+  "dateAndTime": "2020-02-13T15:04:50.909Z",
   "position": 348,
   "stars": 1473,
   "gap": 8,
@@ -19,7 +19,7 @@
   "positionMilestoneToGo": {
     "milestone": 340,
     "gap": 8,
-    "stars": 1500,
+    "stars": 1501,
     "name": "AppMetrics/AppMetrics"
   },
   "starsMilestones": {
