@@ -1,12 +1,20 @@
 {
-  "dateAndTime": "2020-02-13T02:04:39.469Z",
+  "dateAndTime": "2020-02-13T03:04:48.999Z",
   "position": 348,
   "stars": 1472,
-  "gap": 8,
+  "gap": 9,
   "contenders": [
     {
       "name": "dotnet/runtime",
       "link": "https://github.com/dotnet/runtime"
+    },
+    {
+      "name": "DotNetAnalyzers/StyleCopAnalyzers",
+      "link": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers"
+    },
+    {
+      "name": "bitbeans/SimpleDnsCrypt",
+      "link": "https://github.com/bitbeans/SimpleDnsCrypt"
     }
   ],
   "positionMilestones": {
