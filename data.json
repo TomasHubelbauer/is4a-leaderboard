@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-13T20:05:21.468Z",
+  "dateAndTime": "2020-02-13T21:04:28.381Z",
   "position": 348,
-  "stars": 1473,
-  "gap": 8,
+  "stars": 1474,
+  "gap": 7,
   "contenders": [
     {
       "name": "DotNetAnalyzers/StyleCopAnalyzers",
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 27
+    "gap": 26
   }
 }
