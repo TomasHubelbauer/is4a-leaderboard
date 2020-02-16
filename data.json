@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-16T15:04:39.587Z",
-  "position": 348,
-  "stars": 1480,
+  "dateAndTime": "2020-02-16T16:04:38.837Z",
+  "position": 347,
+  "stars": 1482,
   "gap": 2,
   "contenders": [
     {
-      "name": "DotNetAnalyzers/StyleCopAnalyzers",
-      "link": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers"
+      "name": "bitbeans/SimpleDnsCrypt",
+      "link": "https://github.com/bitbeans/SimpleDnsCrypt"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 8,
+    "gap": 7,
     "stars": 1508,
     "name": "Ourpalm/ILRuntime"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 20
+    "gap": 18
   }
 }
