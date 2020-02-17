@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-17T10:04:17.704Z",
-  "position": 345,
-  "stars": 1489,
+  "dateAndTime": "2020-02-17T11:03:52.829Z",
+  "position": 344,
+  "stars": 1491,
   "gap": 1,
   "contenders": [
     {
-      "name": "nodatime/nodatime",
-      "link": "https://github.com/nodatime/nodatime"
+      "name": "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql",
+      "link": "https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 5,
+    "gap": 4,
     "stars": 1508,
     "name": "Ourpalm/ILRuntime"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 11
+    "gap": 9
   }
 }
