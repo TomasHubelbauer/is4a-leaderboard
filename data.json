@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-17T09:04:21.531Z",
-  "position": 346,
-  "stars": 1485,
-  "gap": 4,
+  "dateAndTime": "2020-02-17T10:04:17.704Z",
+  "position": 345,
+  "stars": 1489,
+  "gap": 1,
   "contenders": [
     {
-      "name": "GitTools/GitVersion",
-      "link": "https://github.com/GitTools/GitVersion"
+      "name": "nodatime/nodatime",
+      "link": "https://github.com/nodatime/nodatime"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 6,
+    "gap": 5,
     "stars": 1508,
     "name": "Ourpalm/ILRuntime"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 15
+    "gap": 11
   }
 }
