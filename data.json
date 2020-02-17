@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-17T11:03:52.829Z",
+  "dateAndTime": "2020-02-17T12:06:06.650Z",
   "position": 344,
   "stars": 1491,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql",
