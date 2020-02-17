@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-17T15:03:57.194Z",
-  "position": 344,
-  "stars": 1491,
-  "gap": 2,
+  "dateAndTime": "2020-02-17T16:04:00.184Z",
+  "position": 342,
+  "stars": 1496,
+  "gap": 1,
   "contenders": [
     {
-      "name": "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql",
-      "link": "https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql"
+      "name": "sprache/Sprache",
+      "link": "https://github.com/sprache/Sprache"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 4,
+    "gap": 2,
     "stars": 1508,
     "name": "Ourpalm/ILRuntime"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 9
+    "gap": 4
   }
 }
