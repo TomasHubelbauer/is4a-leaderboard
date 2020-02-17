@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-17T06:04:09.870Z",
-  "position": 347,
-  "stars": 1484,
-  "gap": 1,
+  "dateAndTime": "2020-02-17T07:03:48.419Z",
+  "position": 346,
+  "stars": 1485,
+  "gap": 4,
   "contenders": [
     {
-      "name": "bitbeans/SimpleDnsCrypt",
-      "link": "https://github.com/bitbeans/SimpleDnsCrypt"
+      "name": "GitTools/GitVersion",
+      "link": "https://github.com/GitTools/GitVersion"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 7,
+    "gap": 6,
     "stars": 1508,
     "name": "Ourpalm/ILRuntime"
   },
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 16
+    "gap": 15
   }
 }
