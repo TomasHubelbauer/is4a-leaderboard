@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-18T05:04:11.096Z",
+  "dateAndTime": "2020-02-18T06:04:18.323Z",
   "position": 342,
-  "stars": 1498,
-  "gap": 2,
+  "stars": 1499,
+  "gap": 1,
   "contenders": [
     {
       "name": "sprache/Sprache",
@@ -29,6 +29,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1500,
-    "gap": 2
+    "gap": 1
   }
 }
