@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-18T08:04:25.403Z",
-  "position": 342,
-  "stars": 1500,
-  "gap": 1,
+  "dateAndTime": "2020-02-18T09:04:21.365Z",
+  "position": 341,
+  "stars": 1501,
+  "gap": 6,
   "contenders": [
     {
-      "name": "sprache/Sprache",
-      "link": "https://github.com/sprache/Sprache"
+      "name": "AppMetrics/AppMetrics",
+      "link": "https://github.com/AppMetrics/AppMetrics"
     }
   ],
   "positionMilestones": {
@@ -18,7 +18,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 340,
-    "gap": 2,
+    "gap": 1,
     "stars": 1508,
     "name": "Ourpalm/ILRuntime"
   },
@@ -30,6 +30,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 100
+    "gap": 99
   }
 }
