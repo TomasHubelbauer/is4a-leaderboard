@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-18T09:04:21.365Z",
+  "dateAndTime": "2020-02-18T10:04:25.044Z",
   "position": 341,
-  "stars": 1501,
-  "gap": 6,
+  "stars": 1502,
+  "gap": 5,
   "contenders": [
     {
       "name": "AppMetrics/AppMetrics",
@@ -30,6 +30,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 99
+    "gap": 98
   }
 }
