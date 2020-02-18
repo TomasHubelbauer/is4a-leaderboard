@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-18T15:04:08.513Z",
+  "dateAndTime": "2020-02-18T16:04:29.510Z",
   "position": 341,
-  "stars": 1504,
-  "gap": 3,
+  "stars": 1505,
+  "gap": 2,
   "contenders": [
     {
       "name": "AppMetrics/AppMetrics",
@@ -19,7 +19,7 @@
   "positionMilestoneToGo": {
     "milestone": 340,
     "gap": 1,
-    "stars": 1509,
+    "stars": 1510,
     "name": "Ourpalm/ILRuntime"
   },
   "starsMilestones": {
@@ -30,6 +30,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 96
+    "gap": 95
   }
 }
