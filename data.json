@@ -1,15 +1,16 @@
 {
-  "dateAndTime": "2020-02-19T01:04:17.415Z",
-  "position": 341,
-  "stars": 1507,
-  "gap": 2,
+  "dateAndTime": "2020-02-19T02:04:26.639Z",
+  "position": 339,
+  "stars": 1510,
+  "gap": 4,
   "contenders": [
     {
-      "name": "AppMetrics/AppMetrics",
-      "link": "https://github.com/AppMetrics/AppMetrics"
+      "name": "x360ce/x360ce",
+      "link": "https://github.com/x360ce/x360ce"
     }
   ],
   "positionMilestones": {
+    "340": "2020-02-19T02:04:26.639Z",
     "350": "2020-02-12T04:04:57.420Z",
     "360": "2020-01-25T03:02:36.898Z",
     "370": "2019-12-29T06:02:38.204Z",
@@ -17,10 +18,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 340,
-    "gap": 1,
-    "stars": 1510,
-    "name": "Ourpalm/ILRuntime"
+    "milestone": 330,
+    "gap": 9,
+    "stars": 1544,
+    "name": "tonerdo/coverlet"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -30,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 93
+    "gap": 90
   }
 }
