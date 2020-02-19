@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-19T12:04:38.902Z",
-  "position": 339,
-  "stars": 1513,
-  "gap": 1,
+  "dateAndTime": "2020-02-19T13:03:53.736Z",
+  "position": 338,
+  "stars": 1514,
+  "gap": 9,
   "contenders": [
     {
-      "name": "x360ce/x360ce",
-      "link": "https://github.com/x360ce/x360ce"
+      "name": "linq2db/linq2db",
+      "link": "https://github.com/linq2db/linq2db"
     }
   ],
   "positionMilestones": {
@@ -19,7 +19,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 9,
+    "gap": 8,
     "stars": 1546,
     "name": "jakubgarfield/Bonobo-Git-Server"
   },
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 87
+    "gap": 86
   }
 }
