@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-19T02:04:26.639Z",
+  "dateAndTime": "2020-02-19T03:04:29.838Z",
   "position": 339,
-  "stars": 1510,
-  "gap": 4,
+  "stars": 1513,
+  "gap": 1,
   "contenders": [
     {
       "name": "x360ce/x360ce",
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 90
+    "gap": 87
   }
 }
