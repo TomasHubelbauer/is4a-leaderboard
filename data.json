@@ -1,12 +1,20 @@
 {
-  "dateAndTime": "2020-02-20T14:04:08.623Z",
+  "dateAndTime": "2020-02-20T15:04:04.228Z",
   "position": 338,
   "stars": 1520,
-  "gap": 11,
+  "gap": 13,
   "contenders": [
     {
       "name": "linq2db/linq2db",
       "link": "https://github.com/linq2db/linq2db"
+    },
+    {
+      "name": "Codeusa/SteamCleaner",
+      "link": "https://github.com/Codeusa/SteamCleaner"
+    },
+    {
+      "name": "Ryujinx/Ryujinx",
+      "link": "https://github.com/Ryujinx/Ryujinx"
     }
   ],
   "positionMilestones": {
