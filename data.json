@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-20T17:04:04.805Z",
+  "dateAndTime": "2020-02-20T18:04:07.297Z",
   "position": 338,
-  "stars": 1520,
-  "gap": 13,
+  "stars": 1521,
+  "gap": 12,
   "contenders": [
     {
       "name": "Codeusa/SteamCleaner",
@@ -21,7 +21,7 @@
     "milestone": 330,
     "gap": 8,
     "stars": 1547,
-    "name": "tonerdo/coverlet"
+    "name": "jakubgarfield/Bonobo-Git-Server"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 80
+    "gap": 79
   }
 }
