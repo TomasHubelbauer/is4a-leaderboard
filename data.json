@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-20T15:04:04.228Z",
+  "dateAndTime": "2020-02-20T16:04:09.602Z",
   "position": 338,
   "stars": 1520,
   "gap": 13,
@@ -11,10 +11,6 @@
     {
       "name": "Codeusa/SteamCleaner",
       "link": "https://github.com/Codeusa/SteamCleaner"
-    },
-    {
-      "name": "Ryujinx/Ryujinx",
-      "link": "https://github.com/Ryujinx/Ryujinx"
     }
   ],
   "positionMilestones": {
