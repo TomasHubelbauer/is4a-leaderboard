@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-20T11:43:29.681Z",
+  "dateAndTime": "2020-02-20T12:04:47.276Z",
   "position": 338,
   "stars": 1520,
-  "gap": 10,
+  "gap": 11,
   "contenders": [
     {
       "name": "linq2db/linq2db",
