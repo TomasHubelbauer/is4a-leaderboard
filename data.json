@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-02-20T16:04:09.602Z",
+  "dateAndTime": "2020-02-20T17:04:04.805Z",
   "position": 338,
   "stars": 1520,
   "gap": 13,
   "contenders": [
-    {
-      "name": "linq2db/linq2db",
-      "link": "https://github.com/linq2db/linq2db"
-    },
     {
       "name": "Codeusa/SteamCleaner",
       "link": "https://github.com/Codeusa/SteamCleaner"
