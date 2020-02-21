@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-21T02:04:35.128Z",
+  "dateAndTime": "2020-02-21T03:04:04.237Z",
   "position": 338,
-  "stars": 1521,
-  "gap": 12,
+  "stars": 1522,
+  "gap": 11,
   "contenders": [
     {
       "name": "Codeusa/SteamCleaner",
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 79
+    "gap": 78
   }
 }
