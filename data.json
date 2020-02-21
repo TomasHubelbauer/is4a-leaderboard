@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-21T08:04:27.139Z",
+  "dateAndTime": "2020-02-21T09:04:05.249Z",
   "position": 338,
   "stars": 1522,
   "gap": 11,
@@ -20,8 +20,8 @@
   "positionMilestoneToGo": {
     "milestone": 330,
     "gap": 8,
-    "stars": 1547,
-    "name": "jakubgarfield/Bonobo-Git-Server"
+    "stars": 1548,
+    "name": "tonerdo/coverlet"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
