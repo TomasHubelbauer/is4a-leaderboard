@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-22T17:04:22.781Z",
+  "dateAndTime": "2020-02-22T18:04:29.381Z",
   "position": 338,
   "stars": 1522,
   "gap": 10,
@@ -20,7 +20,7 @@
   "positionMilestoneToGo": {
     "milestone": 330,
     "gap": 8,
-    "stars": 1548,
+    "stars": 1549,
     "name": "tonerdo/coverlet"
   },
   "starsMilestones": {
