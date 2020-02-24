@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-24T07:04:31.070Z",
+  "dateAndTime": "2020-02-24T08:04:41.938Z",
   "position": 338,
   "stars": 1526,
   "gap": 5,
@@ -21,7 +21,7 @@
     "milestone": 330,
     "gap": 8,
     "stars": 1550,
-    "name": "tonerdo/coverlet"
+    "name": "git-tfs/git-tfs"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
