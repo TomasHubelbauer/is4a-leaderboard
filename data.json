@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-25T12:04:46.599Z",
+  "dateAndTime": "2020-02-25T13:04:13.470Z",
   "position": 337,
-  "stars": 1530,
-  "gap": 7,
+  "stars": 1531,
+  "gap": 6,
   "contenders": [
     {
       "name": "ClosedXML/ClosedXML",
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 70
+    "gap": 69
   }
 }
