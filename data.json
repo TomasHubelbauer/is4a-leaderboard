@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-25T11:04:05.051Z",
-  "position": 338,
-  "stars": 1529,
-  "gap": 1,
+  "dateAndTime": "2020-02-25T12:04:46.599Z",
+  "position": 337,
+  "stars": 1530,
+  "gap": 7,
   "contenders": [
     {
-      "name": "Codeusa/SteamCleaner",
-      "link": "https://github.com/Codeusa/SteamCleaner"
+      "name": "ClosedXML/ClosedXML",
+      "link": "https://github.com/ClosedXML/ClosedXML"
     }
   ],
   "positionMilestones": {
@@ -19,7 +19,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 8,
+    "gap": 7,
     "stars": 1553,
     "name": "git-tfs/git-tfs"
   },
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 71
+    "gap": 70
   }
 }
