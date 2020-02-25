@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-25T20:04:55.690Z",
+  "dateAndTime": "2020-02-25T21:04:15.846Z",
   "position": 337,
   "stars": 1531,
   "gap": 7,
@@ -24,7 +24,7 @@
   "positionMilestoneToGo": {
     "milestone": 330,
     "gap": 7,
-    "stars": 1553,
+    "stars": 1554,
     "name": "git-tfs/git-tfs"
   },
   "starsMilestones": {
