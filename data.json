@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-02-26T00:07:52.039Z",
+  "dateAndTime": "2020-02-26T01:04:19.919Z",
   "position": 337,
   "stars": 1531,
-  "gap": 7,
+  "gap": 8,
   "contenders": [
+    {
+      "name": "playdeadgames/temporal",
+      "link": "https://github.com/playdeadgames/temporal"
+    },
     {
       "name": "ClosedXML/ClosedXML",
       "link": "https://github.com/ClosedXML/ClosedXML"
