@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-26T22:04:28.458Z",
+  "dateAndTime": "2020-02-26T23:04:08.917Z",
   "position": 337,
   "stars": 1538,
   "gap": 1,
@@ -7,10 +7,6 @@
     {
       "name": "playdeadgames/temporal",
       "link": "https://github.com/playdeadgames/temporal"
-    },
-    {
-      "name": "Ryujinx/Ryujinx",
-      "link": "https://github.com/Ryujinx/Ryujinx"
     }
   ],
   "positionMilestones": {
@@ -24,7 +20,7 @@
   "positionMilestoneToGo": {
     "milestone": 330,
     "gap": 7,
-    "stars": 1554,
+    "stars": 1553,
     "name": "git-tfs/git-tfs"
   },
   "starsMilestones": {
