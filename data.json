@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-26T20:04:46.080Z",
+  "dateAndTime": "2020-02-26T21:04:24.466Z",
   "position": 337,
-  "stars": 1537,
-  "gap": 2,
+  "stars": 1538,
+  "gap": 1,
   "contenders": [
     {
       "name": "playdeadgames/temporal",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 63
+    "gap": 62
   }
 }
