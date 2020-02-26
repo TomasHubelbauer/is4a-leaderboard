@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-02-26T09:04:08.862Z",
+  "dateAndTime": "2020-02-26T10:04:06.948Z",
   "position": 337,
-  "stars": 1532,
-  "gap": 7,
+  "stars": 1534,
+  "gap": 5,
   "contenders": [
     {
       "name": "playdeadgames/temporal",
       "link": "https://github.com/playdeadgames/temporal"
+    },
+    {
+      "name": "Ryujinx/Ryujinx",
+      "link": "https://github.com/Ryujinx/Ryujinx"
     }
   ],
   "positionMilestones": {
@@ -31,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 68
+    "gap": 66
   }
 }
