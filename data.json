@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-02-27T14:04:22.500Z",
+  "dateAndTime": "2020-02-27T15:04:33.778Z",
   "position": 335,
   "stars": 1540,
-  "gap": 3,
+  "gap": 2,
   "contenders": [
     {
       "name": "linq2db/linq2db",
       "link": "https://github.com/linq2db/linq2db"
-    },
-    {
-      "name": "SteamRE/SteamKit",
-      "link": "https://github.com/SteamRE/SteamKit"
     }
   ],
   "positionMilestones": {
