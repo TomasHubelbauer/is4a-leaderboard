@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-02-27T10:03:51.306Z",
-  "position": 336,
-  "stars": 1539,
-  "gap": 1,
+  "dateAndTime": "2020-02-27T11:03:58.498Z",
+  "position": 335,
+  "stars": 1540,
+  "gap": 3,
   "contenders": [
     {
-      "name": "Ryujinx/Ryujinx",
-      "link": "https://github.com/Ryujinx/Ryujinx"
+      "name": "linq2db/linq2db",
+      "link": "https://github.com/linq2db/linq2db"
+    },
+    {
+      "name": "SteamRE/SteamKit",
+      "link": "https://github.com/SteamRE/SteamKit"
     }
   ],
   "positionMilestones": {
@@ -19,7 +23,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 6,
+    "gap": 5,
     "stars": 1553,
     "name": "git-tfs/git-tfs"
   },
@@ -31,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 61
+    "gap": 60
   }
 }
