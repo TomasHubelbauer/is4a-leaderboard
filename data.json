@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-28T00:07:53.233Z",
-  "position": 335,
-  "stars": 1541,
+  "dateAndTime": "2020-02-28T01:04:54.026Z",
+  "position": 334,
+  "stars": 1542,
   "gap": 1,
   "contenders": [
     {
-      "name": "linq2db/linq2db",
-      "link": "https://github.com/linq2db/linq2db"
+      "name": "SteamRE/SteamKit",
+      "link": "https://github.com/SteamRE/SteamKit"
     }
   ],
   "positionMilestones": {
@@ -19,7 +19,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 5,
+    "gap": 4,
     "stars": 1554,
     "name": "anjoy8/Blog.Core"
   },
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 59
+    "gap": 58
   }
 }
