@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-28T07:04:19.585Z",
-  "position": 334,
-  "stars": 1542,
+  "dateAndTime": "2020-02-28T08:04:56.420Z",
+  "position": 333,
+  "stars": 1543,
   "gap": 1,
   "contenders": [
     {
-      "name": "SteamRE/SteamKit",
-      "link": "https://github.com/SteamRE/SteamKit"
+      "name": "ClosedXML/ClosedXML",
+      "link": "https://github.com/ClosedXML/ClosedXML"
     }
   ],
   "positionMilestones": {
@@ -19,7 +19,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 4,
+    "gap": 3,
     "stars": 1557,
     "name": "tonerdo/coverlet"
   },
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 58
+    "gap": 57
   }
 }
