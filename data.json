@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-02-28T08:04:56.420Z",
-  "position": 333,
-  "stars": 1543,
-  "gap": 1,
+  "dateAndTime": "2020-02-28T09:04:24.127Z",
+  "position": 332,
+  "stars": 1544,
+  "gap": 5,
   "contenders": [
     {
-      "name": "ClosedXML/ClosedXML",
-      "link": "https://github.com/ClosedXML/ClosedXML"
+      "name": "jakubgarfield/Bonobo-Git-Server",
+      "link": "https://github.com/jakubgarfield/Bonobo-Git-Server"
     }
   ],
   "positionMilestones": {
@@ -19,7 +19,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 3,
+    "gap": 2,
     "stars": 1557,
     "name": "tonerdo/coverlet"
   },
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 57
+    "gap": 56
   }
 }
