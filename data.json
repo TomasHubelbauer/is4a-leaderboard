@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-02-29T02:04:27.722Z",
+  "dateAndTime": "2020-02-29T03:04:30.615Z",
   "position": 332,
-  "stars": 1544,
-  "gap": 6,
+  "stars": 1546,
+  "gap": 4,
   "contenders": [
     {
       "name": "jakubgarfield/Bonobo-Git-Server",
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 56
+    "gap": 54
   }
 }
