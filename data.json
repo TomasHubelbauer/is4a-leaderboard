@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-02-29T13:04:11.073Z",
+  "dateAndTime": "2020-02-29T14:04:28.947Z",
   "position": 332,
   "stars": 1548,
   "gap": 2,
@@ -20,7 +20,7 @@
   "positionMilestoneToGo": {
     "milestone": 330,
     "gap": 2,
-    "stars": 1560,
+    "stars": 1559,
     "name": "icsharpcode/SharpDevelop"
   },
   "starsMilestones": {
