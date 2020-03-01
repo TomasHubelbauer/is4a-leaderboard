@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-01T06:04:49.068Z",
-  "position": 332,
-  "stars": 1549,
-  "gap": 1,
+  "dateAndTime": "2020-03-01T07:04:03.716Z",
+  "position": 331,
+  "stars": 1550,
+  "gap": 3,
   "contenders": [
     {
-      "name": "jakubgarfield/Bonobo-Git-Server",
-      "link": "https://github.com/jakubgarfield/Bonobo-Git-Server"
+      "name": "git-tfs/git-tfs",
+      "link": "https://github.com/git-tfs/git-tfs"
     }
   ],
   "positionMilestones": {
@@ -19,7 +19,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 330,
-    "gap": 2,
+    "gap": 1,
     "stars": 1560,
     "name": "icsharpcode/SharpDevelop"
   },
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 51
+    "gap": 50
   }
 }
