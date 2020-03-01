@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-02-29T23:04:29.539Z",
-  "position": 332,
+  "dateAndTime": "2020-03-01T00:08:00.869Z",
+  "position": 291,
   "stars": 1548,
   "gap": 2,
   "contenders": [
@@ -10,6 +10,7 @@
     }
   ],
   "positionMilestones": {
+    "300": "2020-03-01T00:08:00.869Z",
     "340": "2020-02-19T02:04:26.639Z",
     "350": "2020-02-12T04:04:57.420Z",
     "360": "2020-01-25T03:02:36.898Z",
@@ -18,10 +19,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 330,
-    "gap": 2,
-    "stars": 1560,
-    "name": "icsharpcode/SharpDevelop"
+    "milestone": 290,
+    "gap": 1,
+    "stars": 1553,
+    "name": "git-tfs/git-tfs"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
