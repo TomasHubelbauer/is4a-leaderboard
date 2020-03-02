@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-02T16:04:46.219Z",
+  "dateAndTime": "2020-03-02T17:04:34.054Z",
   "position": 327,
-  "stars": 1561,
-  "gap": 3,
+  "stars": 1562,
+  "gap": 2,
   "contenders": [
     {
       "name": "cDima/Aerial",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 39
+    "gap": 38
   }
 }
