@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-02T01:04:32.447Z",
+  "dateAndTime": "2020-03-02T02:04:34.035Z",
   "position": 331,
-  "stars": 1551,
-  "gap": 2,
+  "stars": 1552,
+  "gap": 1,
   "contenders": [
     {
       "name": "git-tfs/git-tfs",
@@ -31,6 +31,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 49
+    "gap": 48
   }
 }
