@@ -1,15 +1,20 @@
 {
-  "dateAndTime": "2020-03-02T03:04:39.697Z",
-  "position": 331,
-  "stars": 1552,
-  "gap": 1,
+  "dateAndTime": "2020-03-02T04:04:09.993Z",
+  "position": 330,
+  "stars": 1553,
+  "gap": 7,
   "contenders": [
     {
-      "name": "git-tfs/git-tfs",
-      "link": "https://github.com/git-tfs/git-tfs"
+      "name": "tonerdo/coverlet",
+      "link": "https://github.com/tonerdo/coverlet"
+    },
+    {
+      "name": "icsharpcode/SharpDevelop",
+      "link": "https://github.com/icsharpcode/SharpDevelop"
     }
   ],
   "positionMilestones": {
+    "330": "2020-03-02T04:04:09.993Z",
     "340": "2020-02-19T02:04:26.639Z",
     "350": "2020-02-12T04:04:57.420Z",
     "360": "2020-01-25T03:02:36.898Z",
@@ -18,10 +23,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 330,
-    "gap": 1,
-    "stars": 1560,
-    "name": "tonerdo/coverlet"
+    "milestone": 320,
+    "gap": 10,
+    "stars": 1581,
+    "name": "dotnet/extensions"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
@@ -31,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 48
+    "gap": 47
   }
 }
