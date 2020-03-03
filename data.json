@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-03-03T10:04:33.469Z",
+  "dateAndTime": "2020-03-03T11:04:00.995Z",
   "position": 325,
   "stars": 1567,
   "gap": 3,
   "contenders": [
-    {
-      "name": "Cysharp/MagicOnion",
-      "link": "https://github.com/Cysharp/MagicOnion"
-    },
     {
       "name": "EWSoftware/SHFB",
       "link": "https://github.com/EWSoftware/SHFB"
