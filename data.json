@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-03T00:07:37.158Z",
-  "position": 327,
-  "stars": 1562,
+  "dateAndTime": "2020-03-03T01:04:10.732Z",
+  "position": 326,
+  "stars": 1564,
   "gap": 2,
   "contenders": [
     {
-      "name": "cDima/Aerial",
-      "link": "https://github.com/cDima/Aerial"
+      "name": "opentk/opentk",
+      "link": "https://github.com/opentk/opentk"
     }
   ],
   "positionMilestones": {
@@ -20,7 +20,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 320,
-    "gap": 7,
+    "gap": 6,
     "stars": 1582,
     "name": "dotnet/extensions"
   },
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 38
+    "gap": 36
   }
 }
