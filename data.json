@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-04T00:07:48.771Z",
+  "dateAndTime": "2020-03-04T01:04:19.241Z",
   "position": 325,
-  "stars": 1568,
-  "gap": 3,
+  "stars": 1569,
+  "gap": 2,
   "contenders": [
     {
       "name": "EWSoftware/SHFB",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 32
+    "gap": 31
   }
 }
