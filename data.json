@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-04T02:04:58.771Z",
-  "position": 325,
-  "stars": 1570,
+  "dateAndTime": "2020-03-04T03:04:33.669Z",
+  "position": 324,
+  "stars": 1572,
   "gap": 1,
   "contenders": [
     {
-      "name": "EWSoftware/SHFB",
-      "link": "https://github.com/EWSoftware/SHFB"
+      "name": "Cysharp/MagicOnion",
+      "link": "https://github.com/Cysharp/MagicOnion"
     }
   ],
   "positionMilestones": {
@@ -20,7 +20,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 320,
-    "gap": 5,
+    "gap": 4,
     "stars": 1584,
     "name": "microsoft/aspnet-api-versioning"
   },
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 30
+    "gap": 28
   }
 }
