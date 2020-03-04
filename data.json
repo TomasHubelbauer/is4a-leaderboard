@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-04T05:04:15.180Z",
+  "dateAndTime": "2020-03-04T06:04:30.781Z",
   "position": 323,
-  "stars": 1573,
-  "gap": 2,
+  "stars": 1574,
+  "gap": 1,
   "contenders": [
     {
       "name": "SpecFlowOSS/SpecFlow",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 27
+    "gap": 26
   }
 }
