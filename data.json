@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-05T05:04:06.535Z",
+  "dateAndTime": "2020-03-05T06:04:44.388Z",
   "position": 323,
-  "stars": 1576,
-  "gap": 6,
+  "stars": 1577,
+  "gap": 5,
   "contenders": [
     {
       "name": "tangxuehua/enode",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 24
+    "gap": 23
   }
 }
