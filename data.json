@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-05T19:04:23.672Z",
+  "dateAndTime": "2020-03-05T20:05:05.949Z",
   "position": 323,
-  "stars": 1579,
-  "gap": 3,
+  "stars": 1580,
+  "gap": 2,
   "contenders": [
     {
       "name": "tangxuehua/enode",
@@ -21,7 +21,7 @@
   "positionMilestoneToGo": {
     "milestone": 320,
     "gap": 3,
-    "stars": 1589,
+    "stars": 1590,
     "name": "dotnet/extensions"
   },
   "starsMilestones": {
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 21
+    "gap": 20
   }
 }
