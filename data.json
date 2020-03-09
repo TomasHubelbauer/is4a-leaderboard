@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-09T07:04:28.345Z",
+  "dateAndTime": "2020-03-09T08:04:37.376Z",
   "position": 321,
-  "stars": 1590,
-  "gap": 4,
+  "stars": 1591,
+  "gap": 3,
   "contenders": [
     {
       "name": "mono/SkiaSharp",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 10
+    "gap": 9
   }
 }
