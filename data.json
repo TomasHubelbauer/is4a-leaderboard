@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-09T01:04:39.993Z",
+  "dateAndTime": "2020-03-09T02:04:46.298Z",
   "position": 322,
-  "stars": 1587,
-  "gap": 3,
+  "stars": 1588,
+  "gap": 2,
   "contenders": [
     {
       "name": "microsoft/aspnet-api-versioning",
@@ -32,6 +32,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 13
+    "gap": 12
   }
 }
