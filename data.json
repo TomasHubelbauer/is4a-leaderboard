@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-10T10:04:34.388Z",
+  "dateAndTime": "2020-03-10T11:04:18.470Z",
   "position": 320,
   "stars": 1596,
-  "gap": 3,
+  "gap": 4,
   "contenders": [
     {
       "name": "dotnet/extensions",
