@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-10T05:04:18.743Z",
+  "dateAndTime": "2020-03-10T06:04:38.749Z",
   "position": 320,
-  "stars": 1594,
-  "gap": 4,
+  "stars": 1595,
+  "gap": 3,
   "contenders": [
     {
       "name": "dotnet/extensions",
@@ -33,6 +33,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1600,
-    "gap": 6
+    "gap": 5
   }
 }
