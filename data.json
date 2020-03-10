@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-03-09T23:04:30.270Z",
+  "dateAndTime": "2020-03-10T00:08:02.391Z",
   "position": 321,
   "stars": 1593,
   "gap": 1,
@@ -21,7 +21,7 @@
   "positionMilestoneToGo": {
     "milestone": 320,
     "gap": 1,
-    "stars": 1595,
+    "stars": 1596,
     "name": "dotnet/extensions"
   },
   "starsMilestones": {
