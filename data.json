@@ -1,16 +1,15 @@
 {
-  "dateAndTime": "2020-03-10T11:04:18.470Z",
-  "position": 320,
+  "dateAndTime": "2020-03-10T12:05:11.094Z",
+  "position": 321,
   "stars": 1596,
-  "gap": 4,
+  "gap": 1,
   "contenders": [
     {
-      "name": "dotnet/extensions",
-      "link": "https://github.com/dotnet/extensions"
+      "name": "mono/SkiaSharp",
+      "link": "https://github.com/mono/SkiaSharp"
     }
   ],
   "positionMilestones": {
-    "320": "2020-03-10T03:04:12.213Z",
     "330": "2020-03-02T04:04:09.993Z",
     "340": "2020-02-19T02:04:26.639Z",
     "350": "2020-02-12T04:04:57.420Z",
@@ -20,10 +19,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 310,
-    "gap": 10,
-    "stars": 1651,
-    "name": "JosefPihrt/Roslynator"
+    "milestone": 320,
+    "gap": 1,
+    "stars": 1600,
+    "name": "dotnet/extensions"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
