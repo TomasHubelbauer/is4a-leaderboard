@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-12T02:04:48.259Z",
+  "dateAndTime": "2020-03-12T03:04:24.385Z",
   "position": 320,
-  "stars": 1603,
-  "gap": 7,
+  "stars": 1604,
+  "gap": 6,
   "contenders": [
     {
       "name": "Particular/NServiceBus",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 97
+    "gap": 96
   }
 }
