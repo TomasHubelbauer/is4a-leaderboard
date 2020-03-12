@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-03-11T23:04:28.309Z",
-  "position": 319,
+  "dateAndTime": "2020-03-12T00:08:39.985Z",
+  "position": 320,
   "stars": 1603,
   "gap": 7,
   "contenders": [
@@ -21,9 +21,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 310,
-    "gap": 9,
-    "stars": 1652,
-    "name": "RolandPheasant/TailBlazer"
+    "gap": 10,
+    "stars": 1656,
+    "name": "gregoryyoung/m-r"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
