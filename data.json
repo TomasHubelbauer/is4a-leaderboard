@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-13T15:04:36.918Z",
+  "dateAndTime": "2020-03-13T16:04:31.398Z",
   "position": 318,
-  "stars": 1610,
-  "gap": 6,
+  "stars": 1611,
+  "gap": 5,
   "contenders": [
     {
       "name": "sq/JSIL",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 90
+    "gap": 89
   }
 }
