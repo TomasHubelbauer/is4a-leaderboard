@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-15T18:04:53.584Z",
+  "dateAndTime": "2020-03-15T19:04:24.241Z",
   "position": 316,
-  "stars": 1617,
-  "gap": 3,
+  "stars": 1618,
+  "gap": 2,
   "contenders": [
     {
       "name": "greenshot/greenshot",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 83
+    "gap": 82
   }
 }
