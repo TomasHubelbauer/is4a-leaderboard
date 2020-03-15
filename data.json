@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-03-15T09:04:52.973Z",
-  "position": 317,
+  "dateAndTime": "2020-03-15T10:04:51.762Z",
+  "position": 316,
   "stars": 1615,
   "gap": 5,
   "contenders": [
@@ -21,9 +21,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 310,
-    "gap": 7,
-    "stars": 1653,
-    "name": "RolandPheasant/TailBlazer"
+    "gap": 6,
+    "stars": 1652,
+    "name": "JosefPihrt/Roslynator"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
