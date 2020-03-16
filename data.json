@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-16T08:04:25.292Z",
-  "position": 316,
-  "stars": 1619,
-  "gap": 1,
+  "dateAndTime": "2020-03-16T09:05:02.555Z",
+  "position": 315,
+  "stars": 1620,
+  "gap": 18,
   "contenders": [
     {
-      "name": "greenshot/greenshot",
-      "link": "https://github.com/greenshot/greenshot"
+      "name": "microsoft/WinAppDriver",
+      "link": "https://github.com/microsoft/WinAppDriver"
     }
   ],
   "positionMilestones": {
@@ -21,7 +21,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 310,
-    "gap": 6,
+    "gap": 5,
     "stars": 1654,
     "name": "JosefPihrt/Roslynator"
   },
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 81
+    "gap": 80
   }
 }
