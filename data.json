@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-03-16T15:04:51.878Z",
-  "position": 315,
+  "dateAndTime": "2020-03-16T16:04:58.710Z",
+  "position": 314,
   "stars": 1621,
   "gap": 19,
   "contenders": [
@@ -21,9 +21,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 310,
-    "gap": 5,
-    "stars": 1655,
-    "name": "JosefPihrt/Roslynator"
+    "gap": 4,
+    "stars": 1648,
+    "name": "Azure/azure-sdk-for-net"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
