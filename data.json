@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-17T14:04:29.765Z",
+  "dateAndTime": "2020-03-17T15:04:33.844Z",
   "position": 314,
-  "stars": 1627,
-  "gap": 14,
+  "stars": 1628,
+  "gap": 13,
   "contenders": [
     {
       "name": "microsoft/WinAppDriver",
@@ -22,7 +22,7 @@
   "positionMilestoneToGo": {
     "milestone": 310,
     "gap": 4,
-    "stars": 1648,
+    "stars": 1649,
     "name": "Azure/azure-sdk-for-net"
   },
   "starsMilestones": {
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 73
+    "gap": 72
   }
 }
