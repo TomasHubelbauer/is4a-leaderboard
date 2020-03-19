@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-19T05:03:31.991Z",
+  "dateAndTime": "2020-03-19T06:03:46.361Z",
   "position": 314,
-  "stars": 1633,
-  "gap": 9,
+  "stars": 1634,
+  "gap": 8,
   "contenders": [
     {
       "name": "microsoft/WinAppDriver",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 67
+    "gap": 66
   }
 }
