@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-03-19T00:06:42.316Z",
-  "position": 313,
+  "dateAndTime": "2020-03-19T01:03:26.909Z",
+  "position": 314,
   "stars": 1633,
   "gap": 9,
   "contenders": [
@@ -21,9 +21,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 310,
-    "gap": 3,
-    "stars": 1650,
-    "name": "Azure/azure-sdk-for-net"
+    "gap": 4,
+    "stars": 1653,
+    "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
