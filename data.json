@@ -1,9 +1,17 @@
 {
-  "dateAndTime": "2020-03-22T04:03:32.400Z",
+  "dateAndTime": "2020-03-22T05:03:31.384Z",
   "position": 314,
   "stars": 1648,
-  "gap": 4,
+  "gap": 5,
   "contenders": [
+    {
+      "name": "dotnet/try",
+      "link": "https://github.com/dotnet/try"
+    },
+    {
+      "name": "Azure/azure-sdk-for-net",
+      "link": "https://github.com/Azure/azure-sdk-for-net"
+    },
     {
       "name": "pardeike/Harmony",
       "link": "https://github.com/pardeike/Harmony"
