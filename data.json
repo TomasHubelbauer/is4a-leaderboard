@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-22T07:03:30.433Z",
+  "dateAndTime": "2020-03-22T08:03:46.168Z",
   "position": 314,
-  "stars": 1648,
-  "gap": 5,
+  "stars": 1649,
+  "gap": 4,
   "contenders": [
     {
       "name": "dotnet/try",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 52
+    "gap": 51
   }
 }
