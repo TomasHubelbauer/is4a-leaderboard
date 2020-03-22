@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-22T03:03:25.330Z",
+  "dateAndTime": "2020-03-22T04:03:32.400Z",
   "position": 314,
-  "stars": 1647,
-  "gap": 5,
+  "stars": 1648,
+  "gap": 4,
   "contenders": [
     {
       "name": "pardeike/Harmony",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 53
+    "gap": 52
   }
 }
