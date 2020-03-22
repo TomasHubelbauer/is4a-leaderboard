@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-22T15:03:33.541Z",
+  "dateAndTime": "2020-03-22T16:03:47.260Z",
   "position": 314,
-  "stars": 1649,
-  "gap": 3,
+  "stars": 1650,
+  "gap": 2,
   "contenders": [
     {
       "name": "Azure/azure-sdk-for-net",
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 51
+    "gap": 50
   }
 }
