@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-22T02:03:18.158Z",
-  "position": 315,
-  "stars": 1646,
-  "gap": 1,
+  "dateAndTime": "2020-03-22T03:03:25.330Z",
+  "position": 314,
+  "stars": 1647,
+  "gap": 5,
   "contenders": [
     {
-      "name": "microsoft/WinAppDriver",
-      "link": "https://github.com/microsoft/WinAppDriver"
+      "name": "pardeike/Harmony",
+      "link": "https://github.com/pardeike/Harmony"
     }
   ],
   "positionMilestones": {
@@ -21,7 +21,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 310,
-    "gap": 5,
+    "gap": 4,
     "stars": 1658,
     "name": "RolandPheasant/TailBlazer"
   },
@@ -34,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 54
+    "gap": 53
   }
 }
