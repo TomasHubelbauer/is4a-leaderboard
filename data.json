@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-03-23T08:03:59.453Z",
+  "dateAndTime": "2020-03-23T09:03:45.020Z",
   "position": 313,
-  "stars": 1652,
-  "gap": 3,
+  "stars": 1653,
+  "gap": 2,
   "contenders": [
     {
       "name": "dotnet/try",
       "link": "https://github.com/dotnet/try"
-    },
-    {
-      "name": "pardeike/Harmony",
-      "link": "https://github.com/pardeike/Harmony"
     }
   ],
   "positionMilestones": {
@@ -38,6 +34,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 48
+    "gap": 47
   }
 }
