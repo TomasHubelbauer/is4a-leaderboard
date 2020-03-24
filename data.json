@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-24T20:03:58.454Z",
-  "position": 310,
-  "stars": 1657,
-  "gap": 1,
+  "dateAndTime": "2020-03-24T21:03:10.641Z",
+  "position": 309,
+  "stars": 1658,
+  "gap": 3,
   "contenders": [
     {
-      "name": "RolandPheasant/TailBlazer",
-      "link": "https://github.com/RolandPheasant/TailBlazer"
+      "name": "JosefPihrt/Roslynator",
+      "link": "https://github.com/JosefPihrt/Roslynator"
     }
   ],
   "positionMilestones": {
@@ -22,7 +22,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 300,
-    "gap": 10,
+    "gap": 9,
     "stars": 1714,
     "name": "exceptionless/Exceptionless"
   },
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 43
+    "gap": 42
   }
 }
