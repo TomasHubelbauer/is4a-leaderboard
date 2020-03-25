@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-25T18:03:40.169Z",
-  "position": 309,
-  "stars": 1661,
-  "gap": 1,
+  "dateAndTime": "2020-03-25T20:03:44.647Z",
+  "position": 308,
+  "stars": 1663,
+  "gap": 7,
   "contenders": [
     {
-      "name": "JosefPihrt/Roslynator",
-      "link": "https://github.com/JosefPihrt/Roslynator"
+      "name": "sjdirect/abot",
+      "link": "https://github.com/sjdirect/abot"
     }
   ],
   "positionMilestones": {
@@ -22,7 +22,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 300,
-    "gap": 9,
+    "gap": 8,
     "stars": 1716,
     "name": "exceptionless/Exceptionless"
   },
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 39
+    "gap": 37
   }
 }
