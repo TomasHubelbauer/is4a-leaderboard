@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-25T15:03:36.265Z",
+  "dateAndTime": "2020-03-25T16:03:38.256Z",
   "position": 309,
-  "stars": 1660,
-  "gap": 2,
+  "stars": 1661,
+  "gap": 1,
   "contenders": [
     {
       "name": "JosefPihrt/Roslynator",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 40
+    "gap": 39
   }
 }
