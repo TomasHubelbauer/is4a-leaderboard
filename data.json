@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-03-25T10:03:32.132Z",
+  "dateAndTime": "2020-03-25T11:03:22.073Z",
   "position": 309,
   "stars": 1660,
   "gap": 2,
@@ -23,7 +23,7 @@
   "positionMilestoneToGo": {
     "milestone": 300,
     "gap": 9,
-    "stars": 1714,
+    "stars": 1715,
     "name": "exceptionless/Exceptionless"
   },
   "starsMilestones": {
