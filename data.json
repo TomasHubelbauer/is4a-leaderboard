@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-27T04:03:48.561Z",
+  "dateAndTime": "2020-03-27T05:03:11.537Z",
   "position": 308,
-  "stars": 1668,
-  "gap": 2,
+  "stars": 1669,
+  "gap": 1,
   "contenders": [
     {
       "name": "sjdirect/abot",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 32
+    "gap": 31
   }
 }
