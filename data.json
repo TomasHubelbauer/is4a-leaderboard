@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-03-28T12:04:15.007Z",
+  "dateAndTime": "2020-03-28T13:03:11.732Z",
   "position": 308,
   "stars": 1672,
-  "gap": 3,
+  "gap": 4,
   "contenders": [
+    {
+      "name": "neuecc/Utf8Json",
+      "link": "https://github.com/neuecc/Utf8Json"
+    },
     {
       "name": "Ryujinx/Ryujinx",
       "link": "https://github.com/Ryujinx/Ryujinx"
