@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-28T10:03:31.261Z",
+  "dateAndTime": "2020-03-28T11:03:36.159Z",
   "position": 308,
-  "stars": 1671,
-  "gap": 4,
+  "stars": 1672,
+  "gap": 3,
   "contenders": [
     {
       "name": "Ryujinx/Ryujinx",
@@ -23,7 +23,7 @@
   "positionMilestoneToGo": {
     "milestone": 300,
     "gap": 8,
-    "stars": 1721,
+    "stars": 1722,
     "name": "anjoy8/Blog.Core"
   },
   "starsMilestones": {
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 29
+    "gap": 28
   }
 }
