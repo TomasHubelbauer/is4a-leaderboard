@@ -1,7 +1,7 @@
 {
-  "dateAndTime": "2020-03-28T09:03:27.693Z",
+  "dateAndTime": "2020-03-28T10:03:31.261Z",
   "position": 308,
-  "stars": 1670,
+  "stars": 1671,
   "gap": 4,
   "contenders": [
     {
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 30
+    "gap": 29
   }
 }
