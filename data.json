@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-03-28T17:03:34.777Z",
+  "dateAndTime": "2020-03-28T18:04:06.270Z",
   "position": 308,
   "stars": 1672,
   "gap": 4,
@@ -7,10 +7,6 @@
     {
       "name": "neuecc/Utf8Json",
       "link": "https://github.com/neuecc/Utf8Json"
-    },
-    {
-      "name": "Ryujinx/Ryujinx",
-      "link": "https://github.com/Ryujinx/Ryujinx"
     }
   ],
   "positionMilestones": {
