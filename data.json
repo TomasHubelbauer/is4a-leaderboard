@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-29T17:03:23.107Z",
+  "dateAndTime": "2020-03-29T18:03:49.018Z",
   "position": 308,
-  "stars": 1674,
-  "gap": 3,
+  "stars": 1675,
+  "gap": 2,
   "contenders": [
     {
       "name": "DotNetOpenAuth/DotNetOpenAuth",
@@ -39,6 +39,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 26
+    "gap": 25
   }
 }
