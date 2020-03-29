@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-28T23:03:18.566Z",
+  "dateAndTime": "2020-03-29T00:06:52.695Z",
   "position": 308,
-  "stars": 1672,
-  "gap": 4,
+  "stars": 1673,
+  "gap": 3,
   "contenders": [
     {
       "name": "neuecc/Utf8Json",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 28
+    "gap": 27
   }
 }
