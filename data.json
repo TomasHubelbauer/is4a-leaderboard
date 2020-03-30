@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-03-30T14:03:22.276Z",
-  "position": 308,
-  "stars": 1676,
-  "gap": 1,
+  "dateAndTime": "2020-03-30T15:03:36.934Z",
+  "position": 306,
+  "stars": 1677,
+  "gap": 2,
   "contenders": [
     {
-      "name": "DotNetOpenAuth/DotNetOpenAuth",
-      "link": "https://github.com/DotNetOpenAuth/DotNetOpenAuth"
-    },
-    {
-      "name": "neuecc/Utf8Json",
-      "link": "https://github.com/neuecc/Utf8Json"
+      "name": "github-for-unity/Unity",
+      "link": "https://github.com/github-for-unity/Unity"
     }
   ],
   "positionMilestones": {
@@ -26,7 +22,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 300,
-    "gap": 8,
+    "gap": 6,
     "stars": 1726,
     "name": "exceptionless/Exceptionless"
   },
@@ -39,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 24
+    "gap": 23
   }
 }
