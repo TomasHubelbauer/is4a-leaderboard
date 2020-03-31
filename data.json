@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-03-31T03:03:22.847Z",
-  "position": 306,
+  "dateAndTime": "2020-03-31T04:04:02.508Z",
+  "position": 307,
   "stars": 1678,
-  "gap": 3,
+  "gap": 1,
   "contenders": [
     {
-      "name": "github-for-unity/Unity",
-      "link": "https://github.com/github-for-unity/Unity"
+      "name": "JasonStein/Notepads",
+      "link": "https://github.com/JasonStein/Notepads"
     }
   ],
   "positionMilestones": {
@@ -22,7 +22,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 300,
-    "gap": 6,
+    "gap": 7,
     "stars": 1726,
     "name": "exceptionless/Exceptionless"
   },
