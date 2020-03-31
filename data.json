@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-03-31T17:03:31.582Z",
-  "position": 281,
+  "dateAndTime": "2020-03-31T18:03:08.744Z",
+  "position": 305,
   "stars": 1682,
   "gap": 6,
   "contenders": [
@@ -10,7 +10,6 @@
     }
   ],
   "positionMilestones": {
-    "290": "2020-03-31T17:03:31.581Z",
     "310": "2020-03-24T10:03:37.733Z",
     "320": "2020-03-13T02:04:45.733Z",
     "330": "2020-03-02T04:04:09.993Z",
@@ -22,10 +21,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 280,
-    "gap": 1,
-    "stars": 1693,
-    "name": "JasonStein/Notepads"
+    "milestone": 300,
+    "gap": 5,
+    "stars": 1726,
+    "name": "exceptionless/Exceptionless"
   },
   "starsMilestones": {
     "1200": "2019-12-04T22:56:54.528Z",
