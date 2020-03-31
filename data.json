@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-03-31T05:03:49.726Z",
+  "dateAndTime": "2020-03-31T06:04:11.037Z",
   "position": 307,
   "stars": 1678,
   "gap": 3,
@@ -7,10 +7,6 @@
     {
       "name": "github-for-unity/Unity",
       "link": "https://github.com/github-for-unity/Unity"
-    },
-    {
-      "name": "JasonStein/Notepads",
-      "link": "https://github.com/JasonStein/Notepads"
     }
   ],
   "positionMilestones": {
