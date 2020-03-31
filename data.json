@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-03-31T11:03:21.520Z",
+  "dateAndTime": "2020-03-31T12:04:19.354Z",
   "position": 307,
-  "stars": 1679,
-  "gap": 2,
+  "stars": 1680,
+  "gap": 1,
   "contenders": [
     {
       "name": "github-for-unity/Unity",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 21
+    "gap": 20
   }
 }
