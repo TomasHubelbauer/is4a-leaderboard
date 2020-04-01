@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-01T01:03:36.404Z",
+  "dateAndTime": "2020-04-01T02:03:35.043Z",
   "position": 305,
-  "stars": 1685,
-  "gap": 4,
+  "stars": 1684,
+  "gap": 5,
   "contenders": [
     {
       "name": "keenanwoodall/Deform",
@@ -23,7 +23,7 @@
   "positionMilestoneToGo": {
     "milestone": 300,
     "gap": 5,
-    "stars": 1727,
+    "stars": 1728,
     "name": "Ryujinx/Ryujinx"
   },
   "starsMilestones": {
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 15
+    "gap": 16
   }
 }
