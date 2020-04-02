@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-04-02T05:03:24.819Z",
-  "position": 305,
-  "stars": 1689,
-  "gap": 1,
+  "dateAndTime": "2020-04-02T06:03:46.863Z",
+  "position": 304,
+  "stars": 1690,
+  "gap": 27,
   "contenders": [
     {
-      "name": "keenanwoodall/Deform",
-      "link": "https://github.com/keenanwoodall/Deform"
+      "name": "MichaCo/CacheManager",
+      "link": "https://github.com/MichaCo/CacheManager"
     }
   ],
   "positionMilestones": {
@@ -22,7 +22,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 300,
-    "gap": 5,
+    "gap": 4,
     "stars": 1732,
     "name": "mono/CppSharp"
   },
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 11
+    "gap": 10
   }
 }
