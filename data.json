@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-02T02:03:42.942Z",
+  "dateAndTime": "2020-04-02T03:03:37.702Z",
   "position": 305,
-  "stars": 1686,
-  "gap": 4,
+  "stars": 1689,
+  "gap": 1,
   "contenders": [
     {
       "name": "keenanwoodall/Deform",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1700,
-    "gap": 14
+    "gap": 11
   }
 }
