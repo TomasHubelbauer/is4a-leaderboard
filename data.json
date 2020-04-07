@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-04-06T23:02:42.786Z",
+  "dateAndTime": "2020-04-07T00:06:00.708Z",
   "position": 304,
   "stars": 1702,
   "gap": 14,
@@ -23,7 +23,7 @@
   "positionMilestoneToGo": {
     "milestone": 300,
     "gap": 4,
-    "stars": 1735,
+    "stars": 1736,
     "name": "mono/CppSharp"
   },
   "starsMilestones": {
