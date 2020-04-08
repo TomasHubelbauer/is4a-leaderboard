@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-08T10:03:11.489Z",
+  "dateAndTime": "2020-04-08T11:03:01.697Z",
   "position": 304,
-  "stars": 1709,
-  "gap": 11,
+  "stars": 1710,
+  "gap": 10,
   "contenders": [
     {
       "name": "MichaCo/CacheManager",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 91
+    "gap": 90
   }
 }
