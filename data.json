@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-09T06:03:13.961Z",
+  "dateAndTime": "2020-04-09T07:02:39.043Z",
   "position": 303,
-  "stars": 1721,
-  "gap": 3,
+  "stars": 1723,
+  "gap": 1,
   "contenders": [
     {
       "name": "pnp/PnP",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 79
+    "gap": 77
   }
 }
