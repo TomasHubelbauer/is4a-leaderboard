@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-10T14:03:18.745Z",
+  "dateAndTime": "2020-04-10T15:03:19.366Z",
   "position": 302,
-  "stars": 1732,
-  "gap": 3,
+  "stars": 1733,
+  "gap": 2,
   "contenders": [
     {
       "name": "jbevain/cecil",
@@ -35,6 +35,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 68
+    "gap": 67
   }
 }
