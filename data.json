@@ -1,15 +1,16 @@
 {
-  "dateAndTime": "2020-04-12T08:03:41.609Z",
-  "position": 301,
-  "stars": 1736,
-  "gap": 1,
+  "dateAndTime": "2020-04-12T09:03:23.805Z",
+  "position": 300,
+  "stars": 1737,
+  "gap": 2,
   "contenders": [
     {
-      "name": "mono/CppSharp",
-      "link": "https://github.com/mono/CppSharp"
+      "name": "exceptionless/Exceptionless",
+      "link": "https://github.com/exceptionless/Exceptionless"
     }
   ],
   "positionMilestones": {
+    "300": "2020-04-12T09:03:23.805Z",
     "310": "2020-04-05T08:47:19.081Z",
     "320": "2020-03-13T02:04:45.733Z",
     "330": "2020-03-02T04:04:09.993Z",
@@ -21,10 +22,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 300,
-    "gap": 1,
-    "stars": 1739,
-    "name": "exceptionless/Exceptionless"
+    "milestone": 290,
+    "gap": 10,
+    "stars": 1797,
+    "name": "smartstore/SmartStoreNET"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -35,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 64
+    "gap": 63
   }
 }
