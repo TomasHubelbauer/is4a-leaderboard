@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-12T15:03:08.061Z",
+  "dateAndTime": "2020-04-12T16:03:22.995Z",
   "position": 299,
-  "stars": 1739,
-  "gap": 2,
+  "stars": 1740,
+  "gap": 1,
   "contenders": [
     {
       "name": "SonyWWS/ATF",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 61
+    "gap": 60
   }
 }
