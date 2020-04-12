@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-12T09:03:23.805Z",
+  "dateAndTime": "2020-04-12T10:03:26.807Z",
   "position": 300,
-  "stars": 1737,
-  "gap": 2,
+  "stars": 1738,
+  "gap": 1,
   "contenders": [
     {
       "name": "exceptionless/Exceptionless",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 63
+    "gap": 62
   }
 }
