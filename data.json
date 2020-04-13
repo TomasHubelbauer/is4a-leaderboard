@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-04-13T07:03:12.028Z",
-  "position": 299,
-  "stars": 1741,
+  "dateAndTime": "2020-04-13T08:03:28.325Z",
+  "position": 298,
+  "stars": 1742,
   "gap": 1,
   "contenders": [
     {
-      "name": "SonyWWS/ATF",
-      "link": "https://github.com/SonyWWS/ATF"
+      "name": "Tencent/behaviac",
+      "link": "https://github.com/Tencent/behaviac"
     }
   ],
   "positionMilestones": {
@@ -23,7 +23,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 290,
-    "gap": 9,
+    "gap": 8,
     "stars": 1797,
     "name": "smartstore/SmartStoreNET"
   },
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 59
+    "gap": 58
   }
 }
