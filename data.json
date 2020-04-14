@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-14T07:03:12.020Z",
+  "dateAndTime": "2020-04-14T08:03:44.736Z",
   "position": 297,
-  "stars": 1745,
-  "gap": 2,
+  "stars": 1746,
+  "gap": 1,
   "contenders": [
     {
       "name": "nhibernate/nhibernate-core",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 55
+    "gap": 54
   }
 }
