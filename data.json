@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-04-14T16:03:24.143Z",
+  "dateAndTime": "2020-04-14T18:03:26.316Z",
   "position": 296,
   "stars": 1750,
   "gap": 4,
@@ -24,7 +24,7 @@
   "positionMilestoneToGo": {
     "milestone": 290,
     "gap": 6,
-    "stars": 1799,
+    "stars": 1800,
     "name": "smartstore/SmartStoreNET"
   },
   "starsMilestones": {
