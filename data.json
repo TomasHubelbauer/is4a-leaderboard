@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-14T15:03:58.066Z",
+  "dateAndTime": "2020-04-14T16:03:24.143Z",
   "position": 296,
-  "stars": 1749,
-  "gap": 5,
+  "stars": 1750,
+  "gap": 4,
   "contenders": [
     {
       "name": "microsoft/nodejstools",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 51
+    "gap": 50
   }
 }
