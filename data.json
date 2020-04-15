@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-04-15T10:03:34.817Z",
-  "position": 295,
-  "stars": 1755,
+  "dateAndTime": "2020-04-15T11:03:26.053Z",
+  "position": 294,
+  "stars": 1756,
   "gap": 1,
   "contenders": [
     {
-      "name": "SteveSanderson/Blazor",
-      "link": "https://github.com/SteveSanderson/Blazor"
+      "name": "FransBouma/Massive",
+      "link": "https://github.com/FransBouma/Massive"
     }
   ],
   "positionMilestones": {
@@ -23,7 +23,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 290,
-    "gap": 5,
+    "gap": 4,
     "stars": 1800,
     "name": "smartstore/SmartStoreNET"
   },
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 45
+    "gap": 44
   }
 }
