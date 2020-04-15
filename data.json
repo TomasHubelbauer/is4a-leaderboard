@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-04-15T09:03:34.952Z",
-  "position": 296,
-  "stars": 1753,
+  "dateAndTime": "2020-04-15T10:03:34.817Z",
+  "position": 295,
+  "stars": 1755,
   "gap": 1,
   "contenders": [
     {
-      "name": "microsoft/nodejstools",
-      "link": "https://github.com/microsoft/nodejstools"
+      "name": "SteveSanderson/Blazor",
+      "link": "https://github.com/SteveSanderson/Blazor"
     }
   ],
   "positionMilestones": {
@@ -23,7 +23,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 290,
-    "gap": 6,
+    "gap": 5,
     "stars": 1800,
     "name": "smartstore/SmartStoreNET"
   },
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 47
+    "gap": 45
   }
 }
