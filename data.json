@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-16T08:03:30.267Z",
+  "dateAndTime": "2020-04-16T09:03:25.016Z",
   "position": 293,
   "stars": 1758,
-  "gap": 2,
+  "gap": 3,
   "contenders": [
     {
       "name": "jarjin/LuaFramework_UGUI",
