@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-04-16T21:03:22.039Z",
+  "dateAndTime": "2020-04-16T22:02:49.930Z",
   "position": 292,
   "stars": 1761,
   "gap": 12,
   "contenders": [
-    {
-      "name": "fluentassertions/fluentassertions",
-      "link": "https://github.com/fluentassertions/fluentassertions"
-    },
     {
       "name": "grpc/grpc-dotnet",
       "link": "https://github.com/grpc/grpc-dotnet"
