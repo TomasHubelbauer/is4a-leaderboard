@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-16T16:04:11.905Z",
+  "dateAndTime": "2020-04-16T17:03:17.989Z",
   "position": 293,
-  "stars": 1758,
-  "gap": 3,
+  "stars": 1760,
+  "gap": 1,
   "contenders": [
     {
       "name": "jarjin/LuaFramework_UGUI",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 42
+    "gap": 40
   }
 }
