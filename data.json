@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-04-17T06:03:32.851Z",
-  "position": 292,
+  "dateAndTime": "2020-04-17T07:03:22.668Z",
+  "position": 293,
   "stars": 1762,
-  "gap": 12,
+  "gap": 1,
   "contenders": [
     {
-      "name": "fluentassertions/fluentassertions",
-      "link": "https://github.com/fluentassertions/fluentassertions"
-    },
-    {
-      "name": "grpc/grpc-dotnet",
-      "link": "https://github.com/grpc/grpc-dotnet"
+      "name": "jarjin/LuaFramework_UGUI",
+      "link": "https://github.com/jarjin/LuaFramework_UGUI"
     }
   ],
   "positionMilestones": {
@@ -27,7 +23,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 290,
-    "gap": 2,
+    "gap": 3,
     "stars": 1800,
     "name": "smartstore/SmartStoreNET"
   },
