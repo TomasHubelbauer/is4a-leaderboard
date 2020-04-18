@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-18T06:03:26.671Z",
+  "dateAndTime": "2020-04-18T07:02:46.325Z",
   "position": 292,
   "stars": 1763,
-  "gap": 10,
+  "gap": 11,
   "contenders": [
     {
       "name": "grpc/grpc-dotnet",
@@ -24,7 +24,7 @@
   "positionMilestoneToGo": {
     "milestone": 290,
     "gap": 2,
-    "stars": 1800,
+    "stars": 1801,
     "name": "smartstore/SmartStoreNET"
   },
   "starsMilestones": {
