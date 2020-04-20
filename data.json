@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-20T03:03:08.805Z",
+  "dateAndTime": "2020-04-20T04:03:17.069Z",
   "position": 292,
   "stars": 1767,
-  "gap": 8,
+  "gap": 9,
   "contenders": [
     {
       "name": "grpc/grpc-dotnet",
