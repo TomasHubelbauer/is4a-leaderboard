@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-20T06:03:08.156Z",
+  "dateAndTime": "2020-04-20T07:02:55.302Z",
   "position": 292,
-  "stars": 1767,
-  "gap": 9,
+  "stars": 1768,
+  "gap": 8,
   "contenders": [
     {
       "name": "grpc/grpc-dotnet",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 33
+    "gap": 32
   }
 }
