@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-22T16:03:18.783Z",
+  "dateAndTime": "2020-04-22T17:02:59.324Z",
   "position": 292,
-  "stars": 1774,
-  "gap": 9,
+  "stars": 1775,
+  "gap": 8,
   "contenders": [
     {
       "name": "fluentassertions/fluentassertions",
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 290,
     "gap": 2,
-    "stars": 1807,
+    "stars": 1808,
     "name": "smartstore/SmartStoreNET"
   },
   "starsMilestones": {
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 26
+    "gap": 25
   }
 }
