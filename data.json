@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-04-23T07:03:08.529Z",
+  "dateAndTime": "2020-04-23T08:03:17.186Z",
   "position": 292,
   "stars": 1777,
   "gap": 7,
@@ -7,10 +7,6 @@
     {
       "name": "fluentassertions/fluentassertions",
       "link": "https://github.com/fluentassertions/fluentassertions"
-    },
-    {
-      "name": "grpc/grpc-dotnet",
-      "link": "https://github.com/grpc/grpc-dotnet"
     }
   ],
   "positionMilestones": {
