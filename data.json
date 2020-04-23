@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-23T15:03:00.229Z",
+  "dateAndTime": "2020-04-23T16:03:23.322Z",
   "position": 292,
-  "stars": 1778,
-  "gap": 6,
+  "stars": 1779,
+  "gap": 5,
   "contenders": [
     {
       "name": "fluentassertions/fluentassertions",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 22
+    "gap": 21
   }
 }
