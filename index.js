@@ -27,8 +27,9 @@ window.addEventListener('load', async () => {
   positionMilestoneGapP.append(positionMilestoneGapStrong);
   positionMilestoneGapP.append(` ${json.positionMilestoneToGo.gap} — `);
   const contenderA = document.createElement('a');
+  contenderA.href = `https://tomashubelbauer.github.io/net-ecosystem-review/#${json.positionMilestoneToGo.milestone}`;
   contenderA.textContent = `${json.positionMilestoneToGo.stars - json.stars} ★`;
-  contenderA.title = json.positionMilestoneToGo.name;
+  contenderA.title = `${json.positionMilestoneToGo.name} (${json.positionMilestoneToGo.stars} ★)`;
   positionMilestoneGapP.append(contenderA);
   positionMilestoneGapP.append(` — to go`);
   positionMilestonesDiv.append(positionMilestoneGapP);
