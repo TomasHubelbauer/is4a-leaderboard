@@ -22,3 +22,9 @@ Ditch `data.json`, generate the HTML directly and in one file to both embed in t
 email notification and serve through GitHub Pages.
 
 ### Generate a MarkDown readme section in addition to the email and web
+
+### Calculate the milestones all the way back to the beginning using the GitHub Stars API
+
+### Display the duration between milestones in a human-friendly relative format
+
+E.g.: *2 weeks* after a milestone which was reached two weeks after the one below it.
