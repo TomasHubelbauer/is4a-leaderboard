@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-23T23:03:08.079Z",
-  "position": 292,
+  "dateAndTime": "2020-04-24T00:06:32.406Z",
+  "position": 293,
   "stars": 1780,
-  "gap": 4,
+  "gap": 5,
   "contenders": [
     {
       "name": "fluentassertions/fluentassertions",
@@ -23,9 +23,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 290,
-    "gap": 2,
-    "stars": 1810,
-    "name": "smartstore/SmartStoreNET"
+    "gap": 3,
+    "stars": 1818,
+    "name": "xamarin/XamarinComponents"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
