@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-27T05:03:24.642Z",
+  "dateAndTime": "2020-04-27T06:03:31.480Z",
   "position": 291,
-  "stars": 1792,
-  "gap": 19,
+  "stars": 1793,
+  "gap": 18,
   "contenders": [
     {
       "name": "smartstore/SmartStoreNET",
@@ -36,6 +36,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1800,
-    "gap": 8
+    "gap": 7
   }
 }
