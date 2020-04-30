@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-04-30T07:03:08.521Z",
+  "dateAndTime": "2020-04-30T08:03:19.640Z",
   "position": 291,
-  "stars": 1806,
-  "gap": 6,
+  "stars": 1807,
+  "gap": 5,
   "contenders": [
     {
       "name": "smartstore/SmartStoreNET",
@@ -24,7 +24,7 @@
   "positionMilestoneToGo": {
     "milestone": 290,
     "gap": 1,
-    "stars": 1816,
+    "stars": 1815,
     "name": "xamarin/XamarinComponents"
   },
   "starsMilestones": {
@@ -37,6 +37,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 94
+    "gap": 93
   }
 }
