@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-04-30T15:02:42.693Z",
+  "dateAndTime": "2020-04-30T16:03:22.295Z",
   "position": 291,
   "stars": 1808,
   "gap": 5,
@@ -24,7 +24,7 @@
   "positionMilestoneToGo": {
     "milestone": 290,
     "gap": 1,
-    "stars": 1815,
+    "stars": 1816,
     "name": "xamarin/XamarinComponents"
   },
   "starsMilestones": {
