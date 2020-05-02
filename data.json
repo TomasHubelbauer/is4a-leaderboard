@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-05-02T03:03:15.448Z",
-  "position": 290,
+  "dateAndTime": "2020-05-02T04:03:08.016Z",
+  "position": 274,
   "stars": 1812,
   "gap": 2,
   "contenders": [
@@ -10,6 +10,7 @@
     }
   ],
   "positionMilestones": {
+    "280": "2020-05-02T04:03:08.016Z",
     "290": "2020-05-01T17:03:36.981Z",
     "300": "2020-04-12T09:03:23.805Z",
     "310": "2020-04-05T08:47:19.081Z",
@@ -23,10 +24,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 280,
-    "gap": 10,
-    "stars": 1855,
-    "name": "microsoft/GraphEngine"
+    "milestone": 270,
+    "gap": 4,
+    "stars": 1838,
+    "name": "CosmosOS/Cosmos"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
