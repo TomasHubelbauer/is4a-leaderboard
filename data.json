@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-05-04T02:03:25.674Z",
-  "position": 289,
-  "stars": 1816,
-  "gap": 1,
+  "dateAndTime": "2020-05-04T03:03:16.865Z",
+  "position": 288,
+  "stars": 1817,
+  "gap": 21,
   "contenders": [
     {
-      "name": "xamarin/XamarinComponents",
-      "link": "https://github.com/xamarin/XamarinComponents"
+      "name": "EasyNetQ/EasyNetQ",
+      "link": "https://github.com/EasyNetQ/EasyNetQ"
+    },
+    {
+      "name": "sebastienros/jint",
+      "link": "https://github.com/sebastienros/jint"
     }
   ],
   "positionMilestones": {
@@ -24,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 9,
+    "gap": 8,
     "stars": 1855,
     "name": "microsoft/GraphEngine"
   },
@@ -38,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 84
+    "gap": 83
   }
 }
