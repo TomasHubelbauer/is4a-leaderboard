@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-05T03:03:05.888Z",
+  "dateAndTime": "2020-05-05T04:04:57.854Z",
   "position": 288,
-  "stars": 1819,
-  "gap": 19,
+  "stars": 1820,
+  "gap": 18,
   "contenders": [
     {
       "name": "sebastienros/jint",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 81
+    "gap": 80
   }
 }
