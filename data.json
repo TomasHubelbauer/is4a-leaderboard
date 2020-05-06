@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-06T21:03:11.531Z",
+  "dateAndTime": "2020-05-06T22:03:11.292Z",
   "position": 288,
-  "stars": 1826,
-  "gap": 14,
+  "stars": 1827,
+  "gap": 13,
   "contenders": [
     {
       "name": "EasyNetQ/EasyNetQ",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 74
+    "gap": 73
   }
 }
