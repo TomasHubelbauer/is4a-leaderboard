@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-05-07T06:04:50.995Z",
+  "dateAndTime": "2020-05-07T07:03:25.403Z",
   "position": 288,
-  "stars": 1828,
+  "stars": 1827,
   "gap": 12,
   "contenders": [
     {
       "name": "EasyNetQ/EasyNetQ",
       "link": "https://github.com/EasyNetQ/EasyNetQ"
-    },
-    {
-      "name": "sebastienros/jint",
-      "link": "https://github.com/sebastienros/jint"
     }
   ],
   "positionMilestones": {
@@ -42,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 72
+    "gap": 73
   }
 }
