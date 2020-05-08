@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-05-08T11:03:29.661Z",
+  "dateAndTime": "2020-05-08T12:04:08.871Z",
   "position": 289,
   "stars": 1830,
   "gap": 9,
   "contenders": [
-    {
-      "name": "jasontaylordev/CleanArchitecture",
-      "link": "https://github.com/jasontaylordev/CleanArchitecture"
-    },
     {
       "name": "EasyNetQ/EasyNetQ",
       "link": "https://github.com/EasyNetQ/EasyNetQ"
