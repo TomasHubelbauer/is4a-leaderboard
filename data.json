@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-08T08:03:37.915Z",
+  "dateAndTime": "2020-05-08T09:03:22.279Z",
   "position": 289,
-  "stars": 1829,
-  "gap": 2,
+  "stars": 1830,
+  "gap": 5,
   "contenders": [
     {
       "name": "jasontaylordev/CleanArchitecture",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 71
+    "gap": 70
   }
 }
