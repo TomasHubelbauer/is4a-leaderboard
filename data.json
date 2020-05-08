@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-08T06:03:55.322Z",
-  "position": 288,
+  "dateAndTime": "2020-05-08T07:03:22.507Z",
+  "position": 289,
   "stars": 1829,
-  "gap": 10,
+  "gap": 1,
   "contenders": [
     {
-      "name": "EasyNetQ/EasyNetQ",
-      "link": "https://github.com/EasyNetQ/EasyNetQ"
+      "name": "jasontaylordev/CleanArchitecture",
+      "link": "https://github.com/jasontaylordev/CleanArchitecture"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 8,
+    "gap": 9,
     "stars": 1856,
     "name": "lostindark/DriverStoreExplorer"
   },
