@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-11T09:04:17.081Z",
+  "dateAndTime": "2020-05-11T10:04:23.479Z",
   "position": 289,
-  "stars": 1840,
-  "gap": 2,
+  "stars": 1841,
+  "gap": 1,
   "contenders": [
     {
       "name": "xamarin/xamarin-macios",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 60
+    "gap": 59
   }
 }
