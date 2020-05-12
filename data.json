@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-05-12T19:03:43.287Z",
-  "position": 289,
-  "stars": 1841,
+  "dateAndTime": "2020-05-12T20:03:51.437Z",
+  "position": 287,
+  "stars": 1843,
   "gap": 1,
   "contenders": [
     {
-      "name": "xamarin/xamarin-macios",
-      "link": "https://github.com/xamarin/xamarin-macios"
-    },
-    {
-      "name": "EasyNetQ/EasyNetQ",
-      "link": "https://github.com/EasyNetQ/EasyNetQ"
+      "name": "sebastienros/jint",
+      "link": "https://github.com/sebastienros/jint"
     }
   ],
   "positionMilestones": {
@@ -28,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 9,
+    "gap": 7,
     "stars": 1878,
     "name": "codebude/QRCoder"
   },
@@ -42,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 59
+    "gap": 57
   }
 }
