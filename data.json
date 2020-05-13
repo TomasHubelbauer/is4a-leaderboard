@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-13T10:03:17.370Z",
-  "position": 287,
-  "stars": 1844,
-  "gap": 1,
+  "dateAndTime": "2020-05-13T11:03:26.396Z",
+  "position": 286,
+  "stars": 1845,
+  "gap": 2,
   "contenders": [
     {
-      "name": "sebastienros/jint",
-      "link": "https://github.com/sebastienros/jint"
+      "name": "CosmosOS/Cosmos",
+      "link": "https://github.com/CosmosOS/Cosmos"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 7,
+    "gap": 6,
     "stars": 1878,
     "name": "Antaris/RazorEngine"
   },
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 56
+    "gap": 55
   }
 }
