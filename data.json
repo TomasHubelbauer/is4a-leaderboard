@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-13T13:03:33.874Z",
+  "dateAndTime": "2020-05-13T14:03:17.384Z",
   "position": 286,
-  "stars": 1845,
-  "gap": 2,
+  "stars": 1846,
+  "gap": 1,
   "contenders": [
     {
       "name": "CosmosOS/Cosmos",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 55
+    "gap": 54
   }
 }
