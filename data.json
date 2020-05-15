@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-15T03:03:23.799Z",
-  "position": 286,
+  "dateAndTime": "2020-05-15T04:04:05.892Z",
+  "position": 285,
   "stars": 1847,
-  "gap": 1,
+  "gap": 7,
   "contenders": [
     {
-      "name": "CosmosOS/Cosmos",
-      "link": "https://github.com/CosmosOS/Cosmos"
+      "name": "github/VisualStudio",
+      "link": "https://github.com/github/VisualStudio"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 6,
+    "gap": 5,
     "stars": 1880,
     "name": "Antaris/RazorEngine"
   },
