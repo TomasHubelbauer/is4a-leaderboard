@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-05-16T21:05:19.350Z",
-  "position": 287,
+  "dateAndTime": "2020-05-16T22:03:37.801Z",
+  "position": 288,
   "stars": 1847,
   "gap": 1,
   "contenders": [
     {
       "name": "CosmosOS/Cosmos",
       "link": "https://github.com/CosmosOS/Cosmos"
+    },
+    {
+      "name": "sebastienros/jint",
+      "link": "https://github.com/sebastienros/jint"
     }
   ],
   "positionMilestones": {
@@ -24,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 7,
+    "gap": 8,
     "stars": 1884,
     "name": "codebude/QRCoder"
   },
