@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-05-18T17:03:24.783Z",
-  "position": 288,
+  "dateAndTime": "2020-05-18T18:03:39.303Z",
+  "position": 289,
   "stars": 1848,
   "gap": 1,
   "contenders": [
     {
       "name": "EasyNetQ/EasyNetQ",
       "link": "https://github.com/EasyNetQ/EasyNetQ"
+    },
+    {
+      "name": "CosmosOS/Cosmos",
+      "link": "https://github.com/CosmosOS/Cosmos"
     }
   ],
   "positionMilestones": {
@@ -24,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 8,
+    "gap": 9,
     "stars": 1888,
     "name": "codebude/QRCoder"
   },
