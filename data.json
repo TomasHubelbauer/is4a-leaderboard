@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-18T04:03:26.066Z",
-  "position": 287,
+  "dateAndTime": "2020-05-18T05:03:27.125Z",
+  "position": 288,
   "stars": 1848,
-  "gap": 3,
+  "gap": 1,
   "contenders": [
     {
-      "name": "sebastienros/jint",
-      "link": "https://github.com/sebastienros/jint"
+      "name": "EasyNetQ/EasyNetQ",
+      "link": "https://github.com/EasyNetQ/EasyNetQ"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 7,
+    "gap": 8,
     "stars": 1886,
     "name": "codebude/QRCoder"
   },
