@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-05-19T06:03:47.102Z",
-  "position": 289,
-  "stars": 1848,
-  "gap": 1,
+  "dateAndTime": "2020-05-19T07:03:52.752Z",
+  "position": 286,
+  "stars": 1851,
+  "gap": 9,
   "contenders": [
     {
-      "name": "EasyNetQ/EasyNetQ",
-      "link": "https://github.com/EasyNetQ/EasyNetQ"
-    },
-    {
-      "name": "CosmosOS/Cosmos",
-      "link": "https://github.com/CosmosOS/Cosmos"
+      "name": "github/VisualStudio",
+      "link": "https://github.com/github/VisualStudio"
     }
   ],
   "positionMilestones": {
@@ -28,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 9,
+    "gap": 6,
     "stars": 1889,
     "name": "codebude/QRCoder"
   },
@@ -42,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 52
+    "gap": 49
   }
 }
