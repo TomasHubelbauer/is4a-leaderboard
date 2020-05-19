@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-19T11:03:38.625Z",
-  "position": 286,
+  "dateAndTime": "2020-05-19T12:04:12.825Z",
+  "position": 287,
   "stars": 1852,
-  "gap": 8,
+  "gap": 1,
   "contenders": [
     {
-      "name": "github/VisualStudio",
-      "link": "https://github.com/github/VisualStudio"
+      "name": "sebastienros/jint",
+      "link": "https://github.com/sebastienros/jint"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 6,
+    "gap": 7,
     "stars": 1889,
     "name": "codebude/QRCoder"
   },
