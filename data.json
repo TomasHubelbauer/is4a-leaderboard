@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-20T02:05:21.573Z",
-  "position": 287,
-  "stars": 1852,
-  "gap": 1,
+  "dateAndTime": "2020-05-20T03:03:22.982Z",
+  "position": 286,
+  "stars": 1853,
+  "gap": 8,
   "contenders": [
     {
-      "name": "sebastienros/jint",
-      "link": "https://github.com/sebastienros/jint"
+      "name": "github/VisualStudio",
+      "link": "https://github.com/github/VisualStudio"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 7,
+    "gap": 6,
     "stars": 1889,
     "name": "codebude/QRCoder"
   },
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 48
+    "gap": 47
   }
 }
