@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-20T08:03:45.174Z",
+  "dateAndTime": "2020-05-20T09:03:16.141Z",
   "position": 286,
-  "stars": 1857,
-  "gap": 5,
+  "stars": 1858,
+  "gap": 4,
   "contenders": [
     {
       "name": "microsoft/GraphEngine",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 43
+    "gap": 42
   }
 }
