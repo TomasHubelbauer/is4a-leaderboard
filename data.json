@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-21T01:06:28.288Z",
+  "dateAndTime": "2020-05-21T02:04:02.558Z",
   "position": 286,
-  "stars": 1861,
-  "gap": 2,
+  "stars": 1862,
+  "gap": 1,
   "contenders": [
     {
       "name": "github/VisualStudio",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 39
+    "gap": 38
   }
 }
