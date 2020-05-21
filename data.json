@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-05-21T17:03:21.639Z",
+  "dateAndTime": "2020-05-21T18:03:38.913Z",
   "position": 287,
   "stars": 1863,
   "gap": 1,
@@ -29,8 +29,8 @@
   "positionMilestoneToGo": {
     "milestone": 280,
     "gap": 7,
-    "stars": 1893,
-    "name": "octokit/octokit.net"
+    "stars": 1894,
+    "name": "codebude/QRCoder"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
