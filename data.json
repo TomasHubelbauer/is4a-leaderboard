@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-05-21T06:03:46.460Z",
-  "position": 286,
+  "dateAndTime": "2020-05-21T07:03:43.382Z",
+  "position": 287,
   "stars": 1862,
   "gap": 1,
   "contenders": [
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 6,
+    "gap": 7,
     "stars": 1891,
     "name": "codebude/QRCoder"
   },
