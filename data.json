@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-05-21T12:04:28.389Z",
-  "position": 286,
+  "dateAndTime": "2020-05-21T13:03:11.380Z",
+  "position": 287,
   "stars": 1863,
   "gap": 1,
   "contenders": [
     {
       "name": "microsoft/GraphEngine",
       "link": "https://github.com/microsoft/GraphEngine"
+    },
+    {
+      "name": "github/VisualStudio",
+      "link": "https://github.com/github/VisualStudio"
     }
   ],
   "positionMilestones": {
@@ -24,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 6,
+    "gap": 7,
     "stars": 1893,
     "name": "octokit/octokit.net"
   },
