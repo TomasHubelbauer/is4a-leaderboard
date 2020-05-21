@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-05-21T19:03:38.083Z",
-  "position": 287,
+  "dateAndTime": "2020-05-21T20:04:08.863Z",
+  "position": 286,
   "stars": 1863,
   "gap": 1,
   "contenders": [
     {
       "name": "microsoft/GraphEngine",
       "link": "https://github.com/microsoft/GraphEngine"
-    },
-    {
-      "name": "github/VisualStudio",
-      "link": "https://github.com/github/VisualStudio"
     }
   ],
   "positionMilestones": {
@@ -28,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 7,
+    "gap": 6,
     "stars": 1894,
     "name": "codebude/QRCoder"
   },
