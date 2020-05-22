@@ -1,16 +1,16 @@
 {
-  "dateAndTime": "2020-05-22T01:03:49.129Z",
+  "dateAndTime": "2020-05-22T02:03:33.260Z",
   "position": 287,
   "stars": 1863,
   "gap": 1,
   "contenders": [
     {
-      "name": "github/VisualStudio",
-      "link": "https://github.com/github/VisualStudio"
-    },
-    {
       "name": "microsoft/GraphEngine",
       "link": "https://github.com/microsoft/GraphEngine"
+    },
+    {
+      "name": "github/VisualStudio",
+      "link": "https://github.com/github/VisualStudio"
     }
   ],
   "positionMilestones": {
