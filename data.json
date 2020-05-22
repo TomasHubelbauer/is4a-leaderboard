@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-05-22T05:03:27.409Z",
-  "position": 287,
-  "stars": 1863,
-  "gap": 1,
+  "dateAndTime": "2020-05-22T06:03:33.228Z",
+  "position": 285,
+  "stars": 1864,
+  "gap": 3,
   "contenders": [
     {
-      "name": "microsoft/GraphEngine",
-      "link": "https://github.com/microsoft/GraphEngine"
-    },
-    {
-      "name": "github/VisualStudio",
-      "link": "https://github.com/github/VisualStudio"
+      "name": "nunit/nunit",
+      "link": "https://github.com/nunit/nunit"
     }
   ],
   "positionMilestones": {
@@ -28,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 7,
+    "gap": 5,
     "stars": 1894,
     "name": "codebude/QRCoder"
   },
@@ -42,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 37
+    "gap": 36
   }
 }
