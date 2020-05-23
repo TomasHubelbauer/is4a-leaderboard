@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-23T02:06:06.605Z",
+  "dateAndTime": "2020-05-23T03:07:11.855Z",
   "position": 285,
-  "stars": 1866,
-  "gap": 2,
+  "stars": 1867,
+  "gap": 1,
   "contenders": [
     {
       "name": "nunit/nunit",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 34
+    "gap": 33
   }
 }
