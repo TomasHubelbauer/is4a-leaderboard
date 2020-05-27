@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-27T14:06:11.613Z",
+  "dateAndTime": "2020-05-27T15:06:08.608Z",
   "position": 283,
-  "stars": 1878,
-  "gap": 5,
+  "stars": 1879,
+  "gap": 4,
   "contenders": [
     {
       "name": "Antaris/RazorEngine",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 22
+    "gap": 21
   }
 }
