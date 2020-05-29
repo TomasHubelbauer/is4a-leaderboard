@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-05-29T05:04:35.004Z",
+  "dateAndTime": "2020-05-29T06:05:23.171Z",
   "position": 282,
   "stars": 1884,
   "gap": 9,
@@ -7,10 +7,6 @@
     {
       "name": "octokit/octokit.net",
       "link": "https://github.com/octokit/octokit.net"
-    },
-    {
-      "name": "EllanJiang/GameFramework",
-      "link": "https://github.com/EllanJiang/GameFramework"
     }
   ],
   "positionMilestones": {
