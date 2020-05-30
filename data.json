@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-30T02:04:47.467Z",
+  "dateAndTime": "2020-05-30T03:04:49.568Z",
   "position": 282,
-  "stars": 1887,
-  "gap": 6,
+  "stars": 1888,
+  "gap": 5,
   "contenders": [
     {
       "name": "octokit/octokit.net",
@@ -25,7 +25,7 @@
   "positionMilestoneToGo": {
     "milestone": 280,
     "gap": 2,
-    "stars": 1897,
+    "stars": 1898,
     "name": "lostindark/DriverStoreExplorer"
   },
   "starsMilestones": {
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 13
+    "gap": 12
   }
 }
