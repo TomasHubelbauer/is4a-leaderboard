@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-05-30T08:05:09.998Z",
+  "dateAndTime": "2020-05-30T09:04:50.092Z",
   "position": 282,
-  "stars": 1888,
-  "gap": 5,
+  "stars": 1889,
+  "gap": 4,
   "contenders": [
     {
       "name": "octokit/octokit.net",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 12
+    "gap": 11
   }
 }
