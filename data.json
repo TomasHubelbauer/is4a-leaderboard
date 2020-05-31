@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-05-31T21:04:45.129Z",
-  "position": 282,
-  "stars": 1892,
-  "gap": 1,
+  "dateAndTime": "2020-05-31T22:04:40.838Z",
+  "position": 281,
+  "stars": 1893,
+  "gap": 4,
   "contenders": [
     {
-      "name": "octokit/octokit.net",
-      "link": "https://github.com/octokit/octokit.net"
+      "name": "EllanJiang/GameFramework",
+      "link": "https://github.com/EllanJiang/GameFramework"
     }
   ],
   "positionMilestones": {
@@ -24,7 +24,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 2,
+    "gap": 1,
     "stars": 1901,
     "name": "lostindark/DriverStoreExplorer"
   },
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 8
+    "gap": 7
   }
 }
