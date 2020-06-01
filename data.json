@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-01T19:05:02.781Z",
+  "dateAndTime": "2020-06-01T20:05:50.911Z",
   "position": 280,
-  "stars": 1898,
-  "gap": 4,
+  "stars": 1899,
+  "gap": 3,
   "contenders": [
     {
       "name": "aspnet/Identity",
@@ -43,6 +43,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 2
+    "gap": 1
   }
 }
