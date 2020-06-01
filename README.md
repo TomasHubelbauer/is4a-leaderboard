@@ -28,3 +28,10 @@ email notification and serve through GitHub Pages.
 ### Display the duration between milestones in a human-friendly relative format
 
 E.g.: *2 weeks* after a milestone which was reached two weeks after the one below it.
+
+### Split the position column into two
+
+Either hardcode that or be a bit smarter about it and dynamically calculate position and
+star column splits based on the number of elements in each.
+
+### Add rules atop Milestones and Contenders headings
