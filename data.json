@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-01T07:05:06.349Z",
+  "dateAndTime": "2020-06-01T08:05:14.936Z",
   "position": 280,
-  "stars": 1897,
-  "gap": 4,
+  "stars": 1898,
+  "gap": 3,
   "contenders": [
     {
       "name": "lostindark/DriverStoreExplorer",
@@ -39,6 +39,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 3
+    "gap": 2
   }
 }
