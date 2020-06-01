@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-01T03:04:52.648Z",
+  "dateAndTime": "2020-06-01T04:05:42.868Z",
   "position": 281,
-  "stars": 1894,
-  "gap": 3,
+  "stars": 1896,
+  "gap": 1,
   "contenders": [
     {
       "name": "EllanJiang/GameFramework",
@@ -38,6 +38,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 1900,
-    "gap": 6
+    "gap": 4
   }
 }
