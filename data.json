@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-02T18:05:18.989Z",
+  "dateAndTime": "2020-06-02T19:04:47.219Z",
   "position": 281,
   "stars": 1901,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "carlospolop/privilege-escalation-awesome-scripts-suite",
