@@ -1,20 +1,15 @@
 {
-  "dateAndTime": "2020-06-02T16:05:19.049Z",
-  "position": 280,
+  "dateAndTime": "2020-06-02T17:05:10.259Z",
+  "position": 281,
   "stars": 1901,
-  "gap": 3,
+  "gap": 1,
   "contenders": [
     {
-      "name": "lostindark/DriverStoreExplorer",
-      "link": "https://github.com/lostindark/DriverStoreExplorer"
-    },
-    {
-      "name": "EllanJiang/GameFramework",
-      "link": "https://github.com/EllanJiang/GameFramework"
+      "name": "carlospolop/privilege-escalation-awesome-scripts-suite",
+      "link": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"
     }
   ],
   "positionMilestones": {
-    "280": "2020-06-02T15:04:44.665Z",
     "290": "2020-05-01T17:03:36.981Z",
     "300": "2020-04-12T09:03:23.805Z",
     "310": "2020-04-05T08:47:19.081Z",
@@ -28,10 +23,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 270,
-    "gap": 10,
-    "stars": 1944,
-    "name": "neuecc/ZeroFormatter"
+    "milestone": 280,
+    "gap": 1,
+    "stars": 1904,
+    "name": "lostindark/DriverStoreExplorer"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
