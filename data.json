@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-06-02T11:04:58.687Z",
-  "position": 281,
+  "dateAndTime": "2020-06-02T12:06:37.080Z",
+  "position": 282,
   "stars": 1900,
   "gap": 1,
   "contenders": [
     {
       "name": "aspnet/Identity",
       "link": "https://github.com/aspnet/Identity"
+    },
+    {
+      "name": "carlospolop/privilege-escalation-awesome-scripts-suite",
+      "link": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"
     }
   ],
   "positionMilestones": {
@@ -24,9 +28,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 280,
-    "gap": 1,
-    "stars": 1903,
-    "name": "EllanJiang/GameFramework"
+    "gap": 2,
+    "stars": 1904,
+    "name": "lostindark/DriverStoreExplorer"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
