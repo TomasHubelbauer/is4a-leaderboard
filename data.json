@@ -1,12 +1,20 @@
 {
-  "dateAndTime": "2020-06-02T21:04:38.558Z",
+  "dateAndTime": "2020-06-02T22:04:49.907Z",
   "position": 281,
-  "stars": 1901,
+  "stars": 1902,
   "gap": 2,
   "contenders": [
     {
       "name": "carlospolop/privilege-escalation-awesome-scripts-suite",
       "link": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"
+    },
+    {
+      "name": "lostindark/DriverStoreExplorer",
+      "link": "https://github.com/lostindark/DriverStoreExplorer"
+    },
+    {
+      "name": "EllanJiang/GameFramework",
+      "link": "https://github.com/EllanJiang/GameFramework"
     }
   ],
   "positionMilestones": {
@@ -39,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 99
+    "gap": 98
   }
 }
