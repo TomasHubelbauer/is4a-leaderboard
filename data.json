@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-03T14:05:04.821Z",
+  "dateAndTime": "2020-06-03T15:04:50.353Z",
   "position": 280,
   "stars": 1903,
   "gap": 1,
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 10,
-    "stars": 1939,
+    "stars": 1940,
     "name": "AutoFixture/AutoFixture"
   },
   "starsMilestones": {
