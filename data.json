@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-06-03T08:05:07.996Z",
+  "dateAndTime": "2020-06-03T09:04:59.645Z",
   "position": 280,
-  "stars": 1902,
-  "gap": 2,
+  "stars": 1903,
+  "gap": 1,
   "contenders": [
     {
       "name": "lostindark/DriverStoreExplorer",
       "link": "https://github.com/lostindark/DriverStoreExplorer"
-    },
-    {
-      "name": "EllanJiang/GameFramework",
-      "link": "https://github.com/EllanJiang/GameFramework"
     }
   ],
   "positionMilestones": {
@@ -44,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 98
+    "gap": 97
   }
 }
