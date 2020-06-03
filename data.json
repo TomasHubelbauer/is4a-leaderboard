@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-06-03T16:05:54.794Z",
+  "dateAndTime": "2020-06-03T17:04:57.529Z",
   "position": 279,
   "stars": 1904,
   "gap": 2,
   "contenders": [
-    {
-      "name": "carlospolop/privilege-escalation-awesome-scripts-suite",
-      "link": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"
-    },
     {
       "name": "EllanJiang/GameFramework",
       "link": "https://github.com/EllanJiang/GameFramework"
