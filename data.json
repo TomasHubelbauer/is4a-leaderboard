@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-04T12:06:29.122Z",
+  "dateAndTime": "2020-06-04T13:05:06.329Z",
   "position": 278,
-  "stars": 1908,
-  "gap": 7,
+  "stars": 1909,
+  "gap": 6,
   "contenders": [
     {
       "name": "p-org/P",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 92
+    "gap": 91
   }
 }
