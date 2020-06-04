@@ -1,16 +1,16 @@
 {
-  "dateAndTime": "2020-06-04T03:05:06.934Z",
-  "position": 280,
-  "stars": 1904,
-  "gap": 1,
+  "dateAndTime": "2020-06-04T04:05:23.080Z",
+  "position": 278,
+  "stars": 1905,
+  "gap": 9,
   "contenders": [
     {
-      "name": "lostindark/DriverStoreExplorer",
-      "link": "https://github.com/lostindark/DriverStoreExplorer"
+      "name": "codebude/QRCoder",
+      "link": "https://github.com/codebude/QRCoder"
     },
     {
-      "name": "EllanJiang/GameFramework",
-      "link": "https://github.com/EllanJiang/GameFramework"
+      "name": "p-org/P",
+      "link": "https://github.com/p-org/P"
     }
   ],
   "positionMilestones": {
@@ -29,7 +29,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 10,
+    "gap": 8,
     "stars": 1940,
     "name": "AutoFixture/AutoFixture"
   },
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 96
+    "gap": 95
   }
 }
