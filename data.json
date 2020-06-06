@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-06T14:05:03.781Z",
+  "dateAndTime": "2020-06-06T15:04:57.651Z",
   "position": 278,
   "stars": 1912,
   "gap": 3,
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 8,
-    "stars": 1944,
+    "stars": 1946,
     "name": "carlospolop/privilege-escalation-awesome-scripts-suite"
   },
   "starsMilestones": {
