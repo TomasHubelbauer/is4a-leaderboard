@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-07T13:04:46.056Z",
-  "position": 278,
-  "stars": 1915,
-  "gap": 1,
+  "dateAndTime": "2020-06-07T14:05:20.902Z",
+  "position": 277,
+  "stars": 1916,
+  "gap": 4,
   "contenders": [
     {
-      "name": "p-org/P",
-      "link": "https://github.com/p-org/P"
+      "name": "codebude/QRCoder",
+      "link": "https://github.com/codebude/QRCoder"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 8,
+    "gap": 7,
     "stars": 1947,
     "name": "neuecc/ZeroFormatter"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 85
+    "gap": 84
   }
 }
