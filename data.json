@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-08T09:05:24.657Z",
-  "position": 277,
-  "stars": 1921,
+  "dateAndTime": "2020-06-08T10:04:46.645Z",
+  "position": 276,
+  "stars": 1922,
   "gap": 1,
   "contenders": [
     {
-      "name": "codebude/QRCoder",
-      "link": "https://github.com/codebude/QRCoder"
+      "name": "oxyplot/oxyplot",
+      "link": "https://github.com/oxyplot/oxyplot"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 7,
+    "gap": 6,
     "stars": 1947,
     "name": "neuecc/ZeroFormatter"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 79
+    "gap": 78
   }
 }
