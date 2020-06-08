@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-08T20:06:04.077Z",
-  "position": 276,
-  "stars": 1923,
-  "gap": 1,
+  "dateAndTime": "2020-06-08T21:05:02.885Z",
+  "position": 275,
+  "stars": 1924,
+  "gap": 6,
   "contenders": [
     {
-      "name": "oxyplot/oxyplot",
-      "link": "https://github.com/oxyplot/oxyplot"
+      "name": "volkanceylan/Serenity",
+      "link": "https://github.com/volkanceylan/Serenity"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 6,
+    "gap": 5,
     "stars": 1947,
     "name": "neuecc/ZeroFormatter"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 77
+    "gap": 76
   }
 }
