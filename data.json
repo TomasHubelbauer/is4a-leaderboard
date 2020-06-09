@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-09T18:05:24.947Z",
+  "dateAndTime": "2020-06-09T19:04:46.388Z",
   "position": 275,
-  "stars": 1925,
-  "gap": 5,
+  "stars": 1926,
+  "gap": 4,
   "contenders": [
     {
       "name": "volkanceylan/Serenity",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 75
+    "gap": 74
   }
 }
