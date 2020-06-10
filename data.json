@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-10T20:05:41.246Z",
-  "position": 275,
-  "stars": 1929,
-  "gap": 1,
+  "dateAndTime": "2020-06-10T21:04:59.665Z",
+  "position": 274,
+  "stars": 1930,
+  "gap": 5,
   "contenders": [
     {
-      "name": "volkanceylan/Serenity",
-      "link": "https://github.com/volkanceylan/Serenity"
+      "name": "reactjs/React.NET",
+      "link": "https://github.com/reactjs/React.NET"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 5,
+    "gap": 4,
     "stars": 1949,
     "name": "neuecc/ZeroFormatter"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 71
+    "gap": 70
   }
 }
