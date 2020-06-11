@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-11T11:04:57.186Z",
+  "dateAndTime": "2020-06-11T12:06:47.510Z",
   "position": 273,
-  "stars": 1934,
-  "gap": 4,
+  "stars": 1935,
+  "gap": 3,
   "contenders": [
     {
       "name": "dockersamples/example-voting-app",
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 3,
-    "stars": 1949,
+    "stars": 1950,
     "name": "neuecc/ZeroFormatter"
   },
   "starsMilestones": {
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 66
+    "gap": 65
   }
 }
