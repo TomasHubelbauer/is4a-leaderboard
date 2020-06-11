@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-11T09:05:11.482Z",
+  "dateAndTime": "2020-06-11T10:05:04.802Z",
   "position": 273,
   "stars": 1934,
-  "gap": 3,
+  "gap": 4,
   "contenders": [
     {
       "name": "dockersamples/example-voting-app",
