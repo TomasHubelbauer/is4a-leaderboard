@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-12T21:05:40.473Z",
+  "dateAndTime": "2020-06-12T22:04:48.405Z",
   "position": 272,
-  "stars": 1938,
-  "gap": 2,
+  "stars": 1939,
+  "gap": 1,
   "contenders": [
     {
       "name": "fluentscheduler/FluentScheduler",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 62
+    "gap": 61
   }
 }
