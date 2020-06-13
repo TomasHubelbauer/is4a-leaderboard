@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-06-12T23:19:30.884Z",
-  "position": 272,
+  "dateAndTime": "2020-06-13T00:14:11.783Z",
+  "position": 273,
   "stars": 1939,
   "gap": 1,
   "contenders": [
@@ -25,9 +25,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 2,
-    "stars": 1950,
-    "name": "neuecc/ZeroFormatter"
+    "gap": 3,
+    "stars": 1957,
+    "name": "reactiveui/Akavache"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
