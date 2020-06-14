@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-06-14T06:06:03.171Z",
-  "position": 275,
-  "stars": 1938,
+  "dateAndTime": "2020-06-14T07:05:23.593Z",
+  "position": 273,
+  "stars": 1939,
   "gap": 1,
   "contenders": [
     {
-      "name": "dockersamples/example-voting-app",
-      "link": "https://github.com/dockersamples/example-voting-app"
-    },
-    {
-      "name": "reactjs/React.NET",
-      "link": "https://github.com/reactjs/React.NET"
+      "name": "fluentscheduler/FluentScheduler",
+      "link": "https://github.com/fluentscheduler/FluentScheduler"
     }
   ],
   "positionMilestones": {
@@ -29,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 5,
+    "gap": 3,
     "stars": 1957,
     "name": "reactiveui/Akavache"
   },
@@ -44,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 62
+    "gap": 61
   }
 }
