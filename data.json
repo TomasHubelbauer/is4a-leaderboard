@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-06-14T17:05:21.390Z",
-  "position": 274,
-  "stars": 1939,
-  "gap": 1,
+  "dateAndTime": "2020-06-14T18:05:13.474Z",
+  "position": 272,
+  "stars": 1940,
+  "gap": 5,
   "contenders": [
     {
-      "name": "fluentscheduler/FluentScheduler",
-      "link": "https://github.com/fluentscheduler/FluentScheduler"
-    },
-    {
-      "name": "dockersamples/example-voting-app",
-      "link": "https://github.com/dockersamples/example-voting-app"
+      "name": "AutoFixture/AutoFixture",
+      "link": "https://github.com/AutoFixture/AutoFixture"
     }
   ],
   "positionMilestones": {
@@ -29,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 4,
+    "gap": 2,
     "stars": 1956,
     "name": "reactiveui/Akavache"
   },
@@ -44,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 61
+    "gap": 60
   }
 }
