@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-06-15T01:06:00.721Z",
-  "position": 272,
+  "dateAndTime": "2020-06-15T02:06:22.737Z",
+  "position": 255,
   "stars": 1940,
   "gap": 5,
   "contenders": [
@@ -10,6 +10,7 @@
     }
   ],
   "positionMilestones": {
+    "260": "2020-06-15T02:06:22.737Z",
     "280": "2020-06-03T02:05:14.023Z",
     "290": "2020-05-01T17:03:36.981Z",
     "300": "2020-04-12T09:03:23.805Z",
@@ -24,10 +25,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 270,
-    "gap": 2,
-    "stars": 1957,
-    "name": "reactiveui/Akavache"
+    "milestone": 250,
+    "gap": 5,
+    "stars": 1975,
+    "name": "npgsql/npgsql"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
