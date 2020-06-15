@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-15T13:05:29.099Z",
-  "position": 273,
-  "stars": 1940,
-  "gap": 1,
+  "dateAndTime": "2020-06-15T14:05:49.815Z",
+  "position": 272,
+  "stars": 1941,
+  "gap": 4,
   "contenders": [
     {
-      "name": "fluentscheduler/FluentScheduler",
-      "link": "https://github.com/fluentscheduler/FluentScheduler"
+      "name": "AutoFixture/AutoFixture",
+      "link": "https://github.com/AutoFixture/AutoFixture"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 3,
+    "gap": 2,
     "stars": 1957,
     "name": "reactiveui/Akavache"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 60
+    "gap": 59
   }
 }
