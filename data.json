@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-15T22:04:54.172Z",
+  "dateAndTime": "2020-06-15T23:04:35.265Z",
   "position": 272,
   "stars": 1941,
-  "gap": 6,
+  "gap": 5,
   "contenders": [
     {
       "name": "AutoFixture/AutoFixture",
