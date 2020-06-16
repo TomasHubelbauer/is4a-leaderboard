@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-16T06:05:47.287Z",
-  "position": 272,
+  "dateAndTime": "2020-06-16T07:05:09.735Z",
+  "position": 273,
   "stars": 1941,
-  "gap": 5,
+  "gap": 1,
   "contenders": [
     {
-      "name": "AutoFixture/AutoFixture",
-      "link": "https://github.com/AutoFixture/AutoFixture"
+      "name": "dockersamples/example-voting-app",
+      "link": "https://github.com/dockersamples/example-voting-app"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 2,
+    "gap": 3,
     "stars": 1957,
     "name": "reactiveui/Akavache"
   },
