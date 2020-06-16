@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-16T09:05:28.212Z",
-  "position": 273,
+  "dateAndTime": "2020-06-16T10:05:18.691Z",
+  "position": 274,
   "stars": 1941,
-  "gap": 2,
+  "gap": 1,
   "contenders": [
     {
-      "name": "fluentscheduler/FluentScheduler",
-      "link": "https://github.com/fluentscheduler/FluentScheduler"
+      "name": "codebude/QRCoder",
+      "link": "https://github.com/codebude/QRCoder"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 3,
+    "gap": 4,
     "stars": 1957,
     "name": "reactiveui/Akavache"
   },
