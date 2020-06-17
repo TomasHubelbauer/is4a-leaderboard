@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-17T10:05:11.957Z",
+  "dateAndTime": "2020-06-17T11:04:58.622Z",
   "position": 272,
-  "stars": 1943,
-  "gap": 5,
+  "stars": 1945,
+  "gap": 3,
   "contenders": [
     {
       "name": "AutoFixture/AutoFixture",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 57
+    "gap": 55
   }
 }
