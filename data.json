@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-17T14:05:25.301Z",
-  "position": 272,
-  "stars": 1946,
-  "gap": 2,
+  "dateAndTime": "2020-06-17T15:11:26.907Z",
+  "position": 271,
+  "stars": 1947,
+  "gap": 5,
   "contenders": [
     {
-      "name": "AutoFixture/AutoFixture",
-      "link": "https://github.com/AutoFixture/AutoFixture"
+      "name": "neuecc/ZeroFormatter",
+      "link": "https://github.com/neuecc/ZeroFormatter"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 2,
+    "gap": 1,
     "stars": 1958,
     "name": "reactiveui/Akavache"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 54
+    "gap": 53
   }
 }
