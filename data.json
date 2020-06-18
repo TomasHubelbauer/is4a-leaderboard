@@ -1,16 +1,15 @@
 {
-  "dateAndTime": "2020-06-18T07:05:23.721Z",
-  "position": 270,
+  "dateAndTime": "2020-06-18T08:05:48.247Z",
+  "position": 271,
   "stars": 1953,
-  "gap": 5,
+  "gap": 1,
   "contenders": [
     {
-      "name": "reactiveui/Akavache",
-      "link": "https://github.com/reactiveui/Akavache"
+      "name": "nilaoda/N_m3u8DL-CLI",
+      "link": "https://github.com/nilaoda/N_m3u8DL-CLI"
     }
   ],
   "positionMilestones": {
-    "270": "2020-06-18T06:05:45.026Z",
     "280": "2020-06-03T02:05:14.023Z",
     "290": "2020-05-01T17:03:36.981Z",
     "300": "2020-04-12T09:03:23.805Z",
@@ -25,10 +24,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 260,
-    "gap": 10,
-    "stars": 2006,
-    "name": "MiniProfiler/dotnet"
+    "milestone": 270,
+    "gap": 1,
+    "stars": 1958,
+    "name": "reactiveui/Akavache"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
