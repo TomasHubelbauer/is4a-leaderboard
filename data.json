@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-18T10:05:56.845Z",
-  "position": 271,
+  "dateAndTime": "2020-06-18T11:04:49.480Z",
+  "position": 272,
   "stars": 1953,
-  "gap": 4,
+  "gap": 2,
   "contenders": [
     {
-      "name": "nilaoda/N_m3u8DL-CLI",
-      "link": "https://github.com/nilaoda/N_m3u8DL-CLI"
+      "name": "grpc/grpc-dotnet",
+      "link": "https://github.com/grpc/grpc-dotnet"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 1,
+    "gap": 2,
     "stars": 1958,
     "name": "reactiveui/Akavache"
   },
