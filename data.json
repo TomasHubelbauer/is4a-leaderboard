@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-18T15:05:18.302Z",
+  "dateAndTime": "2020-06-18T16:05:30.458Z",
   "position": 272,
   "stars": 1953,
   "gap": 5,
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 2,
-    "stars": 1959,
+    "stars": 1960,
     "name": "grpc/grpc-dotnet"
   },
   "starsMilestones": {
