@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-18T00:14:13.507Z",
+  "dateAndTime": "2020-06-18T01:05:51.831Z",
   "position": 271,
-  "stars": 1948,
-  "gap": 5,
+  "stars": 1949,
+  "gap": 4,
   "contenders": [
     {
       "name": "neuecc/ZeroFormatter",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 52
+    "gap": 51
   }
 }
