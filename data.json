@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-19T09:05:21.531Z",
+  "dateAndTime": "2020-06-19T10:05:12.530Z",
   "position": 272,
-  "stars": 1954,
-  "gap": 5,
+  "stars": 1955,
+  "gap": 4,
   "contenders": [
     {
       "name": "reactiveui/Akavache",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 46
+    "gap": 45
   }
 }
