@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-19T15:05:14.485Z",
+  "dateAndTime": "2020-06-19T16:05:34.444Z",
   "position": 271,
   "stars": 1958,
-  "gap": 4,
+  "gap": 5,
   "contenders": [
     {
       "name": "zeromq/netmq",
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 1,
-    "stars": 1966,
+    "stars": 1968,
     "name": "nilaoda/N_m3u8DL-CLI"
   },
   "starsMilestones": {
