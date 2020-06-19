@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-06-19T14:05:36.408Z",
-  "position": 272,
-  "stars": 1957,
-  "gap": 1,
+  "dateAndTime": "2020-06-19T15:05:14.485Z",
+  "position": 271,
+  "stars": 1958,
+  "gap": 4,
   "contenders": [
     {
-      "name": "reactiveui/Akavache",
-      "link": "https://github.com/reactiveui/Akavache"
+      "name": "zeromq/netmq",
+      "link": "https://github.com/zeromq/netmq"
     }
   ],
   "positionMilestones": {
@@ -25,7 +25,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 270,
-    "gap": 2,
+    "gap": 1,
     "stars": 1966,
     "name": "nilaoda/N_m3u8DL-CLI"
   },
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 43
+    "gap": 42
   }
 }
