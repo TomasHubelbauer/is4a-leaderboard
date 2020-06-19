@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-19T05:06:11.456Z",
+  "dateAndTime": "2020-06-19T06:05:37.605Z",
   "position": 272,
-  "stars": 1953,
-  "gap": 6,
+  "stars": 1954,
+  "gap": 5,
   "contenders": [
     {
       "name": "reactiveui/Akavache",
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 2,
-    "stars": 1963,
+    "stars": 1964,
     "name": "nilaoda/N_m3u8DL-CLI"
   },
   "starsMilestones": {
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 47
+    "gap": 46
   }
 }
