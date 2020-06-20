@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-20T01:05:45.576Z",
+  "dateAndTime": "2020-06-20T02:05:36.278Z",
   "position": 271,
   "stars": 1958,
   "gap": 5,
@@ -26,7 +26,7 @@
   "positionMilestoneToGo": {
     "milestone": 270,
     "gap": 1,
-    "stars": 1968,
+    "stars": 1969,
     "name": "nilaoda/N_m3u8DL-CLI"
   },
   "starsMilestones": {
