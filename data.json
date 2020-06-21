@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-21T07:05:48.331Z",
+  "dateAndTime": "2020-06-21T08:05:36.983Z",
   "position": 271,
-  "stars": 1961,
-  "gap": 5,
+  "stars": 1963,
+  "gap": 3,
   "contenders": [
     {
       "name": "zeromq/netmq",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 39
+    "gap": 37
   }
 }
