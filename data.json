@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-06-22T22:05:24.652Z",
+  "dateAndTime": "2020-06-22T23:04:49.428Z",
   "position": 272,
   "stars": 1964,
   "gap": 3,
   "contenders": [
-    {
-      "name": "files-community/files-uwp",
-      "link": "https://github.com/files-community/files-uwp"
-    },
     {
       "name": "zeromq/netmq",
       "link": "https://github.com/zeromq/netmq"
