@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-23T16:06:00.378Z",
+  "dateAndTime": "2020-06-23T17:05:00.317Z",
   "position": 271,
-  "stars": 1969,
-  "gap": 6,
+  "stars": 1970,
+  "gap": 5,
   "contenders": [
     {
       "name": "ddevault/TrueCraft",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 31
+    "gap": 30
   }
 }
