@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-06-23T15:05:18.928Z",
+  "dateAndTime": "2020-06-23T16:06:00.378Z",
   "position": 271,
   "stars": 1969,
-  "gap": 5,
+  "gap": 6,
   "contenders": [
+    {
+      "name": "ddevault/TrueCraft",
+      "link": "https://github.com/ddevault/TrueCraft"
+    },
     {
       "name": "files-community/files-uwp",
       "link": "https://github.com/files-community/files-uwp"
@@ -27,7 +31,7 @@
     "milestone": 270,
     "gap": 1,
     "stars": 1975,
-    "name": "ddevault/TrueCraft"
+    "name": "files-community/files-uwp"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
