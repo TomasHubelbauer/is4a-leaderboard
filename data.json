@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-23T10:05:02.021Z",
+  "dateAndTime": "2020-06-23T11:05:02.252Z",
   "position": 271,
-  "stars": 1968,
-  "gap": 4,
+  "stars": 1969,
+  "gap": 5,
   "contenders": [
     {
       "name": "files-community/files-uwp",
@@ -40,6 +40,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 32
+    "gap": 31
   }
 }
