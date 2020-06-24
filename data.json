@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-24T20:05:34.597Z",
+  "dateAndTime": "2020-06-24T21:05:51.868Z",
   "position": 270,
   "stars": 1974,
   "gap": 9,
@@ -7,10 +7,6 @@
     {
       "name": "npgsql/npgsql",
       "link": "https://github.com/npgsql/npgsql"
-    },
-    {
-      "name": "files-community/files-uwp",
-      "link": "https://github.com/files-community/files-uwp"
     }
   ],
   "positionMilestones": {
@@ -31,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 10,
-    "stars": 2016,
+    "stars": 2017,
     "name": "lunet-io/markdig"
   },
   "starsMilestones": {
