@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-25T15:05:18.354Z",
+  "dateAndTime": "2020-06-25T16:05:39.516Z",
   "position": 270,
   "stars": 1975,
   "gap": 8,
@@ -27,8 +27,8 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 10,
-    "stars": 2019,
-    "name": "lunet-io/markdig"
+    "stars": 2018,
+    "name": "grpc/grpc-dotnet"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
