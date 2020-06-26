@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-26T19:05:15.950Z",
+  "dateAndTime": "2020-06-26T20:05:58.403Z",
   "position": 270,
   "stars": 1978,
-  "gap": 6,
+  "gap": 7,
   "contenders": [
     {
       "name": "npgsql/npgsql",
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 10,
-    "stars": 2021,
+    "stars": 2022,
     "name": "lunet-io/markdig"
   },
   "starsMilestones": {
