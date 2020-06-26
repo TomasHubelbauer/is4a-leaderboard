@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-26T07:05:11.667Z",
+  "dateAndTime": "2020-06-26T08:06:11.084Z",
   "position": 270,
-  "stars": 1975,
-  "gap": 7,
+  "stars": 1976,
+  "gap": 6,
   "contenders": [
     {
       "name": "npgsql/npgsql",
@@ -27,8 +27,8 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 10,
-    "stars": 2019,
-    "name": "grpc/grpc-dotnet"
+    "stars": 2020,
+    "name": "lunet-io/markdig"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -41,6 +41,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 25
+    "gap": 24
   }
 }
