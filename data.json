@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-28T04:06:22.241Z",
+  "dateAndTime": "2020-06-28T05:05:03.003Z",
   "position": 270,
-  "stars": 1979,
-  "gap": 7,
+  "stars": 1980,
+  "gap": 6,
   "contenders": [
     {
       "name": "npgsql/npgsql",
@@ -41,6 +41,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 21
+    "gap": 20
   }
 }
