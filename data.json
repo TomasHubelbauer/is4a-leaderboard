@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-06-30T04:05:32.260Z",
+  "dateAndTime": "2020-06-30T05:05:21.903Z",
   "position": 270,
   "stars": 1983,
   "gap": 5,
@@ -27,8 +27,8 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 10,
-    "stars": 2038,
-    "name": "files-community/files-uwp"
+    "stars": 2039,
+    "name": "IgnaceMaes/MaterialSkin"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
