@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-30T10:05:38.986Z",
+  "dateAndTime": "2020-06-30T11:05:08.938Z",
   "position": 270,
-  "stars": 1983,
-  "gap": 6,
+  "stars": 1984,
+  "gap": 5,
   "contenders": [
     {
       "name": "npgsql/npgsql",
@@ -28,7 +28,7 @@
     "milestone": 260,
     "gap": 10,
     "stars": 2039,
-    "name": "IgnaceMaes/MaterialSkin"
+    "name": "lunet-io/markdig"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -41,6 +41,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 17
+    "gap": 16
   }
 }
