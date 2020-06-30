@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-06-30T08:06:18.224Z",
+  "dateAndTime": "2020-06-30T09:05:24.100Z",
   "position": 270,
   "stars": 1983,
-  "gap": 5,
+  "gap": 6,
   "contenders": [
     {
       "name": "npgsql/npgsql",
@@ -27,8 +27,8 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 10,
-    "stars": 2038,
-    "name": "files-community/files-uwp"
+    "stars": 2039,
+    "name": "IgnaceMaes/MaterialSkin"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
