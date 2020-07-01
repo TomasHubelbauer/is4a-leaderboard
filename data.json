@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-01T08:07:32.642Z",
+  "dateAndTime": "2020-07-01T09:06:36.750Z",
   "position": 269,
-  "stars": 1989,
-  "gap": 12,
+  "stars": 1990,
+  "gap": 11,
   "contenders": [
     {
       "name": "kevin-montrose/Jil",
@@ -41,6 +41,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 11
+    "gap": 10
   }
 }
