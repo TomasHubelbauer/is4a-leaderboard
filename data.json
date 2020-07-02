@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-02T13:06:20.575Z",
+  "dateAndTime": "2020-07-02T14:06:48.786Z",
   "position": 269,
-  "stars": 1996,
-  "gap": 6,
+  "stars": 1997,
+  "gap": 5,
   "contenders": [
     {
       "name": "kevin-montrose/Jil",
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 9,
-    "stars": 2043,
+    "stars": 2044,
     "name": "lunet-io/markdig"
   },
   "starsMilestones": {
@@ -41,6 +41,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2000,
-    "gap": 4
+    "gap": 3
   }
 }
