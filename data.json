@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-02T20:07:26.768Z",
+  "dateAndTime": "2020-07-02T21:06:24.604Z",
   "position": 269,
   "stars": 1998,
   "gap": 4,
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 9,
-    "stars": 2044,
+    "stars": 2045,
     "name": "lunet-io/markdig"
   },
   "starsMilestones": {
