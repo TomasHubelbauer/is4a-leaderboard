@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-07-03T18:06:47.003Z",
-  "position": 269,
-  "stars": 2001,
-  "gap": 1,
+  "dateAndTime": "2020-07-03T19:05:43.253Z",
+  "position": 268,
+  "stars": 2004,
+  "gap": 2,
   "contenders": [
     {
-      "name": "kevin-montrose/Jil",
-      "link": "https://github.com/kevin-montrose/Jil"
+      "name": "LazoCoder/Windows-Hacks",
+      "link": "https://github.com/LazoCoder/Windows-Hacks"
     }
   ],
   "positionMilestones": {
@@ -26,7 +26,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 9,
+    "gap": 8,
     "stars": 2047,
     "name": "lunet-io/markdig"
   },
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 99
+    "gap": 96
   }
 }
