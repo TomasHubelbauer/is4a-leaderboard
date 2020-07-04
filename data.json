@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-04T05:06:09.318Z",
+  "dateAndTime": "2020-07-04T06:07:18.975Z",
   "position": 268,
   "stars": 2004,
   "gap": 3,
@@ -27,8 +27,8 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 8,
-    "stars": 2048,
-    "name": "lunet-io/markdig"
+    "stars": 2049,
+    "name": "nilaoda/N_m3u8DL-CLI"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
