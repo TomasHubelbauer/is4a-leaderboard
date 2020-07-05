@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-07-05T14:06:53.333Z",
-  "position": 268,
-  "stars": 2006,
-  "gap": 1,
+  "dateAndTime": "2020-07-05T15:06:14.700Z",
+  "position": 267,
+  "stars": 2007,
+  "gap": 6,
   "contenders": [
     {
-      "name": "LazoCoder/Windows-Hacks",
-      "link": "https://github.com/LazoCoder/Windows-Hacks"
+      "name": "xamarin/monodroid-samples",
+      "link": "https://github.com/xamarin/monodroid-samples"
     }
   ],
   "positionMilestones": {
@@ -26,7 +26,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 8,
+    "gap": 7,
     "stars": 2051,
     "name": "lunet-io/markdig"
   },
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 94
+    "gap": 93
   }
 }
