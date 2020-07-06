@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-06T04:06:45.339Z",
+  "dateAndTime": "2020-07-06T05:06:11.611Z",
   "position": 267,
-  "stars": 2010,
-  "gap": 3,
+  "stars": 2011,
+  "gap": 2,
   "contenders": [
     {
       "name": "xamarin/monodroid-samples",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 90
+    "gap": 89
   }
 }
