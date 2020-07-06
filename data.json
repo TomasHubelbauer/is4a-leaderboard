@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-07-06T09:06:29.788Z",
-  "position": 267,
-  "stars": 2012,
-  "gap": 1,
+  "dateAndTime": "2020-07-06T10:06:23.852Z",
+  "position": 266,
+  "stars": 2013,
+  "gap": 6,
   "contenders": [
     {
-      "name": "xamarin/monodroid-samples",
-      "link": "https://github.com/xamarin/monodroid-samples"
+      "name": "ServiceStack/ServiceStack.Redis",
+      "link": "https://github.com/ServiceStack/ServiceStack.Redis"
     }
   ],
   "positionMilestones": {
@@ -26,9 +26,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 7,
+    "gap": 6,
     "stars": 2051,
-    "name": "lunet-io/markdig"
+    "name": "IdentityServer/IdentityServer3"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 88
+    "gap": 87
   }
 }
