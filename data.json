@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-06T21:06:17.557Z",
+  "dateAndTime": "2020-07-06T22:06:11.270Z",
   "position": 266,
-  "stars": 2015,
-  "gap": 4,
+  "stars": 2016,
+  "gap": 3,
   "contenders": [
     {
       "name": "ServiceStack/ServiceStack.Redis",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 85
+    "gap": 84
   }
 }
