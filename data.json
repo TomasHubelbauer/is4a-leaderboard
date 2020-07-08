@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-08T03:06:06.239Z",
+  "dateAndTime": "2020-07-08T04:06:58.068Z",
   "position": 266,
   "stars": 2019,
   "gap": 1,
@@ -7,10 +7,6 @@
     {
       "name": "ServiceStack/ServiceStack.Redis",
       "link": "https://github.com/ServiceStack/ServiceStack.Redis"
-    },
-    {
-      "name": "keijiro/Skinner",
-      "link": "https://github.com/keijiro/Skinner"
     }
   ],
   "positionMilestones": {
