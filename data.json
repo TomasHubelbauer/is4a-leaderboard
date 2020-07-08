@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-08T21:06:23.432Z",
+  "dateAndTime": "2020-07-08T22:06:29.416Z",
   "position": 265,
-  "stars": 2021,
-  "gap": 2,
+  "stars": 2022,
+  "gap": 1,
   "contenders": [
     {
       "name": "keijiro/Skinner",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 79
+    "gap": 78
   }
 }
