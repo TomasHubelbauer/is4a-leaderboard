@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-09T02:07:35.337Z",
+  "dateAndTime": "2020-07-09T03:06:30.215Z",
   "position": 264,
-  "stars": 2023,
-  "gap": 4,
+  "stars": 2024,
+  "gap": 3,
   "contenders": [
     {
       "name": "sshnet/SSH.NET",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 77
+    "gap": 76
   }
 }
