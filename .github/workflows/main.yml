@@ -48,5 +48,5 @@ jobs:
         if [ $newPosition != $oldPosition ]
         then
           # Create a GitHub release for this leaderboard position
-          curl -f -X POST -H "Authorization: token ${{secrets.GITHUB_PAGES_PAT}}" "https://api.github.com/repos/${{github.repository}}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$newPosition'", "body": "Gap: '$newGap'"}'
+          curl -f -X POST -H "Authorization: token ${{secrets.GITHUB_PAGES_PAT}}" "https://api.github.com/repos/${{github.repository}}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$newPosition'"}'
         fi
