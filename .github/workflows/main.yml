@@ -39,7 +39,7 @@ jobs:
         # Authenticate with GitHub using the default integration PAT (this one won't deploy GitHub Pages)
         git remote set-url origin https://tomashubelbauer:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}
         # Pull before pushing to integrate fast forward changes if any
-        git pull
+        git pull --ff-only
         # Push the changes to GitHub
         git push
         # Create a release if the position has changed
