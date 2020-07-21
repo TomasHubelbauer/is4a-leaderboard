@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-07-21T16:07:10.457Z",
+  "dateAndTime": "2020-07-21T17:06:35.771Z",
   "position": 265,
   "stars": 2038,
-  "gap": 4,
+  "gap": 5,
   "contenders": [
     {
-      "name": "ivanpaulovich/clean-architecture-manga",
-      "link": "https://github.com/ivanpaulovich/clean-architecture-manga"
+      "name": "MiniProfiler/dotnet",
+      "link": "https://github.com/MiniProfiler/dotnet"
     }
   ],
   "positionMilestones": {
