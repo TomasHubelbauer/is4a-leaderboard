@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-21T15:06:39.212Z",
+  "dateAndTime": "2020-07-21T16:07:10.457Z",
   "position": 265,
   "stars": 2038,
-  "gap": 2,
+  "gap": 4,
   "contenders": [
     {
       "name": "ivanpaulovich/clean-architecture-manga",
