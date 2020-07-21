@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-21T13:06:31.634Z",
+  "dateAndTime": "2020-07-21T14:07:41.973Z",
   "position": 264,
   "stars": 2038,
   "gap": 5,
@@ -7,10 +7,6 @@
     {
       "name": "MiniProfiler/dotnet",
       "link": "https://github.com/MiniProfiler/dotnet"
-    },
-    {
-      "name": "sshnet/SSH.NET",
-      "link": "https://github.com/sshnet/SSH.NET"
     }
   ],
   "positionMilestones": {
