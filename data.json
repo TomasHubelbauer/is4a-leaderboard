@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-22T03:07:19.758Z",
+  "dateAndTime": "2020-07-22T04:07:19.146Z",
   "position": 266,
   "stars": 2039,
   "gap": 4,
@@ -28,7 +28,7 @@
     "milestone": 260,
     "gap": 6,
     "stars": 2084,
-    "name": "lunet-io/markdig"
+    "name": "bridgedotnet/Bridge"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
