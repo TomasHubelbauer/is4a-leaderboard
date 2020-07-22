@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-22T12:08:40.395Z",
+  "dateAndTime": "2020-07-22T13:06:24.183Z",
   "position": 266,
-  "stars": 2040,
-  "gap": 3,
+  "stars": 2041,
+  "gap": 2,
   "contenders": [
     {
       "name": "MiniProfiler/dotnet",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 60
+    "gap": 59
   }
 }
