@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-07-23T21:06:52.842Z",
-  "position": 266,
+  "dateAndTime": "2020-07-23T22:07:02.895Z",
+  "position": 255,
   "stars": 2042,
   "gap": 3,
   "contenders": [
@@ -10,6 +10,7 @@
     }
   ],
   "positionMilestones": {
+    "260": "2020-07-23T22:07:02.895Z",
     "270": "2020-06-24T19:05:00.804Z",
     "280": "2020-06-03T02:05:14.023Z",
     "290": "2020-05-01T17:03:36.981Z",
@@ -25,10 +26,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 260,
-    "gap": 6,
-    "stars": 2084,
-    "name": "bridgedotnet/Bridge"
+    "milestone": 250,
+    "gap": 5,
+    "stars": 2076,
+    "name": "morelinq/MoreLINQ"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
