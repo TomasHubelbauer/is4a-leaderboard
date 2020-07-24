@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-07-24T00:19:59.099Z",
-  "position": 266,
+  "dateAndTime": "2020-07-24T01:07:27.493Z",
+  "position": 265,
   "stars": 2042,
   "gap": 3,
   "contenders": [
@@ -26,9 +26,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 6,
-    "stars": 2084,
-    "name": "bridgedotnet/Bridge"
+    "gap": 5,
+    "stars": 2076,
+    "name": "morelinq/MoreLINQ"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
