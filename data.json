@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-26T14:07:25.059Z",
+  "dateAndTime": "2020-07-26T15:07:01.016Z",
   "position": 265,
   "stars": 2047,
   "gap": 1,
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 5,
-    "stars": 2078,
+    "stars": 2079,
     "name": "morelinq/MoreLINQ"
   },
   "starsMilestones": {
