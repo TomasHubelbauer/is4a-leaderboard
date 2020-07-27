@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-27T07:07:34.715Z",
+  "dateAndTime": "2020-07-27T08:07:55.582Z",
   "position": 265,
   "stars": 2047,
   "gap": 2,
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 5,
-    "stars": 2081,
+    "stars": 2082,
     "name": "ivanpaulovich/clean-architecture-manga"
   },
   "starsMilestones": {
