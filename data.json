@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-07-28T14:07:21.849Z",
+  "dateAndTime": "2020-07-28T15:07:37.294Z",
   "position": 264,
   "stars": 2049,
-  "gap": 5,
+  "gap": 4,
   "contenders": [
     {
       "name": "IdentityServer/IdentityServer3",
       "link": "https://github.com/IdentityServer/IdentityServer3"
-    },
-    {
-      "name": "sshnet/SSH.NET",
-      "link": "https://github.com/sshnet/SSH.NET"
     }
   ],
   "positionMilestones": {
