@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-07-28T22:07:04.466Z",
+  "dateAndTime": "2020-07-28T23:06:44.859Z",
   "position": 264,
-  "stars": 2050,
-  "gap": 3,
+  "stars": 2051,
+  "gap": 2,
   "contenders": [
     {
       "name": "IdentityServer/IdentityServer3",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 50
+    "gap": 49
   }
 }
