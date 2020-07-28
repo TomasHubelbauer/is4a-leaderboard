@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-07-28T02:08:13.831Z",
+  "dateAndTime": "2020-07-28T03:07:11.918Z",
   "position": 265,
   "stars": 2047,
   "gap": 2,
@@ -27,8 +27,8 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 5,
-    "stars": 2084,
-    "name": "ivanpaulovich/clean-architecture-manga"
+    "stars": 2085,
+    "name": "bridgedotnet/Bridge"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
