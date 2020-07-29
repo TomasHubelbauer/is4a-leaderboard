@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-07-29T03:07:14.890Z",
-  "position": 264,
-  "stars": 2052,
+  "dateAndTime": "2020-07-29T04:07:17.018Z",
+  "position": 263,
+  "stars": 2053,
   "gap": 1,
   "contenders": [
     {
-      "name": "IdentityServer/IdentityServer3",
-      "link": "https://github.com/IdentityServer/IdentityServer3"
+      "name": "sshnet/SSH.NET",
+      "link": "https://github.com/sshnet/SSH.NET"
     }
   ],
   "positionMilestones": {
@@ -26,7 +26,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 4,
+    "gap": 3,
     "stars": 2084,
     "name": "bridgedotnet/Bridge"
   },
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 48
+    "gap": 47
   }
 }
