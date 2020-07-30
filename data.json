@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-07-30T13:06:55.516Z",
-  "position": 263,
-  "stars": 2057,
-  "gap": 1,
+  "dateAndTime": "2020-07-30T14:08:06.514Z",
+  "position": 262,
+  "stars": 2058,
+  "gap": 2,
   "contenders": [
     {
-      "name": "sshnet/SSH.NET",
-      "link": "https://github.com/sshnet/SSH.NET"
+      "name": "IgnaceMaes/MaterialSkin",
+      "link": "https://github.com/IgnaceMaes/MaterialSkin"
     }
   ],
   "positionMilestones": {
@@ -26,7 +26,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 3,
+    "gap": 2,
     "stars": 2084,
     "name": "bridgedotnet/Bridge"
   },
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 43
+    "gap": 42
   }
 }
