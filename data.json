@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-02T05:07:07.371Z",
+  "dateAndTime": "2020-08-02T06:08:26.063Z",
   "position": 263,
   "stars": 2062,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "microsoft/reverse-proxy",
