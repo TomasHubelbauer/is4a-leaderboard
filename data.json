@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-03T06:08:14.936Z",
+  "dateAndTime": "2020-08-03T07:07:25.920Z",
   "position": 263,
-  "stars": 2062,
-  "gap": 5,
+  "stars": 2063,
+  "gap": 4,
   "contenders": [
     {
       "name": "IgnaceMaes/MaterialSkin",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 38
+    "gap": 37
   }
 }
