@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-08-04T00:22:41.087Z",
+  "dateAndTime": "2020-08-04T01:08:07.147Z",
   "position": 263,
   "stars": 2064,
   "gap": 3,
@@ -7,10 +7,6 @@
     {
       "name": "IgnaceMaes/MaterialSkin",
       "link": "https://github.com/IgnaceMaes/MaterialSkin"
-    },
-    {
-      "name": "microsoft/reverse-proxy",
-      "link": "https://github.com/microsoft/reverse-proxy"
     }
   ],
   "positionMilestones": {
