@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-08-04T07:07:56.631Z",
-  "position": 263,
-  "stars": 2066,
+  "dateAndTime": "2020-08-04T08:08:31.474Z",
+  "position": 262,
+  "stars": 2067,
   "gap": 1,
   "contenders": [
     {
-      "name": "IgnaceMaes/MaterialSkin",
-      "link": "https://github.com/IgnaceMaes/MaterialSkin"
+      "name": "microsoft/reverse-proxy",
+      "link": "https://github.com/microsoft/reverse-proxy"
     }
   ],
   "positionMilestones": {
@@ -26,7 +26,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 260,
-    "gap": 3,
+    "gap": 2,
     "stars": 2089,
     "name": "bridgedotnet/Bridge"
   },
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 34
+    "gap": 33
   }
 }
