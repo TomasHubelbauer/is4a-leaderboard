@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-08-05T14:08:27.512Z",
+  "dateAndTime": "2020-08-05T15:07:44.765Z",
   "position": 262,
   "stars": 2070,
   "gap": 2,
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 2,
-    "stars": 2093,
+    "stars": 2094,
     "name": "bridgedotnet/Bridge"
   },
   "starsMilestones": {
