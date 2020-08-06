@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-06T01:08:24.949Z",
+  "dateAndTime": "2020-08-06T02:08:28.038Z",
   "position": 262,
-  "stars": 2071,
-  "gap": 2,
+  "stars": 2072,
+  "gap": 1,
   "contenders": [
     {
       "name": "microsoft/reverse-proxy",
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 2,
-    "stars": 2094,
+    "stars": 2093,
     "name": "bridgedotnet/Bridge"
   },
   "starsMilestones": {
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 29
+    "gap": 28
   }
 }
