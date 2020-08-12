@@ -1,9 +1,13 @@
 {
-  "dateAndTime": "2020-08-12T04:08:16.580Z",
+  "dateAndTime": "2020-08-12T05:07:47.969Z",
   "position": 263,
-  "stars": 2080,
+  "stars": 2081,
   "gap": 13,
   "contenders": [
+    {
+      "name": "morelinq/MoreLINQ",
+      "link": "https://github.com/morelinq/MoreLINQ"
+    },
     {
       "name": "microsoft/reverse-proxy",
       "link": "https://github.com/microsoft/reverse-proxy"
@@ -42,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 20
+    "gap": 19
   }
 }
