@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-13T08:08:39.062Z",
-  "position": 247,
-  "stars": 2085,
-  "gap": 10,
+  "dateAndTime": "2020-08-13T09:07:50.429Z",
+  "position": 263,
+  "stars": 2086,
+  "gap": 9,
   "contenders": [
     {
       "name": "morelinq/MoreLINQ",
@@ -10,7 +10,6 @@
     }
   ],
   "positionMilestones": {
-    "250": "2020-08-13T08:08:39.062Z",
     "270": "2020-06-24T19:05:00.804Z",
     "280": "2020-06-03T02:05:14.023Z",
     "290": "2020-05-01T17:03:36.981Z",
@@ -26,10 +25,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 240,
-    "gap": 7,
-    "stars": 2145,
-    "name": "NoelFB/Celeste"
+    "milestone": 260,
+    "gap": 3,
+    "stars": 2122,
+    "name": "lunet-io/markdig"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -43,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 15
+    "gap": 14
   }
 }
