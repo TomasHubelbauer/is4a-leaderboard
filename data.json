@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-17T13:08:08.308Z",
+  "dateAndTime": "2020-08-17T14:08:47.494Z",
   "position": 262,
-  "stars": 2097,
-  "gap": 5,
+  "stars": 2098,
+  "gap": 4,
   "contenders": [
     {
       "name": "morelinq/MoreLINQ",
@@ -42,6 +42,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2100,
-    "gap": 3
+    "gap": 2
   }
 }
