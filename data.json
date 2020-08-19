@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-08-19T07:08:10.725Z",
+  "dateAndTime": "2020-08-19T08:09:54.637Z",
   "position": 262,
   "stars": 2103,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "morelinq/MoreLINQ",
       "link": "https://github.com/morelinq/MoreLINQ"
+    },
+    {
+      "name": "bridgedotnet/Bridge",
+      "link": "https://github.com/bridgedotnet/Bridge"
     }
   ],
   "positionMilestones": {
