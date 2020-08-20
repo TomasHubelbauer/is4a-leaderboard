@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-08-20T08:09:10.232Z",
+  "dateAndTime": "2020-08-20T09:08:06.034Z",
   "position": 262,
   "stars": 2104,
   "gap": 1,
@@ -27,7 +27,7 @@
   "positionMilestoneToGo": {
     "milestone": 260,
     "gap": 2,
-    "stars": 2114,
+    "stars": 2113,
     "name": "microsoft/reverse-proxy"
   },
   "starsMilestones": {
