@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-08-21T04:08:55.734Z",
-  "position": 206,
+  "dateAndTime": "2020-08-21T05:10:33.147Z",
+  "position": 259,
   "stars": 2106,
   "gap": 11,
   "contenders": [
@@ -10,7 +10,6 @@
     }
   ],
   "positionMilestones": {
-    "210": "2020-08-21T04:08:55.734Z",
     "260": "2020-08-20T21:12:49.431Z",
     "270": "2020-06-24T19:05:00.804Z",
     "280": "2020-06-03T02:05:14.023Z",
@@ -27,8 +26,8 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 200,
-    "gap": 6,
+    "milestone": 250,
+    "gap": 9,
     "stars": 2169,
     "name": "elvirbrk/NoteHighlight2016"
   },
