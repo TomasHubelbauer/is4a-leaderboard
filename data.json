@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-08-21T07:08:24.677Z",
-  "position": 260,
-  "stars": 2106,
-  "gap": 1,
+  "dateAndTime": "2020-08-21T08:09:55.447Z",
+  "position": 259,
+  "stars": 2107,
+  "gap": 11,
   "contenders": [
     {
-      "name": "morelinq/MoreLINQ",
-      "link": "https://github.com/morelinq/MoreLINQ"
+      "name": "microsoft/reverse-proxy",
+      "link": "https://github.com/microsoft/reverse-proxy"
     }
   ],
   "positionMilestones": {
@@ -27,7 +27,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 250,
-    "gap": 10,
+    "gap": 9,
     "stars": 2169,
     "name": "elvirbrk/NoteHighlight2016"
   },
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 94
+    "gap": 93
   }
 }
