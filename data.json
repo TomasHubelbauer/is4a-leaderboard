@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-08-25T00:23:31.283Z",
+  "dateAndTime": "2020-08-25T01:08:49.419Z",
   "position": 259,
   "stars": 2113,
   "gap": 11,
@@ -28,8 +28,8 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 9,
-    "stars": 2176,
-    "name": "elvirbrk/NoteHighlight2016"
+    "stars": 2177,
+    "name": "zalo/MathUtilities"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
