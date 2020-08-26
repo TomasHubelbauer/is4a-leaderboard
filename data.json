@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-26T21:08:16.461Z",
-  "position": 259,
+  "dateAndTime": "2020-08-26T22:08:26.080Z",
+  "position": 260,
   "stars": 2119,
-  "gap": 9,
+  "gap": 10,
   "contenders": [
     {
       "name": "microsoft/reverse-proxy",
@@ -27,9 +27,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 250,
-    "gap": 9,
-    "stars": 2177,
-    "name": "zalo/MathUtilities"
+    "gap": 10,
+    "stars": 2182,
+    "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
