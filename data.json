@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-08-26T23:11:56.513Z",
+  "dateAndTime": "2020-08-27T00:24:00.158Z",
   "position": 260,
   "stars": 2119,
-  "gap": 10,
+  "gap": 14,
   "contenders": [
     {
       "name": "microsoft/reverse-proxy",
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 10,
-    "stars": 2182,
+    "stars": 2183,
     "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
