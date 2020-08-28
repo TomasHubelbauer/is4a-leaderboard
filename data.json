@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-08-28T02:10:08.862Z",
+  "dateAndTime": "2020-08-28T03:08:49.585Z",
   "position": 260,
-  "stars": 2123,
-  "gap": 18,
+  "stars": 2124,
+  "gap": 17,
   "contenders": [
     {
       "name": "lunet-io/markdig",
       "link": "https://github.com/lunet-io/markdig"
-    },
-    {
-      "name": "microsoft/reverse-proxy",
-      "link": "https://github.com/microsoft/reverse-proxy"
     }
   ],
   "positionMilestones": {
@@ -48,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 77
+    "gap": 76
   }
 }
