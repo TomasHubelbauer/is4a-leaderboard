@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-08-28T09:09:20.243Z",
+  "dateAndTime": "2020-08-28T10:09:02.468Z",
   "position": 260,
   "stars": 2125,
-  "gap": 16,
+  "gap": 17,
   "contenders": [
     {
       "name": "lunet-io/markdig",
       "link": "https://github.com/lunet-io/markdig"
+    },
+    {
+      "name": "libgit2/libgit2sharp",
+      "link": "https://github.com/libgit2/libgit2sharp"
     }
   ],
   "positionMilestones": {
@@ -28,7 +32,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 10,
-    "stars": 2185,
+    "stars": 2186,
     "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
