@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-08-28T11:08:41.991Z",
+  "dateAndTime": "2020-08-28T12:13:13.071Z",
   "position": 260,
   "stars": 2125,
   "gap": 17,
@@ -7,10 +7,6 @@
     {
       "name": "lunet-io/markdig",
       "link": "https://github.com/lunet-io/markdig"
-    },
-    {
-      "name": "libgit2/libgit2sharp",
-      "link": "https://github.com/libgit2/libgit2sharp"
     }
   ],
   "positionMilestones": {
