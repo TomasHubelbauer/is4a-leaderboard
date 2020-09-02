@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-09-02T12:12:04.326Z",
+  "dateAndTime": "2020-09-02T13:08:44.740Z",
   "position": 260,
   "stars": 2138,
   "gap": 5,
@@ -28,8 +28,8 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 10,
-    "stars": 2191,
-    "name": "elvirbrk/NoteHighlight2016"
+    "stars": 2192,
+    "name": "Azure/azure-powershell"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
