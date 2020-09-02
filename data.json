@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-02T07:09:21.671Z",
+  "dateAndTime": "2020-09-02T08:10:10.492Z",
   "position": 260,
-  "stars": 2136,
-  "gap": 7,
+  "stars": 2137,
+  "gap": 6,
   "contenders": [
     {
       "name": "libgit2/libgit2sharp",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 64
+    "gap": 63
   }
 }
