@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-02T08:10:10.492Z",
+  "dateAndTime": "2020-09-02T09:09:09.468Z",
   "position": 260,
-  "stars": 2137,
-  "gap": 6,
+  "stars": 2138,
+  "gap": 5,
   "contenders": [
     {
       "name": "libgit2/libgit2sharp",
@@ -28,8 +28,8 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 10,
-    "stars": 2191,
-    "name": "elvirbrk/NoteHighlight2016"
+    "stars": 2192,
+    "name": "Azure/azure-powershell"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 63
+    "gap": 62
   }
 }
