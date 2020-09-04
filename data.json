@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-09-04T11:08:26.825Z",
-  "position": 260,
-  "stars": 2144,
-  "gap": 1,
+  "dateAndTime": "2020-09-04T12:16:10.347Z",
+  "position": 259,
+  "stars": 2145,
+  "gap": 10,
   "contenders": [
     {
-      "name": "libgit2/libgit2sharp",
-      "link": "https://github.com/libgit2/libgit2sharp"
+      "name": "lunet-io/markdig",
+      "link": "https://github.com/lunet-io/markdig"
     }
   ],
   "positionMilestones": {
@@ -27,7 +27,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 250,
-    "gap": 10,
+    "gap": 9,
     "stars": 2193,
     "name": "Azure/azure-powershell"
   },
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 56
+    "gap": 55
   }
 }
