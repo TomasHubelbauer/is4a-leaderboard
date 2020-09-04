@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-04T03:09:10.334Z",
+  "dateAndTime": "2020-09-04T04:09:57.792Z",
   "position": 260,
   "stars": 2143,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "libgit2/libgit2sharp",
