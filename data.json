@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-09-07T14:10:01.651Z",
+  "dateAndTime": "2020-09-07T15:09:22.936Z",
   "position": 260,
   "stars": 2151,
   "gap": 11,
@@ -7,10 +7,6 @@
     {
       "name": "lunet-io/markdig",
       "link": "https://github.com/lunet-io/markdig"
-    },
-    {
-      "name": "morelinq/MoreLINQ",
-      "link": "https://github.com/morelinq/MoreLINQ"
     }
   ],
   "positionMilestones": {
