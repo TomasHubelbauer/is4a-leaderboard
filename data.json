@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-08T07:09:27.825Z",
+  "dateAndTime": "2020-09-08T08:10:36.048Z",
   "position": 260,
   "stars": 2151,
-  "gap": 11,
+  "gap": 12,
   "contenders": [
     {
       "name": "lunet-io/markdig",
@@ -29,7 +29,7 @@
     "milestone": 250,
     "gap": 10,
     "stars": 2203,
-    "name": "morelinq/MoreLINQ"
+    "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
