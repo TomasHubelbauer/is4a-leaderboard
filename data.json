@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-10T09:09:17.677Z",
+  "dateAndTime": "2020-09-10T10:09:25.651Z",
   "position": 260,
-  "stars": 2163,
-  "gap": 2,
+  "stars": 2164,
+  "gap": 1,
   "contenders": [
     {
       "name": "lunet-io/markdig",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 37
+    "gap": 36
   }
 }
