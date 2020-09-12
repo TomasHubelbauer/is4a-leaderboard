@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-09-12T18:09:58.582Z",
+  "dateAndTime": "2020-09-12T19:08:48.099Z",
   "position": 259,
   "stars": 2172,
   "gap": 6,
   "contenders": [
-    {
-      "name": "tmenier/Flurl",
-      "link": "https://github.com/tmenier/Flurl"
-    },
     {
       "name": "Caliburn-Micro/Caliburn.Micro",
       "link": "https://github.com/Caliburn-Micro/Caliburn.Micro"
