@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-12T21:09:04.778Z",
+  "dateAndTime": "2020-09-12T22:09:22.552Z",
   "position": 259,
-  "stars": 2172,
-  "gap": 6,
+  "stars": 2171,
+  "gap": 7,
   "contenders": [
     {
       "name": "Caliburn-Micro/Caliburn.Micro",
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 28
+    "gap": 29
   }
 }
