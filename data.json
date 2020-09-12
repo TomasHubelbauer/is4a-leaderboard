@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-09-12T07:09:22.566Z",
+  "dateAndTime": "2020-09-12T08:11:04.606Z",
   "position": 259,
-  "stars": 2171,
-  "gap": 7,
+  "stars": 2172,
+  "gap": 6,
   "contenders": [
-    {
-      "name": "microsoft/reverse-proxy",
-      "link": "https://github.com/microsoft/reverse-proxy"
-    },
     {
       "name": "tmenier/Flurl",
       "link": "https://github.com/tmenier/Flurl"
@@ -15,6 +11,10 @@
     {
       "name": "Caliburn-Micro/Caliburn.Micro",
       "link": "https://github.com/Caliburn-Micro/Caliburn.Micro"
+    },
+    {
+      "name": "microsoft/reverse-proxy",
+      "link": "https://github.com/microsoft/reverse-proxy"
     }
   ],
   "positionMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 29
+    "gap": 28
   }
 }
