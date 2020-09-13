@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-09-13T16:10:00.832Z",
+  "dateAndTime": "2020-09-13T17:08:40.086Z",
   "position": 259,
   "stars": 2172,
   "gap": 6,
   "contenders": [
-    {
-      "name": "Caliburn-Micro/Caliburn.Micro",
-      "link": "https://github.com/Caliburn-Micro/Caliburn.Micro"
-    },
     {
       "name": "microsoft/reverse-proxy",
       "link": "https://github.com/microsoft/reverse-proxy"
