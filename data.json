@@ -1,9 +1,17 @@
 {
-  "dateAndTime": "2020-09-13T19:08:49.765Z",
+  "dateAndTime": "2020-09-13T20:10:13.861Z",
   "position": 259,
   "stars": 2172,
-  "gap": 6,
+  "gap": 7,
   "contenders": [
+    {
+      "name": "tmenier/Flurl",
+      "link": "https://github.com/tmenier/Flurl"
+    },
+    {
+      "name": "Caliburn-Micro/Caliburn.Micro",
+      "link": "https://github.com/Caliburn-Micro/Caliburn.Micro"
+    },
     {
       "name": "microsoft/reverse-proxy",
       "link": "https://github.com/microsoft/reverse-proxy"
