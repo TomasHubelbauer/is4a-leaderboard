@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-09-15T07:09:30.281Z",
+  "dateAndTime": "2020-09-15T08:10:48.660Z",
   "position": 259,
-  "stars": 2173,
-  "gap": 7,
+  "stars": 2174,
+  "gap": 6,
   "contenders": [
     {
       "name": "tmenier/Flurl",
       "link": "https://github.com/tmenier/Flurl"
-    },
-    {
-      "name": "Caliburn-Micro/Caliburn.Micro",
-      "link": "https://github.com/Caliburn-Micro/Caliburn.Micro"
     }
   ],
   "positionMilestones": {
@@ -48,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 27
+    "gap": 26
   }
 }
