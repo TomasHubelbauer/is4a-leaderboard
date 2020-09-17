@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-17T08:10:22.785Z",
+  "dateAndTime": "2020-09-17T09:09:37.210Z",
   "position": 258,
-  "stars": 2179,
-  "gap": 6,
+  "stars": 2180,
+  "gap": 5,
   "contenders": [
     {
       "name": "tmenier/Flurl",
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 8,
-    "stars": 2215,
+    "stars": 2214,
     "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 21
+    "gap": 20
   }
 }
