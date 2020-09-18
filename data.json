@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-09-18T15:09:40.677Z",
+  "dateAndTime": "2020-09-18T16:10:18.859Z",
   "position": 258,
   "stars": 2183,
   "gap": 4,
   "contenders": [
-    {
-      "name": "tmenier/Flurl",
-      "link": "https://github.com/tmenier/Flurl"
-    },
     {
       "name": "NoelFB/Celeste",
       "link": "https://github.com/NoelFB/Celeste"
