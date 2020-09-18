@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2020-09-18T09:09:40.615Z",
+  "dateAndTime": "2020-09-18T10:09:32.411Z",
   "position": 258,
   "stars": 2182,
   "gap": 5,
   "contenders": [
-    {
-      "name": "chromelyapps/Chromely",
-      "link": "https://github.com/chromelyapps/Chromely"
-    },
     {
       "name": "tmenier/Flurl",
       "link": "https://github.com/tmenier/Flurl"
