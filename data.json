@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-18T22:09:50.792Z",
+  "dateAndTime": "2020-09-18T23:09:03.572Z",
   "position": 258,
-  "stars": 2183,
-  "gap": 4,
+  "stars": 2184,
+  "gap": 3,
   "contenders": [
     {
       "name": "NoelFB/Celeste",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 17
+    "gap": 16
   }
 }
