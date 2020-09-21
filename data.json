@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-21T03:09:33.276Z",
+  "dateAndTime": "2020-09-21T04:10:46.479Z",
   "position": 257,
-  "stars": 2189,
-  "gap": 2,
+  "stars": 2190,
+  "gap": 1,
   "contenders": [
     {
       "name": "tmenier/Flurl",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 11
+    "gap": 10
   }
 }
