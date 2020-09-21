@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-21T19:09:07.973Z",
+  "dateAndTime": "2020-09-21T20:10:19.512Z",
   "position": 256,
-  "stars": 2191,
-  "gap": 2,
+  "stars": 2192,
+  "gap": 1,
   "contenders": [
     {
       "name": "chromelyapps/Chromely",
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 9
+    "gap": 8
   }
 }
