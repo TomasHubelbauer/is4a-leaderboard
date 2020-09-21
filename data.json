@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-21T20:10:19.512Z",
+  "dateAndTime": "2020-09-21T21:09:41.686Z",
   "position": 256,
   "stars": 2192,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "chromelyapps/Chromely",
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 6,
-    "stars": 2220,
+    "stars": 2221,
     "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
