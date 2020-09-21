@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-09-20T23:08:47.548Z",
-  "position": 258,
-  "stars": 2186,
-  "gap": 1,
+  "dateAndTime": "2020-09-21T00:28:33.172Z",
+  "position": 257,
+  "stars": 2187,
+  "gap": 4,
   "contenders": [
     {
-      "name": "NoelFB/Celeste",
-      "link": "https://github.com/NoelFB/Celeste"
+      "name": "tmenier/Flurl",
+      "link": "https://github.com/tmenier/Flurl"
     }
   ],
   "positionMilestones": {
@@ -27,7 +27,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 250,
-    "gap": 8,
+    "gap": 7,
     "stars": 2220,
     "name": "elvirbrk/NoteHighlight2016"
   },
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 14
+    "gap": 13
   }
 }
