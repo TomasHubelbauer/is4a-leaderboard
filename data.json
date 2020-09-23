@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-09-23T03:09:42.196Z",
-  "position": 256,
-  "stars": 2194,
-  "gap": 1,
+  "dateAndTime": "2020-09-23T04:10:46.657Z",
+  "position": 254,
+  "stars": 2196,
+  "gap": 4,
   "contenders": [
     {
-      "name": "chromelyapps/Chromely",
-      "link": "https://github.com/chromelyapps/Chromely"
+      "name": "tidusjar/Ombi",
+      "link": "https://github.com/tidusjar/Ombi"
     }
   ],
   "positionMilestones": {
@@ -27,7 +27,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 250,
-    "gap": 6,
+    "gap": 4,
     "stars": 2223,
     "name": "elvirbrk/NoteHighlight2016"
   },
@@ -44,6 +44,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2200,
-    "gap": 6
+    "gap": 4
   }
 }
