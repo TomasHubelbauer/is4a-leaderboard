@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-24T12:13:10.398Z",
+  "dateAndTime": "2020-09-24T13:09:32.643Z",
   "position": 254,
-  "stars": 2201,
-  "gap": 3,
+  "stars": 2202,
+  "gap": 2,
   "contenders": [
     {
       "name": "tidusjar/Ombi",
@@ -45,6 +45,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 99
+    "gap": 98
   }
 }
