@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-25T18:10:48.121Z",
+  "dateAndTime": "2020-09-25T19:09:11.136Z",
   "position": 253,
-  "stars": 2207,
-  "gap": 2,
+  "stars": 2208,
+  "gap": 1,
   "contenders": [
     {
       "name": "Azure/azure-powershell",
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 3,
-    "stars": 2228,
+    "stars": 2227,
     "name": "elvirbrk/NoteHighlight2016"
   },
   "starsMilestones": {
@@ -45,6 +45,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 93
+    "gap": 92
   }
 }
