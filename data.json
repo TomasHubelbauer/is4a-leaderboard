@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-25T09:10:04.960Z",
+  "dateAndTime": "2020-09-25T10:10:04.966Z",
   "position": 253,
-  "stars": 2205,
-  "gap": 5,
+  "stars": 2206,
+  "gap": 4,
   "contenders": [
     {
       "name": "Azure/azure-powershell",
@@ -45,6 +45,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 95
+    "gap": 94
   }
 }
