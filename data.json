@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-27T19:09:14.874Z",
+  "dateAndTime": "2020-09-27T20:10:23.219Z",
   "position": 252,
   "stars": 2209,
-  "gap": 1,
+  "gap": 2,
   "contenders": [
     {
       "name": "Azure/azure-powershell",
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 2,
-    "stars": 2222,
+    "stars": 2225,
     "name": "microsoft/reverse-proxy"
   },
   "starsMilestones": {
