@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-09-27T23:09:19.967Z",
+  "dateAndTime": "2020-09-28T00:29:16.586Z",
   "position": 252,
   "stars": 2209,
-  "gap": 2,
+  "gap": 1,
   "contenders": [
     {
       "name": "Azure/azure-powershell",
