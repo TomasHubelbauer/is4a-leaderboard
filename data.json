@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-01T08:11:13.230Z",
+  "dateAndTime": "2020-10-01T09:11:39.900Z",
   "position": 251,
-  "stars": 2217,
-  "gap": 4,
+  "stars": 2218,
+  "gap": 3,
   "contenders": [
     {
       "name": "zalo/MathUtilities",
@@ -45,6 +45,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 83
+    "gap": 82
   }
 }
