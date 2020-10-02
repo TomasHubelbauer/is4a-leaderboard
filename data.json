@@ -1,15 +1,16 @@
 {
-  "dateAndTime": "2020-10-02T09:10:55.863Z",
-  "position": 251,
-  "stars": 2220,
-  "gap": 1,
+  "dateAndTime": "2020-10-02T10:10:50.612Z",
+  "position": 250,
+  "stars": 2221,
+  "gap": 14,
   "contenders": [
     {
-      "name": "zalo/MathUtilities",
-      "link": "https://github.com/zalo/MathUtilities"
+      "name": "OneGet/oneget",
+      "link": "https://github.com/OneGet/oneget"
     }
   ],
   "positionMilestones": {
+    "250": "2020-10-02T10:10:50.612Z",
     "260": "2020-08-31T22:09:08.142Z",
     "270": "2020-06-24T19:05:00.804Z",
     "280": "2020-06-03T02:05:14.023Z",
@@ -26,10 +27,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 250,
-    "gap": 1,
-    "stars": 2235,
-    "name": "OneGet/oneget"
+    "milestone": 240,
+    "gap": 10,
+    "stars": 2292,
+    "name": "microsoft/referencesource"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -45,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 80
+    "gap": 79
   }
 }
