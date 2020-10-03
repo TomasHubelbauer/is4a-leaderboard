@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-03T02:11:14.951Z",
+  "dateAndTime": "2020-10-03T03:10:17.339Z",
   "position": 250,
-  "stars": 2222,
-  "gap": 13,
+  "stars": 2221,
+  "gap": 14,
   "contenders": [
     {
       "name": "OneGet/oneget",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 78
+    "gap": 79
   }
 }
