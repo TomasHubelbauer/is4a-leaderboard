@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-10-06T08:19:16.154Z",
-  "position": 250,
-  "stars": 2234,
-  "gap": 1,
+  "dateAndTime": "2020-10-06T09:11:09.849Z",
+  "position": 249,
+  "stars": 2235,
+  "gap": 9,
   "contenders": [
     {
-      "name": "OneGet/oneget",
-      "link": "https://github.com/OneGet/oneget"
+      "name": "elvirbrk/NoteHighlight2016",
+      "link": "https://github.com/elvirbrk/NoteHighlight2016"
     }
   ],
   "positionMilestones": {
@@ -28,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 10,
+    "gap": 9,
     "stars": 2295,
     "name": "Glimpse/Glimpse"
   },
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 66
+    "gap": 65
   }
 }
