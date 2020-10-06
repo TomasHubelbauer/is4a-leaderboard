@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-10-06T10:11:02.065Z",
-  "position": 249,
+  "dateAndTime": "2020-10-06T11:09:55.146Z",
+  "position": 227,
   "stars": 2235,
   "gap": 9,
   "contenders": [
@@ -10,6 +10,7 @@
     }
   ],
   "positionMilestones": {
+    "230": "2020-10-06T11:09:55.146Z",
     "250": "2020-10-04T00:31:05.215Z",
     "260": "2020-08-31T22:09:08.142Z",
     "270": "2020-06-24T19:05:00.804Z",
@@ -27,10 +28,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 240,
-    "gap": 9,
-    "stars": 2295,
-    "name": "Glimpse/Glimpse"
+    "milestone": 220,
+    "gap": 7,
+    "stars": 2290,
+    "name": "Dotnet-Boxed/Templates"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
