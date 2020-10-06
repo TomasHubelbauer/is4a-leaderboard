@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-06T17:10:33.790Z",
+  "dateAndTime": "2020-10-06T18:11:32.006Z",
   "position": 249,
-  "stars": 2236,
-  "gap": 8,
+  "stars": 2237,
+  "gap": 7,
   "contenders": [
     {
       "name": "elvirbrk/NoteHighlight2016",
@@ -30,7 +30,7 @@
     "milestone": 240,
     "gap": 9,
     "stars": 2295,
-    "name": "Glimpse/Glimpse"
+    "name": "microsoft/PTVS"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 64
+    "gap": 63
   }
 }
