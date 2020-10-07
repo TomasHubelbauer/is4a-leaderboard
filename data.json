@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-07T09:10:58.312Z",
+  "dateAndTime": "2020-10-07T10:11:17.060Z",
   "position": 250,
-  "stars": 2237,
-  "gap": 8,
+  "stars": 2238,
+  "gap": 7,
   "contenders": [
     {
       "name": "elvirbrk/NoteHighlight2016",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 63
+    "gap": 62
   }
 }
