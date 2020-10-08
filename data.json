@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-08T09:11:05.899Z",
+  "dateAndTime": "2020-10-08T10:11:26.923Z",
   "position": 250,
-  "stars": 2241,
-  "gap": 6,
+  "stars": 2242,
+  "gap": 5,
   "contenders": [
     {
       "name": "elvirbrk/NoteHighlight2016",
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 10,
-    "stars": 2296,
+    "stars": 2297,
     "name": "microsoft/referencesource"
   },
   "starsMilestones": {
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 59
+    "gap": 58
   }
 }
