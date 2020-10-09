@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-10-09T18:11:45.784Z",
-  "position": 250,
-  "stars": 2250,
-  "gap": 1,
+  "dateAndTime": "2020-10-09T19:10:01.037Z",
+  "position": 249,
+  "stars": 2251,
+  "gap": 15,
   "contenders": [
     {
-      "name": "elvirbrk/NoteHighlight2016",
-      "link": "https://github.com/elvirbrk/NoteHighlight2016"
+      "name": "scriptcs/scriptcs",
+      "link": "https://github.com/scriptcs/scriptcs"
     }
   ],
   "positionMilestones": {
@@ -28,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 10,
+    "gap": 9,
     "stars": 2297,
     "name": "microsoft/referencesource"
   },
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 50
+    "gap": 49
   }
 }
