@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-10-11T09:10:50.428Z",
+  "dateAndTime": "2020-10-11T10:11:10.141Z",
   "position": 249,
   "stars": 2255,
   "gap": 13,
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 9,
-    "stars": 2297,
+    "stars": 2298,
     "name": "microsoft/referencesource"
   },
   "starsMilestones": {
