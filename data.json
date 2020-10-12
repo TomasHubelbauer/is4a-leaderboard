@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-12T20:11:46.224Z",
+  "dateAndTime": "2020-10-12T21:10:48.844Z",
   "position": 250,
-  "stars": 2257,
-  "gap": 2,
+  "stars": 2258,
+  "gap": 1,
   "contenders": [
     {
       "name": "ant-design-blazor/ant-design-blazor",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 43
+    "gap": 42
   }
 }
