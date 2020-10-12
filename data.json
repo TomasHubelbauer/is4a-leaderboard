@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-12T08:12:41.162Z",
+  "dateAndTime": "2020-10-12T09:11:55.759Z",
   "position": 249,
-  "stars": 2256,
-  "gap": 12,
+  "stars": 2257,
+  "gap": 11,
   "contenders": [
     {
       "name": "scriptcs/scriptcs",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 44
+    "gap": 43
   }
 }
