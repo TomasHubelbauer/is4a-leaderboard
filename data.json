@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-13T02:12:40.735Z",
+  "dateAndTime": "2020-10-13T03:11:04.318Z",
   "position": 250,
   "stars": 2259,
-  "gap": 1,
+  "gap": 3,
   "contenders": [
     {
       "name": "ant-design-blazor/ant-design-blazor",
