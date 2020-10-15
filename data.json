@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-10-15T15:12:38.519Z",
+  "dateAndTime": "2020-10-15T16:14:13.316Z",
   "position": 251,
   "stars": 2264,
   "gap": 5,
@@ -28,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 1,
-    "stars": 2280,
+    "stars": 2279,
     "name": "mathnet/mathnet-numerics"
   },
   "starsMilestones": {
