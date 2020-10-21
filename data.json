@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-21T01:32:32.546Z",
+  "dateAndTime": "2020-10-21T02:12:20.589Z",
   "position": 250,
-  "stars": 2271,
-  "gap": 11,
+  "stars": 2272,
+  "gap": 10,
   "contenders": [
     {
       "name": "mathnet/mathnet-numerics",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 29
+    "gap": 28
   }
 }
