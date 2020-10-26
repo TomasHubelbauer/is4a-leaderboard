@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-10-26T06:13:47.208Z",
+  "dateAndTime": "2020-10-26T07:12:44.310Z",
   "position": 251,
-  "stars": 2281,
-  "gap": 7,
+  "stars": 2283,
+  "gap": 5,
   "contenders": [
     {
       "name": "Azure/azure-powershell",
       "link": "https://github.com/Azure/azure-powershell"
-    },
-    {
-      "name": "mathnet/mathnet-numerics",
-      "link": "https://github.com/mathnet/mathnet-numerics"
     }
   ],
   "positionMilestones": {
@@ -32,7 +28,7 @@
   "positionMilestoneToGo": {
     "milestone": 250,
     "gap": 1,
-    "stars": 2288,
+    "stars": 2289,
     "name": "mathnet/mathnet-numerics"
   },
   "starsMilestones": {
@@ -49,6 +45,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 19
+    "gap": 17
   }
 }
