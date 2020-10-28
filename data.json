@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-10-28T19:11:00.872Z",
+  "dateAndTime": "2020-10-28T20:13:07.661Z",
   "position": 249,
-  "stars": 2292,
-  "gap": 6,
+  "stars": 2293,
+  "gap": 5,
   "contenders": [
     {
       "name": "microsoft/PTVS",
@@ -46,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 8
+    "gap": 7
   }
 }
