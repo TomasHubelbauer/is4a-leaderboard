@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-10-30T14:07:05.697Z",
-  "position": 249,
+  "dateAndTime": "2020-10-30T15:07:19.994Z",
+  "position": 250,
   "stars": 2297,
   "gap": 1,
   "contenders": [
     {
       "name": "microsoft/PTVS",
       "link": "https://github.com/microsoft/PTVS"
+    },
+    {
+      "name": "dotnet/tye",
+      "link": "https://github.com/dotnet/tye"
     }
   ],
   "positionMilestones": {
@@ -28,7 +32,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 9,
+    "gap": 10,
     "stars": 2330,
     "name": "StephenCleary/AsyncEx"
   },
