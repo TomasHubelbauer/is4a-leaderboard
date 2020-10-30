@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-10-30T16:11:29.632Z",
-  "position": 250,
-  "stars": 2297,
+  "dateAndTime": "2020-10-30T17:06:48.620Z",
+  "position": 248,
+  "stars": 2298,
   "gap": 1,
   "contenders": [
     {
-      "name": "microsoft/PTVS",
-      "link": "https://github.com/microsoft/PTVS"
-    },
-    {
-      "name": "dotnet/tye",
-      "link": "https://github.com/dotnet/tye"
+      "name": "Glimpse/Glimpse",
+      "link": "https://github.com/Glimpse/Glimpse"
     }
   ],
   "positionMilestones": {
@@ -32,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 10,
+    "gap": 8,
     "stars": 2330,
     "name": "StephenCleary/AsyncEx"
   },
@@ -50,6 +46,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2300,
-    "gap": 3
+    "gap": 2
   }
 }
