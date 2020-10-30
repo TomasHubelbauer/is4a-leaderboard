@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-10-30T06:08:06.519Z",
+  "dateAndTime": "2020-10-30T07:07:28.965Z",
   "position": 249,
   "stars": 2296,
   "gap": 2,
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 9,
-    "stars": 2332,
+    "stars": 2331,
     "name": "topameng/tolua"
   },
   "starsMilestones": {
