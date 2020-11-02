@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-11-02T12:10:19.584Z",
+  "dateAndTime": "2020-11-02T13:07:50.479Z",
   "position": 248,
   "stars": 2300,
   "gap": 3,
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 8,
-    "stars": 2333,
+    "stars": 2334,
     "name": "StephenCleary/AsyncEx"
   },
   "starsMilestones": {
