@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-02T03:07:50.285Z",
-  "position": 249,
-  "stars": 2299,
-  "gap": 1,
+  "dateAndTime": "2020-11-02T04:10:36.855Z",
+  "position": 248,
+  "stars": 2300,
+  "gap": 3,
   "contenders": [
     {
-      "name": "Glimpse/Glimpse",
-      "link": "https://github.com/Glimpse/Glimpse"
+      "name": "Dotnet-Boxed/Templates",
+      "link": "https://github.com/Dotnet-Boxed/Templates"
     }
   ],
   "positionMilestones": {
@@ -28,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 9,
+    "gap": 8,
     "stars": 2333,
     "name": "StephenCleary/AsyncEx"
   },
@@ -42,10 +42,11 @@
     "1900": "2020-06-02T04:05:02.685Z",
     "2000": "2020-07-03T08:07:27.814Z",
     "2100": "2020-08-18T04:09:03.107Z",
-    "2200": "2020-09-23T16:10:54.442Z"
+    "2200": "2020-09-23T16:10:54.442Z",
+    "2300": "2020-11-02T04:10:36.855Z"
   },
   "starsMilestoneToGo": {
-    "milestone": 2300,
-    "gap": 1
+    "milestone": 2400,
+    "gap": 100
   }
 }
