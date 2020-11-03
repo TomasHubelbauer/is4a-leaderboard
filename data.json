@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-02T23:07:53.237Z",
+  "dateAndTime": "2020-11-03T00:21:36.599Z",
   "position": 248,
-  "stars": 2300,
-  "gap": 3,
+  "stars": 2301,
+  "gap": 2,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 100
+    "gap": 99
   }
 }
