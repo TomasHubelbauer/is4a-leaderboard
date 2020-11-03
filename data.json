@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-11-03T06:09:03.349Z",
-  "position": 248,
-  "stars": 2301,
-  "gap": 2,
+  "dateAndTime": "2020-11-03T07:08:39.524Z",
+  "position": 247,
+  "stars": 2303,
+  "gap": 4,
   "contenders": [
     {
-      "name": "Dotnet-Boxed/Templates",
-      "link": "https://github.com/Dotnet-Boxed/Templates"
+      "name": "inkle/ink",
+      "link": "https://github.com/inkle/ink"
+    },
+    {
+      "name": "firstfloorsoftware/mui",
+      "link": "https://github.com/firstfloorsoftware/mui"
     }
   ],
   "positionMilestones": {
@@ -28,7 +32,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 8,
+    "gap": 7,
     "stars": 2335,
     "name": "microsoft/perfview"
   },
@@ -47,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 99
+    "gap": 97
   }
 }
