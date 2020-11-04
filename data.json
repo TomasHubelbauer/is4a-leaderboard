@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-11-04T17:08:10.882Z",
+  "dateAndTime": "2020-11-04T18:07:56.697Z",
   "position": 247,
   "stars": 2304,
   "gap": 3,
@@ -33,7 +33,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 7,
-    "stars": 2335,
+    "stars": 2334,
     "name": "fluentmigrator/fluentmigrator"
   },
   "starsMilestones": {
