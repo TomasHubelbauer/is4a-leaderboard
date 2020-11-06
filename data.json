@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-11-06T18:08:19.750Z",
-  "position": 248,
+  "dateAndTime": "2020-11-06T19:07:11.961Z",
+  "position": 247,
   "stars": 2306,
   "gap": 1,
   "contenders": [
     {
       "name": "firstfloorsoftware/mui",
       "link": "https://github.com/firstfloorsoftware/mui"
-    },
-    {
-      "name": "dotnetcore/FreeSql",
-      "link": "https://github.com/dotnetcore/FreeSql"
     }
   ],
   "positionMilestones": {
@@ -32,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 8,
+    "gap": 7,
     "stars": 2338,
     "name": "microsoft/perfview"
   },
