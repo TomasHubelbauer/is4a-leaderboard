@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2020-11-08T01:20:02.393Z",
+  "dateAndTime": "2020-11-08T02:10:33.849Z",
   "position": 248,
   "stars": 2306,
   "gap": 2,
@@ -7,10 +7,6 @@
     {
       "name": "firstfloorsoftware/mui",
       "link": "https://github.com/firstfloorsoftware/mui"
-    },
-    {
-      "name": "dotnetcore/FreeSql",
-      "link": "https://github.com/dotnetcore/FreeSql"
     }
   ],
   "positionMilestones": {
