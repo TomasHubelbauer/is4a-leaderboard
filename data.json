@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-08T13:08:11.775Z",
+  "dateAndTime": "2020-11-08T14:09:02.542Z",
   "position": 248,
-  "stars": 2306,
-  "gap": 3,
+  "stars": 2305,
+  "gap": 4,
   "contenders": [
     {
       "name": "firstfloorsoftware/mui",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 94
+    "gap": 95
   }
 }
