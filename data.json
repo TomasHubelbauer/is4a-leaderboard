@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-09T02:10:43.381Z",
-  "position": 248,
+  "dateAndTime": "2020-11-09T03:08:48.829Z",
+  "position": 249,
   "stars": 2306,
-  "gap": 3,
+  "gap": 1,
   "contenders": [
     {
-      "name": "firstfloorsoftware/mui",
-      "link": "https://github.com/firstfloorsoftware/mui"
+      "name": "Dotnet-Boxed/Templates",
+      "link": "https://github.com/Dotnet-Boxed/Templates"
     }
   ],
   "positionMilestones": {
@@ -28,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 8,
+    "gap": 9,
     "stars": 2341,
     "name": "OpenLiveWriter/OpenLiveWriter"
   },
