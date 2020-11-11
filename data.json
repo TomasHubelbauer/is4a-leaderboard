@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-11T05:07:44.831Z",
+  "dateAndTime": "2020-11-11T06:08:51.844Z",
   "position": 247,
-  "stars": 2310,
-  "gap": 4,
+  "stars": 2311,
+  "gap": 3,
   "contenders": [
     {
       "name": "inkle/ink",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 90
+    "gap": 89
   }
 }
