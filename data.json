@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-11-13T16:12:44.412Z",
+  "dateAndTime": "2020-11-13T17:08:07.047Z",
   "position": 247,
-  "stars": 2317,
+  "stars": 2318,
   "gap": 1,
   "contenders": [
     {
       "name": "inkle/ink",
       "link": "https://github.com/inkle/ink"
+    },
+    {
+      "name": "microsoft/referencesource",
+      "link": "https://github.com/microsoft/referencesource"
     }
   ],
   "positionMilestones": {
@@ -47,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 83
+    "gap": 82
   }
 }
