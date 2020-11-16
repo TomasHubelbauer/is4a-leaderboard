@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-15T00:28:03.388Z",
+  "dateAndTime": "2020-11-16T00:27:56.311Z",
   "position": 245,
-  "stars": 2320,
-  "gap": 6,
+  "stars": 2321,
+  "gap": 7,
   "contenders": [
     {
       "name": "SeriaWei/ZKEACMS",
@@ -29,8 +29,8 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 5,
-    "stars": 2343,
-    "name": "fluentmigrator/fluentmigrator"
+    "stars": 2344,
+    "name": "dotnetcore/FreeSql"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 80
+    "gap": 79
   }
 }
