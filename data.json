@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-16T00:27:56.311Z",
+  "dateAndTime": "2020-11-17T00:27:24.160Z",
   "position": 245,
-  "stars": 2321,
-  "gap": 7,
+  "stars": 2323,
+  "gap": 6,
   "contenders": [
     {
-      "name": "SeriaWei/ZKEACMS",
-      "link": "https://github.com/SeriaWei/ZKEACMS"
+      "name": "pythonnet/pythonnet",
+      "link": "https://github.com/pythonnet/pythonnet"
     }
   ],
   "positionMilestones": {
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 5,
-    "stars": 2344,
+    "stars": 2348,
     "name": "dotnetcore/FreeSql"
   },
   "starsMilestones": {
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 79
+    "gap": 77
   }
 }
