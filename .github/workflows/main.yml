@@ -42,9 +42,3 @@ jobs:
         git pull --ff-only
         # Push the changes to GitHub
         git push
-        # Create a release if the position has changed
-        if [ $newPosition != $oldPosition ]
-        then
-          # Create a GitHub release for this leaderboard position using the custom PAT
-          curl -f -X POST -H "Authorization: token ${{secrets.GITHUB_PAGES_PAT}}" "https://api.github.com/repos/${{github.repository}}/releases" -d '{"tag_name":"'$(date -Iseconds | sed -r 's/[:+]/-/g')$(cat data.txt)'", "name": "#'$newPosition' ('$stars')"}'
-        fi
