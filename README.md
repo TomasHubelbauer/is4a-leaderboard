@@ -35,3 +35,5 @@ Either hardcode that or be a bit smarter about it and dynamically calculate posi
 star column splits based on the number of elements in each.
 
 ### Add rules atop Milestones and Contenders headings
+
+### Delete all releases
