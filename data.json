@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-18T00:27:51.634Z",
-  "position": 246,
-  "stars": 2322,
-  "gap": 1,
+  "dateAndTime": "2020-11-18T17:27:31.840Z",
+  "position": 245,
+  "stars": 2323,
+  "gap": 10,
   "contenders": [
     {
-      "name": "inkle/ink",
-      "link": "https://github.com/inkle/ink"
+      "name": "SeriaWei/ZKEACMS",
+      "link": "https://github.com/SeriaWei/ZKEACMS"
     }
   ],
   "positionMilestones": {
@@ -28,7 +28,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 6,
+    "gap": 5,
     "stars": 2352,
     "name": "JimBobSquarePants/ImageProcessor"
   },
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 78
+    "gap": 77
   }
 }
