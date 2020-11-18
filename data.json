@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-17T00:27:24.160Z",
-  "position": 245,
-  "stars": 2323,
-  "gap": 6,
+  "dateAndTime": "2020-11-18T00:27:51.634Z",
+  "position": 246,
+  "stars": 2322,
+  "gap": 1,
   "contenders": [
     {
-      "name": "pythonnet/pythonnet",
-      "link": "https://github.com/pythonnet/pythonnet"
+      "name": "inkle/ink",
+      "link": "https://github.com/inkle/ink"
     }
   ],
   "positionMilestones": {
@@ -28,9 +28,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 5,
-    "stars": 2348,
-    "name": "dotnetcore/FreeSql"
+    "gap": 6,
+    "stars": 2352,
+    "name": "JimBobSquarePants/ImageProcessor"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 77
+    "gap": 78
   }
 }
