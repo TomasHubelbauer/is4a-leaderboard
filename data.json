@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-20T00:28:26.026Z",
+  "dateAndTime": "2020-11-21T00:28:33.714Z",
   "position": 245,
-  "stars": 2326,
-  "gap": 7,
+  "stars": 2330,
+  "gap": 3,
   "contenders": [
     {
       "name": "SeriaWei/ZKEACMS",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 74
+    "gap": 70
   }
 }
