@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-21T00:28:33.714Z",
+  "dateAndTime": "2020-11-22T00:30:22.633Z",
   "position": 245,
-  "stars": 2330,
-  "gap": 3,
+  "stars": 2332,
+  "gap": 1,
   "contenders": [
     {
       "name": "SeriaWei/ZKEACMS",
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 5,
-    "stars": 2352,
+    "stars": 2351,
     "name": "JimBobSquarePants/ImageProcessor"
   },
   "starsMilestones": {
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 70
+    "gap": 68
   }
 }
