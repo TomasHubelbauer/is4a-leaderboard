@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-22T00:30:22.633Z",
-  "position": 245,
-  "stars": 2332,
-  "gap": 1,
+  "dateAndTime": "2020-11-23T00:29:50.549Z",
+  "position": 244,
+  "stars": 2334,
+  "gap": 8,
   "contenders": [
     {
-      "name": "SeriaWei/ZKEACMS",
-      "link": "https://github.com/SeriaWei/ZKEACMS"
+      "name": "pythonnet/pythonnet",
+      "link": "https://github.com/pythonnet/pythonnet"
     }
   ],
   "positionMilestones": {
@@ -28,8 +28,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 5,
-    "stars": 2351,
+    "gap": 4,
+    "stars": 2353,
     "name": "JimBobSquarePants/ImageProcessor"
   },
   "starsMilestones": {
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 68
+    "gap": 66
   }
 }
