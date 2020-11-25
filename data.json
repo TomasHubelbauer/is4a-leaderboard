@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-24T00:29:27.317Z",
+  "dateAndTime": "2020-11-25T00:29:44.700Z",
   "position": 245,
-  "stars": 2336,
-  "gap": 1,
+  "stars": 2339,
+  "gap": 2,
   "contenders": [
     {
-      "name": "SeriaWei/ZKEACMS",
-      "link": "https://github.com/SeriaWei/ZKEACMS"
+      "name": "EllanJiang/GameFramework",
+      "link": "https://github.com/EllanJiang/GameFramework"
     }
   ],
   "positionMilestones": {
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 5,
-    "stars": 2354,
+    "stars": 2355,
     "name": "JimBobSquarePants/ImageProcessor"
   },
   "starsMilestones": {
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 64
+    "gap": 61
   }
 }
