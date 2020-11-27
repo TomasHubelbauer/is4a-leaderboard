@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-11-26T00:29:27.233Z",
-  "position": 245,
-  "stars": 2341,
-  "gap": 2,
+  "dateAndTime": "2020-11-27T00:31:13.865Z",
+  "position": 244,
+  "stars": 2344,
+  "gap": 4,
   "contenders": [
     {
-      "name": "OpenLiveWriter/OpenLiveWriter",
-      "link": "https://github.com/OpenLiveWriter/OpenLiveWriter"
+      "name": "topameng/tolua",
+      "link": "https://github.com/topameng/tolua"
     }
   ],
   "positionMilestones": {
@@ -28,9 +28,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 5,
-    "stars": 2355,
-    "name": "JimBobSquarePants/ImageProcessor"
+    "gap": 4,
+    "stars": 2361,
+    "name": "EllanJiang/GameFramework"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -47,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 59
+    "gap": 56
   }
 }
