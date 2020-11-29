@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-11-28T00:30:58.569Z",
+  "dateAndTime": "2020-11-29T00:32:50.963Z",
   "position": 244,
-  "stars": 2345,
-  "gap": 5,
+  "stars": 2348,
+  "gap": 3,
   "contenders": [
     {
       "name": "topameng/tolua",
@@ -37,7 +37,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 4,
-    "stars": 2365,
+    "stars": 2367,
     "name": "EllanJiang/GameFramework"
   },
   "starsMilestones": {
@@ -55,6 +55,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 55
+    "gap": 52
   }
 }
