@@ -1,20 +1,12 @@
 {
-  "dateAndTime": "2020-11-29T00:32:50.963Z",
-  "position": 244,
-  "stars": 2348,
-  "gap": 3,
+  "dateAndTime": "2020-11-30T00:32:53.065Z",
+  "position": 242,
+  "stars": 2351,
+  "gap": 2,
   "contenders": [
-    {
-      "name": "topameng/tolua",
-      "link": "https://github.com/topameng/tolua"
-    },
     {
       "name": "pythonnet/pythonnet",
       "link": "https://github.com/pythonnet/pythonnet"
-    },
-    {
-      "name": "fluentmigrator/fluentmigrator",
-      "link": "https://github.com/fluentmigrator/fluentmigrator"
     }
   ],
   "positionMilestones": {
@@ -36,8 +28,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 4,
-    "stars": 2367,
+    "gap": 2,
+    "stars": 2369,
     "name": "EllanJiang/GameFramework"
   },
   "starsMilestones": {
@@ -55,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 52
+    "gap": 49
   }
 }
