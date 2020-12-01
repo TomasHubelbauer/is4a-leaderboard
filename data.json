@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-11-30T00:32:53.065Z",
-  "position": 242,
-  "stars": 2351,
-  "gap": 2,
+  "dateAndTime": "2020-12-01T00:33:17.492Z",
+  "position": 243,
+  "stars": 2352,
+  "gap": 3,
   "contenders": [
     {
       "name": "pythonnet/pythonnet",
       "link": "https://github.com/pythonnet/pythonnet"
+    },
+    {
+      "name": "fluentmigrator/fluentmigrator",
+      "link": "https://github.com/fluentmigrator/fluentmigrator"
     }
   ],
   "positionMilestones": {
@@ -28,8 +32,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 2,
-    "stars": 2369,
+    "gap": 3,
+    "stars": 2372,
     "name": "EllanJiang/GameFramework"
   },
   "starsMilestones": {
@@ -47,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 49
+    "gap": 48
   }
 }
