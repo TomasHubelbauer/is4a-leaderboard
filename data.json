@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-12-01T00:33:17.492Z",
-  "position": 243,
-  "stars": 2352,
-  "gap": 3,
+  "dateAndTime": "2020-12-02T00:32:25.617Z",
+  "position": 241,
+  "stars": 2356,
+  "gap": 1,
   "contenders": [
     {
-      "name": "pythonnet/pythonnet",
-      "link": "https://github.com/pythonnet/pythonnet"
-    },
-    {
-      "name": "fluentmigrator/fluentmigrator",
-      "link": "https://github.com/fluentmigrator/fluentmigrator"
+      "name": "JimBobSquarePants/ImageProcessor",
+      "link": "https://github.com/JimBobSquarePants/ImageProcessor"
     }
   ],
   "positionMilestones": {
@@ -32,8 +28,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 3,
-    "stars": 2372,
+    "gap": 1,
+    "stars": 2378,
     "name": "EllanJiang/GameFramework"
   },
   "starsMilestones": {
@@ -51,6 +47,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 48
+    "gap": 44
   }
 }
