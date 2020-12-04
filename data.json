@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2020-12-03T00:32:24.561Z",
+  "dateAndTime": "2020-12-04T00:32:32.510Z",
   "position": 240,
-  "stars": 2360,
+  "stars": 2361,
   "gap": 23,
   "contenders": [
     {
       "name": "microsoft/perfview",
       "link": "https://github.com/microsoft/perfview"
-    },
-    {
-      "name": "EllanJiang/GameFramework",
-      "link": "https://github.com/EllanJiang/GameFramework"
     }
   ],
   "positionMilestones": {
@@ -34,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2464,
+    "stars": 2466,
     "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
@@ -52,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 40
+    "gap": 39
   }
 }
