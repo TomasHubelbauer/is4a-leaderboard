@@ -1,7 +1,7 @@
 {
-  "dateAndTime": "2020-12-04T00:32:32.510Z",
+  "dateAndTime": "2020-12-05T00:33:04.334Z",
   "position": 240,
-  "stars": 2361,
+  "stars": 2363,
   "gap": 23,
   "contenders": [
     {
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2466,
-    "name": "commandlineparser/commandline"
+    "stars": 2469,
+    "name": "dotnetcore/FreeSql"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 39
+    "gap": 37
   }
 }
