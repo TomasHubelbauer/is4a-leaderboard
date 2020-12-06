@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-05T00:33:04.334Z",
+  "dateAndTime": "2020-12-06T00:35:05.693Z",
   "position": 240,
-  "stars": 2363,
-  "gap": 23,
+  "stars": 2365,
+  "gap": 20,
   "contenders": [
     {
       "name": "microsoft/perfview",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2469,
-    "name": "dotnetcore/FreeSql"
+    "stars": 2470,
+    "name": "nefarius/ScpToolkit"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 37
+    "gap": 35
   }
 }
