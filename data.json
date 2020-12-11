@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-10T00:34:58.479Z",
+  "dateAndTime": "2020-12-11T00:35:17.475Z",
   "position": 239,
-  "stars": 2376,
-  "gap": 9,
+  "stars": 2382,
+  "gap": 3,
   "contenders": [
     {
       "name": "microsoft/perfview",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 9,
-    "stars": 2473,
+    "stars": 2474,
     "name": "nefarius/ScpToolkit"
   },
   "starsMilestones": {
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 24
+    "gap": 18
   }
 }
