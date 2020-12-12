@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-11T00:35:17.475Z",
+  "dateAndTime": "2020-12-12T00:35:30.613Z",
   "position": 239,
-  "stars": 2382,
-  "gap": 3,
+  "stars": 2385,
+  "gap": 1,
   "contenders": [
     {
       "name": "microsoft/perfview",
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 18
+    "gap": 15
   }
 }
