@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-14T00:36:31.236Z",
+  "dateAndTime": "2020-12-15T00:34:42.205Z",
   "position": 238,
-  "stars": 2391,
-  "gap": 4,
+  "stars": 2393,
+  "gap": 2,
   "contenders": [
     {
       "name": "aelassas/Wexflow",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 8,
-    "stars": 2477,
+    "stars": 2478,
     "name": "nefarius/ScpToolkit"
   },
   "starsMilestones": {
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 9
+    "gap": 7
   }
 }
