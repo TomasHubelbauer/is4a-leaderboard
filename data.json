@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-17T00:37:52.919Z",
+  "dateAndTime": "2020-12-18T00:37:58.684Z",
   "position": 238,
-  "stars": 2393,
-  "gap": 3,
+  "stars": 2396,
+  "gap": 1,
   "contenders": [
     {
       "name": "aelassas/Wexflow",
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 7
+    "gap": 4
   }
 }
