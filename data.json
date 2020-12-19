@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2020-12-18T00:37:58.684Z",
-  "position": 238,
-  "stars": 2396,
-  "gap": 1,
+  "dateAndTime": "2020-12-19T00:37:07.763Z",
+  "position": 237,
+  "stars": 2398,
+  "gap": 7,
   "contenders": [
     {
-      "name": "aelassas/Wexflow",
-      "link": "https://github.com/aelassas/Wexflow"
+      "name": "aspnet/SignalR",
+      "link": "https://github.com/aspnet/SignalR"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 8,
-    "stars": 2479,
+    "gap": 7,
+    "stars": 2480,
     "name": "nefarius/ScpToolkit"
   },
   "starsMilestones": {
@@ -48,6 +48,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2400,
-    "gap": 4
+    "gap": 2
   }
 }
