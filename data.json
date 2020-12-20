@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-19T00:37:07.763Z",
+  "dateAndTime": "2020-12-20T00:38:29.944Z",
   "position": 237,
-  "stars": 2398,
-  "gap": 7,
+  "stars": 2400,
+  "gap": 5,
   "contenders": [
     {
       "name": "aspnet/SignalR",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2480,
+    "stars": 2479,
     "name": "nefarius/ScpToolkit"
   },
   "starsMilestones": {
@@ -44,10 +44,11 @@
     "2000": "2020-07-03T08:07:27.814Z",
     "2100": "2020-08-18T04:09:03.107Z",
     "2200": "2020-09-23T16:10:54.442Z",
-    "2300": "2020-11-02T04:10:36.855Z"
+    "2300": "2020-11-02T04:10:36.855Z",
+    "2400": "2020-12-20T00:38:29.944Z"
   },
   "starsMilestoneToGo": {
-    "milestone": 2400,
-    "gap": 2
+    "milestone": 2500,
+    "gap": 100
   }
 }
