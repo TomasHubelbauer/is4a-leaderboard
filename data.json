@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-20T00:38:29.944Z",
-  "position": 237,
+  "dateAndTime": "2020-12-21T00:40:08.471Z",
+  "position": 238,
   "stars": 2400,
-  "gap": 5,
+  "gap": 4,
   "contenders": [
     {
       "name": "aspnet/SignalR",
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 7,
-    "stars": 2479,
+    "gap": 8,
+    "stars": 2480,
     "name": "nefarius/ScpToolkit"
   },
   "starsMilestones": {
