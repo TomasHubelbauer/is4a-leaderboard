@@ -1,6 +1,6 @@
 {
-  "dateAndTime": "2020-12-21T00:40:08.471Z",
-  "position": 238,
+  "dateAndTime": "2020-12-22T00:41:30.593Z",
+  "position": 239,
   "stars": 2400,
   "gap": 4,
   "contenders": [
@@ -29,9 +29,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 8,
-    "stars": 2480,
-    "name": "nefarius/ScpToolkit"
+    "gap": 9,
+    "stars": 2494,
+    "name": "dotnet/docfx"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
