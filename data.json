@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-22T00:41:30.593Z",
+  "dateAndTime": "2020-12-23T00:43:05.317Z",
   "position": 239,
-  "stars": 2400,
-  "gap": 4,
+  "stars": 2402,
+  "gap": 2,
   "contenders": [
     {
       "name": "aspnet/SignalR",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 9,
-    "stars": 2494,
-    "name": "dotnet/docfx"
+    "stars": 2496,
+    "name": "canton7/SyncTrayzor"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 100
+    "gap": 98
   }
 }
