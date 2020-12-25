@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-24T00:46:10.582Z",
-  "position": 238,
-  "stars": 2403,
-  "gap": 5,
+  "dateAndTime": "2020-12-25T00:43:46.746Z",
+  "position": 239,
+  "stars": 2406,
+  "gap": 4,
   "contenders": [
     {
       "name": "microsoft/perfview",
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 8,
-    "stars": 2497,
+    "gap": 9,
+    "stars": 2500,
     "name": "canton7/SyncTrayzor"
   },
   "starsMilestones": {
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 97
+    "gap": 94
   }
 }
