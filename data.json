@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2020-12-27T00:45:07.466Z",
+  "dateAndTime": "2020-12-28T00:45:08.614Z",
   "position": 239,
-  "stars": 2407,
-  "gap": 4,
+  "stars": 2408,
+  "gap": 3,
   "contenders": [
     {
       "name": "microsoft/perfview",
@@ -31,7 +31,7 @@
     "milestone": 230,
     "gap": 9,
     "stars": 2503,
-    "name": "canton7/SyncTrayzor"
+    "name": "dotnet/docfx"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 93
+    "gap": 92
   }
 }
