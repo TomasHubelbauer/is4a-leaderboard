@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2020-12-28T00:45:08.614Z",
+  "dateAndTime": "2020-12-29T00:45:58.295Z",
   "position": 239,
-  "stars": 2408,
+  "stars": 2411,
   "gap": 3,
   "contenders": [
     {
       "name": "microsoft/perfview",
       "link": "https://github.com/microsoft/perfview"
+    },
+    {
+      "name": "icsharpcode/SharpZipLib",
+      "link": "https://github.com/icsharpcode/SharpZipLib"
     }
   ],
   "positionMilestones": {
@@ -30,7 +34,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 9,
-    "stars": 2503,
+    "stars": 2504,
     "name": "dotnet/docfx"
   },
   "starsMilestones": {
@@ -49,6 +53,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 92
+    "gap": 89
   }
 }
