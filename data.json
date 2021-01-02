@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2021-01-01T00:50:02.511Z",
+  "dateAndTime": "2021-01-02T00:47:49.059Z",
   "position": 239,
-  "stars": 2413,
-  "gap": 2,
+  "stars": 2415,
+  "gap": 1,
   "contenders": [
     {
       "name": "microsoft/perfview",
       "link": "https://github.com/microsoft/perfview"
-    },
-    {
-      "name": "icsharpcode/SharpZipLib",
-      "link": "https://github.com/icsharpcode/SharpZipLib"
     }
   ],
   "positionMilestones": {
@@ -35,7 +31,7 @@
     "milestone": 230,
     "gap": 9,
     "stars": 2513,
-    "name": "canton7/SyncTrayzor"
+    "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -53,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 87
+    "gap": 85
   }
 }
