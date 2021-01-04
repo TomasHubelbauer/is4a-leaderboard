@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-01-03T00:50:47.940Z",
-  "position": 238,
-  "stars": 2417,
-  "gap": 1,
+  "dateAndTime": "2021-01-04T00:51:35.596Z",
+  "position": 237,
+  "stars": 2420,
+  "gap": 2,
   "contenders": [
     {
-      "name": "icsharpcode/SharpZipLib",
-      "link": "https://github.com/icsharpcode/SharpZipLib"
+      "name": "ninject/Ninject",
+      "link": "https://github.com/ninject/Ninject"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 8,
-    "stars": 2514,
+    "gap": 7,
+    "stars": 2517,
     "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 83
+    "gap": 80
   }
 }
