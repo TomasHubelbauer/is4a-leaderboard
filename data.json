@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-01-04T00:51:35.596Z",
-  "position": 237,
-  "stars": 2420,
-  "gap": 2,
+  "dateAndTime": "2021-01-06T00:51:15.946Z",
+  "position": 236,
+  "stars": 2427,
+  "gap": 7,
   "contenders": [
     {
-      "name": "ninject/Ninject",
-      "link": "https://github.com/ninject/Ninject"
+      "name": "morelinq/MoreLINQ",
+      "link": "https://github.com/morelinq/MoreLINQ"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 7,
-    "stars": 2517,
+    "gap": 6,
+    "stars": 2522,
     "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 80
+    "gap": 73
   }
 }
