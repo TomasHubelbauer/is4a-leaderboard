@@ -1,16 +1,15 @@
 {
-  "dateAndTime": "2021-01-09T00:54:31.506Z",
-  "position": 208,
-  "stars": 2436,
-  "gap": 1,
+  "dateAndTime": "2021-01-10T00:57:23.345Z",
+  "position": 235,
+  "stars": 2438,
+  "gap": 34,
   "contenders": [
     {
-      "name": "morelinq/MoreLINQ",
-      "link": "https://github.com/morelinq/MoreLINQ"
+      "name": "ivanpaulovich/clean-architecture-manga",
+      "link": "https://github.com/ivanpaulovich/clean-architecture-manga"
     }
   ],
   "positionMilestones": {
-    "210": "2021-01-09T00:54:31.506Z",
     "240": "2020-12-03T00:32:24.560Z",
     "250": "2020-10-28T00:35:26.995Z",
     "260": "2020-08-31T22:09:08.142Z",
@@ -29,10 +28,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 200,
-    "gap": 8,
-    "stars": 2536,
-    "name": "ExcelDataReader/ExcelDataReader"
+    "milestone": 230,
+    "gap": 5,
+    "stars": 2526,
+    "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 64
+    "gap": 62
   }
 }
