@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-01-26T00:40:42.687Z",
+  "dateAndTime": "2021-01-27T00:37:48.433Z",
   "position": 236,
-  "stars": 2469,
-  "gap": 39,
+  "stars": 2472,
+  "gap": 37,
   "contenders": [
     {
       "name": "ivanpaulovich/clean-architecture-manga",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 6,
-    "stars": 2548,
-    "name": "mongodb/mongo-csharp-driver"
+    "stars": 2550,
+    "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 31
+    "gap": 28
   }
 }
