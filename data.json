@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-01-29T00:38:02.132Z",
-  "position": 236,
-  "stars": 2476,
-  "gap": 39,
+  "dateAndTime": "2021-01-30T00:38:35.461Z",
+  "position": 237,
+  "stars": 2477,
+  "gap": 2,
   "contenders": [
     {
-      "name": "ivanpaulovich/clean-architecture-manga",
-      "link": "https://github.com/ivanpaulovich/clean-architecture-manga"
+      "name": "RayWangQvQ/BiliBiliTool",
+      "link": "https://github.com/RayWangQvQ/BiliBiliTool"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 6,
-    "stars": 2553,
+    "gap": 7,
+    "stars": 2554,
     "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 24
+    "gap": 23
   }
 }
