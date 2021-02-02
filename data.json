@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-02-01T00:41:16.088Z",
+  "dateAndTime": "2021-02-02T00:38:02.965Z",
   "position": 237,
-  "stars": 2477,
-  "gap": 14,
+  "stars": 2482,
+  "gap": 13,
   "contenders": [
     {
       "name": "RayWangQvQ/BiliBiliTool",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2556,
+    "stars": 2559,
     "name": "commandlineparser/commandline"
   },
   "starsMilestones": {
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 23
+    "gap": 18
   }
 }
