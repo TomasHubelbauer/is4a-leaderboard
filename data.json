@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-02-03T00:34:15.800Z",
+  "dateAndTime": "2021-02-04T00:31:03.280Z",
   "position": 237,
-  "stars": 2485,
-  "gap": 17,
+  "stars": 2488,
+  "gap": 18,
   "contenders": [
     {
       "name": "RayWangQvQ/BiliBiliTool",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2563,
-    "name": "commandlineparser/commandline"
+    "stars": 2567,
+    "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 15
+    "gap": 12
   }
 }
