@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-02-06T00:30:56.385Z",
+  "dateAndTime": "2021-02-07T00:32:37.664Z",
   "position": 237,
-  "stars": 2496,
-  "gap": 18,
+  "stars": 2499,
+  "gap": 25,
   "contenders": [
     {
       "name": "RayWangQvQ/BiliBiliTool",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2568,
+    "stars": 2567,
     "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
@@ -49,6 +49,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2500,
-    "gap": 4
+    "gap": 1
   }
 }
