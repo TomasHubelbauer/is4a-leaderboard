@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-02-07T00:32:37.664Z",
+  "dateAndTime": "2021-02-08T00:31:39.808Z",
   "position": 237,
-  "stars": 2499,
-  "gap": 25,
+  "stars": 2502,
+  "gap": 24,
   "contenders": [
     {
-      "name": "RayWangQvQ/BiliBiliTool",
-      "link": "https://github.com/RayWangQvQ/BiliBiliTool"
+      "name": "nefarius/ScpToolkit",
+      "link": "https://github.com/nefarius/ScpToolkit"
     }
   ],
   "positionMilestones": {
@@ -45,10 +45,11 @@
     "2100": "2020-08-18T04:09:03.107Z",
     "2200": "2020-09-23T16:10:54.442Z",
     "2300": "2020-11-02T04:10:36.855Z",
-    "2400": "2020-12-20T00:38:29.944Z"
+    "2400": "2020-12-20T00:38:29.944Z",
+    "2500": "2021-02-08T00:31:39.808Z"
   },
   "starsMilestoneToGo": {
-    "milestone": 2500,
-    "gap": 1
+    "milestone": 2600,
+    "gap": 98
   }
 }
