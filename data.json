@@ -1,7 +1,7 @@
 {
-  "dateAndTime": "2021-02-14T00:33:10.297Z",
+  "dateAndTime": "2021-02-15T00:32:23.733Z",
   "position": 237,
-  "stars": 2507,
+  "stars": 2508,
   "gap": 27,
   "contenders": [
     {
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2576,
+    "stars": 2577,
     "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 93
+    "gap": 92
   }
 }
