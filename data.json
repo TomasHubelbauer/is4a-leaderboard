@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-02-16T00:32:12.109Z",
+  "dateAndTime": "2021-02-17T00:31:58.391Z",
   "position": 237,
-  "stars": 2509,
-  "gap": 27,
+  "stars": 2511,
+  "gap": 26,
   "contenders": [
     {
       "name": "nefarius/ScpToolkit",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 91
+    "gap": 89
   }
 }
