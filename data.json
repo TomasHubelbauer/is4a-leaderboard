@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-02-17T00:31:58.391Z",
+  "dateAndTime": "2021-02-18T00:32:24.145Z",
   "position": 237,
-  "stars": 2511,
-  "gap": 26,
+  "stars": 2512,
+  "gap": 24,
   "contenders": [
     {
       "name": "nefarius/ScpToolkit",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2577,
+    "stars": 2580,
     "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 89
+    "gap": 88
   }
 }
