@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2021-02-20T00:32:03.819Z",
+  "dateAndTime": "2021-02-21T00:33:55.843Z",
   "position": 237,
   "stars": 2515,
   "gap": 25,
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2587,
+    "stars": 2588,
     "name": "ravendb/ravendb"
   },
   "starsMilestones": {
