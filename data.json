@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-02-22T00:32:57.619Z",
-  "position": 237,
-  "stars": 2515,
-  "gap": 26,
+  "dateAndTime": "2021-02-23T00:32:34.085Z",
+  "position": 238,
+  "stars": 2516,
+  "gap": 3,
   "contenders": [
     {
-      "name": "nefarius/ScpToolkit",
-      "link": "https://github.com/nefarius/ScpToolkit"
+      "name": "Dotnet-Boxed/Templates",
+      "link": "https://github.com/Dotnet-Boxed/Templates"
     }
   ],
   "positionMilestones": {
@@ -29,7 +29,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 7,
+    "gap": 8,
     "stars": 2588,
     "name": "ravendb/ravendb"
   },
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 85
+    "gap": 84
   }
 }
