@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-02-23T00:32:34.085Z",
+  "dateAndTime": "2021-02-24T00:32:54.523Z",
   "position": 238,
-  "stars": 2516,
-  "gap": 3,
+  "stars": 2521,
+  "gap": 4,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 8,
-    "stars": 2588,
+    "stars": 2589,
     "name": "ravendb/ravendb"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 84
+    "gap": 79
   }
 }
