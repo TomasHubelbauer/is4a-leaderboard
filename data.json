@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-03-02T00:28:07.628Z",
+  "dateAndTime": "2021-03-03T00:33:21.561Z",
   "position": 237,
-  "stars": 2534,
-  "gap": 10,
+  "stars": 2538,
+  "gap": 4,
   "contenders": [
     {
       "name": "nefarius/ScpToolkit",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2592,
+    "stars": 2594,
     "name": "ravendb/ravendb"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 66
+    "gap": 62
   }
 }
