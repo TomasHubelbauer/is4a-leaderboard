@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-03-07T00:35:58.758Z",
+  "dateAndTime": "2021-03-08T00:34:44.857Z",
   "position": 236,
-  "stars": 2546,
-  "gap": 12,
+  "stars": 2550,
+  "gap": 10,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 54
+    "gap": 50
   }
 }
