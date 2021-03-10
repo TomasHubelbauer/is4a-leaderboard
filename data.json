@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-03-09T00:34:10.782Z",
+  "dateAndTime": "2021-03-10T00:34:22.097Z",
   "position": 237,
-  "stars": 2553,
-  "gap": 8,
+  "stars": 2555,
+  "gap": 7,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2612,
+    "stars": 2615,
     "name": "mono/monodevelop"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 47
+    "gap": 45
   }
 }
