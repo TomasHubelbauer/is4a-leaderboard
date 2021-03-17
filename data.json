@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2021-03-16T00:34:04.642Z",
-  "position": 240,
-  "stars": 2558,
-  "gap": 3,
+  "dateAndTime": "2021-03-17T00:35:08.558Z",
+  "position": 239,
+  "stars": 2562,
+  "gap": 1,
   "contenders": [
-    {
-      "name": "inkle/ink",
-      "link": "https://github.com/inkle/ink"
-    },
     {
       "name": "HandyOrg/HandyControl",
       "link": "https://github.com/HandyOrg/HandyControl"
@@ -33,7 +29,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 10,
+    "gap": 9,
     "stars": 2617,
     "name": "mono/monodevelop"
   },
@@ -54,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 42
+    "gap": 38
   }
 }
