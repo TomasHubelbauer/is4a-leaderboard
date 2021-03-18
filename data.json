@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-03-17T00:35:08.558Z",
+  "dateAndTime": "2021-03-18T00:35:20.799Z",
   "position": 239,
-  "stars": 2562,
-  "gap": 1,
+  "stars": 2564,
+  "gap": 3,
   "contenders": [
     {
       "name": "HandyOrg/HandyControl",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 38
+    "gap": 36
   }
 }
