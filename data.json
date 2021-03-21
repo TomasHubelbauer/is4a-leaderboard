@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2021-03-20T00:35:07.590Z",
+  "dateAndTime": "2021-03-21T00:37:26.833Z",
   "position": 239,
-  "stars": 2568,
-  "gap": 5,
+  "stars": 2567,
+  "gap": 7,
   "contenders": [
     {
       "name": "icsharpcode/SharpZipLib",
       "link": "https://github.com/icsharpcode/SharpZipLib"
-    },
-    {
-      "name": "HandyOrg/HandyControl",
-      "link": "https://github.com/HandyOrg/HandyControl"
     }
   ],
   "positionMilestones": {
@@ -34,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 9,
-    "stars": 2619,
+    "stars": 2620,
     "name": "mono/monodevelop"
   },
   "starsMilestones": {
@@ -54,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 32
+    "gap": 33
   }
 }
