@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-03-26T00:14:14.086Z",
+  "dateAndTime": "2021-03-27T00:13:03.902Z",
   "position": 239,
-  "stars": 2574,
-  "gap": 6,
+  "stars": 2575,
+  "gap": 5,
   "contenders": [
     {
       "name": "icsharpcode/SharpZipLib",
@@ -34,8 +34,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 9,
-    "stars": 2620,
-    "name": "ExcelDataReader/ExcelDataReader"
+    "stars": 2622,
+    "name": "aspnet/KestrelHttpServer"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -54,6 +54,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 26
+    "gap": 25
   }
 }
