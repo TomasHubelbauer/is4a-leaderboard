@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2021-03-27T00:13:03.902Z",
+  "dateAndTime": "2021-03-28T00:13:39.762Z",
   "position": 239,
-  "stars": 2575,
-  "gap": 5,
+  "stars": 2576,
+  "gap": 4,
   "contenders": [
     {
       "name": "icsharpcode/SharpZipLib",
       "link": "https://github.com/icsharpcode/SharpZipLib"
-    },
-    {
-      "name": "mongodb/mongo-csharp-driver",
-      "link": "https://github.com/mongodb/mongo-csharp-driver"
     }
   ],
   "positionMilestones": {
@@ -54,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 25
+    "gap": 24
   }
 }
