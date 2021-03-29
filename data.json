@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-03-28T00:13:39.762Z",
+  "dateAndTime": "2021-03-29T00:15:11.545Z",
   "position": 239,
-  "stars": 2576,
-  "gap": 4,
+  "stars": 2577,
+  "gap": 3,
   "contenders": [
     {
       "name": "icsharpcode/SharpZipLib",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 24
+    "gap": 23
   }
 }
