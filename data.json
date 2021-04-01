@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-03-31T00:10:45.842Z",
-  "position": 240,
-  "stars": 2580,
-  "gap": 1,
+  "dateAndTime": "2021-04-01T00:13:43.454Z",
+  "position": 238,
+  "stars": 2584,
+  "gap": 8,
   "contenders": [
     {
-      "name": "icsharpcode/SharpZipLib",
-      "link": "https://github.com/icsharpcode/SharpZipLib"
+      "name": "Dotnet-Boxed/Templates",
+      "link": "https://github.com/Dotnet-Boxed/Templates"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 10,
-    "stars": 2624,
+    "gap": 8,
+    "stars": 2625,
     "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 20
+    "gap": 16
   }
 }
