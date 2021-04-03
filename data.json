@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-02T00:20:06.373Z",
+  "dateAndTime": "2021-04-03T00:13:07.117Z",
   "position": 237,
-  "stars": 2585,
-  "gap": 9,
+  "stars": 2587,
+  "gap": 8,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 7,
-    "stars": 2627,
-    "name": "Perfare/Il2CppDumper"
+    "stars": 2631,
+    "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 15
+    "gap": 13
   }
 }
