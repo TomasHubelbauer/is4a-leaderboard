@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-03T00:13:07.117Z",
-  "position": 237,
-  "stars": 2587,
-  "gap": 8,
+  "dateAndTime": "2021-04-04T00:14:22.320Z",
+  "position": 238,
+  "stars": 2589,
+  "gap": 7,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 7,
-    "stars": 2631,
+    "gap": 8,
+    "stars": 2632,
     "name": "ExcelDataReader/ExcelDataReader"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 13
+    "gap": 11
   }
 }
