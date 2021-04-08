@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-07T00:13:43.156Z",
+  "dateAndTime": "2021-04-08T00:15:43.591Z",
   "position": 238,
-  "stars": 2592,
-  "gap": 8,
+  "stars": 2595,
+  "gap": 7,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 8,
-    "stars": 2650,
+    "stars": 2652,
     "name": "Perfare/Il2CppDumper"
   },
   "starsMilestones": {
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2600,
-    "gap": 8
+    "gap": 5
   }
 }
