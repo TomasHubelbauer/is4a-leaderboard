@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-10T00:14:23.203Z",
-  "position": 239,
-  "stars": 2602,
-  "gap": 5,
+  "dateAndTime": "2021-04-11T00:15:24.831Z",
+  "position": 240,
+  "stars": 2605,
+  "gap": 2,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -29,7 +29,7 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 9,
+    "gap": 10,
     "stars": 2677,
     "name": "googlevr/gvr-unity-sdk"
   },
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 98
+    "gap": 95
   }
 }
