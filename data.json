@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-13T00:15:36.268Z",
-  "position": 240,
-  "stars": 2609,
-  "gap": 5,
+  "dateAndTime": "2021-04-14T00:13:22.648Z",
+  "position": 241,
+  "stars": 2610,
+  "gap": 8,
   "contenders": [
     {
       "name": "dotnet/docfx",
@@ -10,7 +10,6 @@
     }
   ],
   "positionMilestones": {
-    "240": "2020-12-03T00:32:24.560Z",
     "250": "2020-10-28T00:35:26.995Z",
     "260": "2020-08-31T22:09:08.142Z",
     "270": "2020-06-24T19:05:00.804Z",
@@ -28,10 +27,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 230,
-    "gap": 10,
-    "stars": 2678,
-    "name": "googlevr/gvr-unity-sdk"
+    "milestone": 240,
+    "gap": 1,
+    "stars": 2620,
+    "name": "stnkl/EverythingToolbar"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -51,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 91
+    "gap": 90
   }
 }
