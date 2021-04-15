@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-14T00:13:22.648Z",
+  "dateAndTime": "2021-04-15T00:13:41.590Z",
   "position": 241,
-  "stars": 2610,
-  "gap": 8,
+  "stars": 2613,
+  "gap": 5,
   "contenders": [
     {
       "name": "dotnet/docfx",
@@ -29,8 +29,8 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 1,
-    "stars": 2620,
-    "name": "stnkl/EverythingToolbar"
+    "stars": 2623,
+    "name": "aspnet/KestrelHttpServer"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 90
+    "gap": 87
   }
 }
