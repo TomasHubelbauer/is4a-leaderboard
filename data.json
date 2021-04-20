@@ -1,5 +1,5 @@
 {
-  "dateAndTime": "2021-04-19T00:13:33.765Z",
+  "dateAndTime": "2021-04-20T00:13:52.616Z",
   "position": 241,
   "stars": 2618,
   "gap": 3,
@@ -29,7 +29,7 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 1,
-    "stars": 2625,
+    "stars": 2626,
     "name": "dotnet/docfx"
   },
   "starsMilestones": {
