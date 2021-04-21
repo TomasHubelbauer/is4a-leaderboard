@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-20T00:13:52.616Z",
+  "dateAndTime": "2021-04-21T00:13:32.215Z",
   "position": 241,
-  "stars": 2618,
-  "gap": 3,
+  "stars": 2619,
+  "gap": 2,
   "contenders": [
     {
       "name": "aspnet/KestrelHttpServer",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 82
+    "gap": 81
   }
 }
