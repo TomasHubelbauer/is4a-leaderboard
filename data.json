@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-04-22T00:14:27.047Z",
+  "dateAndTime": "2021-04-23T00:13:36.610Z",
   "position": 242,
-  "stars": 2620,
+  "stars": 2621,
   "gap": 1,
   "contenders": [
     {
-      "name": "aspnet/KestrelHttpServer",
-      "link": "https://github.com/aspnet/KestrelHttpServer"
+      "name": "proxysu/ProxySU",
+      "link": "https://github.com/proxysu/ProxySU"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 2,
-    "stars": 2626,
-    "name": "dotnet/docfx"
+    "stars": 2628,
+    "name": "d2phap/ImageGlass"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 80
+    "gap": 79
   }
 }
