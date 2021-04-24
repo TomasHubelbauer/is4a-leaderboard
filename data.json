@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-04-23T00:13:36.610Z",
+  "dateAndTime": "2021-04-24T00:14:44.321Z",
   "position": 242,
-  "stars": 2621,
-  "gap": 1,
+  "stars": 2623,
+  "gap": 2,
   "contenders": [
     {
       "name": "proxysu/ProxySU",
@@ -29,8 +29,8 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 2,
-    "stars": 2628,
-    "name": "d2phap/ImageGlass"
+    "stars": 2629,
+    "name": "mono/monodevelop"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 79
+    "gap": 77
   }
 }
