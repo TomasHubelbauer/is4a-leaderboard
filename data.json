@@ -1,12 +1,20 @@
 {
-  "dateAndTime": "2021-04-24T00:14:44.321Z",
+  "dateAndTime": "2021-04-25T00:14:31.052Z",
   "position": 242,
   "stars": 2623,
-  "gap": 2,
+  "gap": 6,
   "contenders": [
+    {
+      "name": "mono/monodevelop",
+      "link": "https://github.com/mono/monodevelop"
+    },
     {
       "name": "proxysu/ProxySU",
       "link": "https://github.com/proxysu/ProxySU"
+    },
+    {
+      "name": "dotnet/docfx",
+      "link": "https://github.com/dotnet/docfx"
     }
   ],
   "positionMilestones": {
@@ -30,7 +38,7 @@
     "milestone": 240,
     "gap": 2,
     "stars": 2629,
-    "name": "mono/monodevelop"
+    "name": "dotnet/docfx"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
