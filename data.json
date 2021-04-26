@@ -1,20 +1,12 @@
 {
-  "dateAndTime": "2021-04-25T00:14:31.052Z",
-  "position": 242,
-  "stars": 2623,
-  "gap": 6,
+  "dateAndTime": "2021-04-26T00:15:02.303Z",
+  "position": 243,
+  "stars": 2626,
+  "gap": 1,
   "contenders": [
     {
-      "name": "mono/monodevelop",
-      "link": "https://github.com/mono/monodevelop"
-    },
-    {
-      "name": "proxysu/ProxySU",
-      "link": "https://github.com/proxysu/ProxySU"
-    },
-    {
-      "name": "dotnet/docfx",
-      "link": "https://github.com/dotnet/docfx"
+      "name": "btcpayserver/btcpayserver",
+      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -36,9 +28,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 2,
-    "stars": 2629,
-    "name": "dotnet/docfx"
+    "gap": 3,
+    "stars": 2632,
+    "name": "proxysu/ProxySU"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -58,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 77
+    "gap": 74
   }
 }
