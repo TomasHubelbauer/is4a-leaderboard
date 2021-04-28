@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2021-04-27T00:13:11.761Z",
+  "dateAndTime": "2021-04-28T00:13:35.190Z",
   "position": 243,
-  "stars": 2626,
-  "gap": 4,
+  "stars": 2630,
+  "gap": 1,
   "contenders": [
     {
       "name": "mono/monodevelop",
       "link": "https://github.com/mono/monodevelop"
-    },
-    {
-      "name": "btcpayserver/btcpayserver",
-      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -33,8 +29,8 @@
   "positionMilestoneToGo": {
     "milestone": 240,
     "gap": 3,
-    "stars": 2636,
-    "name": "proxysu/ProxySU"
+    "stars": 2637,
+    "name": "ravendb/ravendb"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -54,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 74
+    "gap": 70
   }
 }
