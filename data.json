@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-04-28T00:13:35.190Z",
-  "position": 243,
-  "stars": 2630,
-  "gap": 1,
+  "dateAndTime": "2021-04-29T00:13:35.535Z",
+  "position": 242,
+  "stars": 2632,
+  "gap": 4,
   "contenders": [
     {
-      "name": "mono/monodevelop",
-      "link": "https://github.com/mono/monodevelop"
+      "name": "dotnet/docfx",
+      "link": "https://github.com/dotnet/docfx"
     }
   ],
   "positionMilestones": {
@@ -28,9 +28,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 240,
-    "gap": 3,
-    "stars": 2637,
-    "name": "ravendb/ravendb"
+    "gap": 2,
+    "stars": 2640,
+    "name": "Dotnet-Boxed/Templates"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +50,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 70
+    "gap": 68
   }
 }
