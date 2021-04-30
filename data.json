@@ -1,15 +1,16 @@
 {
-  "dateAndTime": "2021-04-29T00:13:35.535Z",
-  "position": 242,
-  "stars": 2632,
+  "dateAndTime": "2021-04-30T00:07:03.017Z",
+  "position": 240,
+  "stars": 2640,
   "gap": 4,
   "contenders": [
     {
-      "name": "dotnet/docfx",
-      "link": "https://github.com/dotnet/docfx"
+      "name": "Dotnet-Boxed/Templates",
+      "link": "https://github.com/Dotnet-Boxed/Templates"
     }
   ],
   "positionMilestones": {
+    "240": "2021-04-30T00:07:03.017Z",
     "250": "2020-10-28T00:35:26.995Z",
     "260": "2020-08-31T22:09:08.142Z",
     "270": "2020-06-24T19:05:00.804Z",
@@ -27,10 +28,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 240,
-    "gap": 2,
-    "stars": 2640,
-    "name": "Dotnet-Boxed/Templates"
+    "milestone": 230,
+    "gap": 10,
+    "stars": 2703,
+    "name": "HandyOrg/HandyControl"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 68
+    "gap": 60
   }
 }
