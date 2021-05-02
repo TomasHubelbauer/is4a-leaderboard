@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-01T00:07:48.491Z",
+  "dateAndTime": "2021-05-02T00:09:59.123Z",
   "position": 240,
-  "stars": 2644,
-  "gap": 1,
+  "stars": 2646,
+  "gap": 2,
   "contenders": [
     {
       "name": "Dotnet-Boxed/Templates",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2705,
+    "stars": 2709,
     "name": "stnkl/EverythingToolbar"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 56
+    "gap": 54
   }
 }
