@@ -1,15 +1,16 @@
 {
-  "dateAndTime": "2021-05-04T00:05:27.483Z",
-  "position": 241,
-  "stars": 2647,
+  "dateAndTime": "2021-05-05T00:40:54.825Z",
+  "position": 240,
+  "stars": 2650,
   "gap": 1,
   "contenders": [
     {
-      "name": "btcpayserver/btcpayserver",
-      "link": "https://github.com/btcpayserver/btcpayserver"
+      "name": "Dotnet-Boxed/Templates",
+      "link": "https://github.com/Dotnet-Boxed/Templates"
     }
   ],
   "positionMilestones": {
+    "240": "2021-05-05T00:40:54.825Z",
     "250": "2020-10-28T00:35:26.995Z",
     "260": "2020-08-31T22:09:08.142Z",
     "270": "2020-06-24T19:05:00.804Z",
@@ -27,10 +28,10 @@
     "390": "2019-12-04T22:56:29.559Z"
   },
   "positionMilestoneToGo": {
-    "milestone": 240,
-    "gap": 1,
-    "stars": 2649,
-    "name": "Dotnet-Boxed/Templates"
+    "milestone": 230,
+    "gap": 10,
+    "stars": 2712,
+    "name": "siteserver/cms"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -50,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 53
+    "gap": 50
   }
 }
