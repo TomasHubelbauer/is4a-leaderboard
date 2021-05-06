@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-05T00:40:54.825Z",
+  "dateAndTime": "2021-05-06T00:39:45.392Z",
   "position": 240,
   "stars": 2650,
   "gap": 1,
   "contenders": [
     {
-      "name": "Dotnet-Boxed/Templates",
-      "link": "https://github.com/Dotnet-Boxed/Templates"
+      "name": "btcpayserver/btcpayserver",
+      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2712,
+    "stars": 2713,
     "name": "siteserver/cms"
   },
   "starsMilestones": {
