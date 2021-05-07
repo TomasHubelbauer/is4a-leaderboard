@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-06T00:39:45.392Z",
+  "dateAndTime": "2021-05-07T00:41:24.182Z",
   "position": 240,
-  "stars": 2650,
-  "gap": 1,
+  "stars": 2653,
+  "gap": 2,
   "contenders": [
     {
       "name": "btcpayserver/btcpayserver",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2713,
+    "stars": 2716,
     "name": "siteserver/cms"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 50
+    "gap": 47
   }
 }
