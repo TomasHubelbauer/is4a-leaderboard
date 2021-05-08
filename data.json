@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-07T00:41:24.182Z",
-  "position": 240,
-  "stars": 2653,
-  "gap": 2,
+  "dateAndTime": "2021-05-08T00:41:03.117Z",
+  "position": 239,
+  "stars": 2656,
+  "gap": 11,
   "contenders": [
     {
-      "name": "btcpayserver/btcpayserver",
-      "link": "https://github.com/btcpayserver/btcpayserver"
+      "name": "d2phap/ImageGlass",
+      "link": "https://github.com/d2phap/ImageGlass"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 10,
-    "stars": 2716,
+    "gap": 9,
+    "stars": 2717,
     "name": "siteserver/cms"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 47
+    "gap": 44
   }
 }
