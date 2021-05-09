@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-08T00:41:03.117Z",
-  "position": 239,
-  "stars": 2656,
-  "gap": 11,
+  "dateAndTime": "2021-05-09T00:44:11.686Z",
+  "position": 238,
+  "stars": 2659,
+  "gap": 9,
   "contenders": [
     {
       "name": "d2phap/ImageGlass",
@@ -29,9 +29,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 9,
-    "stars": 2717,
-    "name": "siteserver/cms"
+    "gap": 8,
+    "stars": 2720,
+    "name": "HandyOrg/HandyControl"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 44
+    "gap": 41
   }
 }
