@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-09T00:44:11.686Z",
-  "position": 238,
-  "stars": 2659,
-  "gap": 9,
+  "dateAndTime": "2021-05-10T00:42:36.361Z",
+  "position": 240,
+  "stars": 2658,
+  "gap": 3,
   "contenders": [
     {
-      "name": "d2phap/ImageGlass",
-      "link": "https://github.com/d2phap/ImageGlass"
+      "name": "btcpayserver/btcpayserver",
+      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 8,
-    "stars": 2720,
+    "gap": 10,
+    "stars": 2723,
     "name": "HandyOrg/HandyControl"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 41
+    "gap": 42
   }
 }
