@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-10T00:42:36.361Z",
+  "dateAndTime": "2021-05-11T00:42:49.607Z",
   "position": 240,
-  "stars": 2658,
-  "gap": 3,
+  "stars": 2662,
+  "gap": 1,
   "contenders": [
     {
       "name": "btcpayserver/btcpayserver",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2723,
+    "stars": 2726,
     "name": "HandyOrg/HandyControl"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 42
+    "gap": 38
   }
 }
