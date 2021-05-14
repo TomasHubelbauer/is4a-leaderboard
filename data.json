@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-13T00:06:37.117Z",
+  "dateAndTime": "2021-05-14T00:07:57.875Z",
   "position": 240,
-  "stars": 2665,
-  "gap": 8,
+  "stars": 2667,
+  "gap": 11,
   "contenders": [
     {
-      "name": "btcpayserver/btcpayserver",
-      "link": "https://github.com/btcpayserver/btcpayserver"
+      "name": "googlevr/gvr-unity-sdk",
+      "link": "https://github.com/googlevr/gvr-unity-sdk"
     }
   ],
   "positionMilestones": {
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2730,
+    "stars": 2731,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 35
+    "gap": 33
   }
 }
