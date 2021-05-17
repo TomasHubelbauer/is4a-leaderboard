@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-16T00:08:26.159Z",
+  "dateAndTime": "2021-05-17T00:08:00.044Z",
   "position": 240,
-  "stars": 2668,
-  "gap": 10,
+  "stars": 2669,
+  "gap": 9,
   "contenders": [
     {
       "name": "googlevr/gvr-unity-sdk",
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 32
+    "gap": 31
   }
 }
