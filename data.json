@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-17T00:08:00.044Z",
+  "dateAndTime": "2021-05-18T00:08:28.652Z",
   "position": 240,
-  "stars": 2669,
-  "gap": 9,
+  "stars": 2671,
+  "gap": 7,
   "contenders": [
     {
       "name": "googlevr/gvr-unity-sdk",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 10,
-    "stars": 2736,
+    "stars": 2737,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 31
+    "gap": 29
   }
 }
