@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-18T00:08:28.652Z",
-  "position": 240,
-  "stars": 2671,
-  "gap": 7,
+  "dateAndTime": "2021-05-19T00:07:26.760Z",
+  "position": 239,
+  "stars": 2674,
+  "gap": 4,
   "contenders": [
     {
       "name": "googlevr/gvr-unity-sdk",
@@ -29,9 +29,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 10,
-    "stars": 2737,
-    "name": "OfficeDev/Open-XML-SDK"
+    "gap": 9,
+    "stars": 2735,
+    "name": "proxysu/ProxySU"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 29
+    "gap": 26
   }
 }
