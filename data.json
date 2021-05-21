@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-20T00:07:32.428Z",
-  "position": 239,
-  "stars": 2676,
-  "gap": 2,
+  "dateAndTime": "2021-05-21T00:07:52.517Z",
+  "position": 238,
+  "stars": 2680,
+  "gap": 12,
   "contenders": [
     {
-      "name": "googlevr/gvr-unity-sdk",
-      "link": "https://github.com/googlevr/gvr-unity-sdk"
+      "name": "btcpayserver/btcpayserver",
+      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 9,
-    "stars": 2736,
+    "gap": 8,
+    "stars": 2737,
     "name": "proxysu/ProxySU"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 24
+    "gap": 20
   }
 }
