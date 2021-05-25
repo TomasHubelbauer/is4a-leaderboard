@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-24T00:08:06.413Z",
-  "position": 238,
-  "stars": 2686,
-  "gap": 9,
+  "dateAndTime": "2021-05-25T00:08:16.049Z",
+  "position": 237,
+  "stars": 2691,
+  "gap": 4,
   "contenders": [
     {
       "name": "microsoft/Git-Credential-Manager-for-Windows",
@@ -29,9 +29,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 8,
-    "stars": 2743,
-    "name": "proxysu/ProxySU"
+    "gap": 7,
+    "stars": 2742,
+    "name": "d2phap/ImageGlass"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 14
+    "gap": 9
   }
 }
