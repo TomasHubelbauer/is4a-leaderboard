@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-25T00:08:16.049Z",
-  "position": 237,
-  "stars": 2691,
-  "gap": 4,
+  "dateAndTime": "2021-05-26T00:12:01.091Z",
+  "position": 236,
+  "stars": 2699,
+  "gap": 2,
   "contenders": [
     {
-      "name": "microsoft/Git-Credential-Manager-for-Windows",
-      "link": "https://github.com/microsoft/Git-Credential-Manager-for-Windows"
+      "name": "btcpayserver/btcpayserver",
+      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 7,
-    "stars": 2742,
+    "gap": 6,
+    "stars": 2743,
     "name": "d2phap/ImageGlass"
   },
   "starsMilestones": {
@@ -51,6 +51,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2700,
-    "gap": 9
+    "gap": 1
   }
 }
