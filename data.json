@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-05-26T00:12:01.091Z",
-  "position": 236,
-  "stars": 2699,
-  "gap": 2,
+  "dateAndTime": "2021-05-27T00:12:47.843Z",
+  "position": 235,
+  "stars": 2705,
+  "gap": 9,
   "contenders": [
     {
-      "name": "btcpayserver/btcpayserver",
-      "link": "https://github.com/btcpayserver/btcpayserver"
+      "name": "ExcelDataReader/ExcelDataReader",
+      "link": "https://github.com/ExcelDataReader/ExcelDataReader"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 6,
-    "stars": 2743,
+    "gap": 5,
+    "stars": 2745,
     "name": "d2phap/ImageGlass"
   },
   "starsMilestones": {
@@ -47,10 +47,11 @@
     "2300": "2020-11-02T04:10:36.855Z",
     "2400": "2020-12-20T00:38:29.944Z",
     "2500": "2021-02-08T00:31:39.808Z",
-    "2600": "2021-04-10T00:14:23.203Z"
+    "2600": "2021-04-10T00:14:23.203Z",
+    "2700": "2021-05-27T00:12:47.843Z"
   },
   "starsMilestoneToGo": {
-    "milestone": 2700,
-    "gap": 1
+    "milestone": 2800,
+    "gap": 95
   }
 }
