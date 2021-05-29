@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-05-28T00:13:36.513Z",
+  "dateAndTime": "2021-05-29T00:17:46.446Z",
   "position": 235,
-  "stars": 2708,
-  "gap": 5,
+  "stars": 2710,
+  "gap": 3,
   "contenders": [
     {
       "name": "ExcelDataReader/ExcelDataReader",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 5,
-    "stars": 2748,
+    "stars": 2751,
     "name": "d2phap/ImageGlass"
   },
   "starsMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 92
+    "gap": 90
   }
 }
