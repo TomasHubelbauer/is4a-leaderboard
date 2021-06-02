@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-06-01T00:25:33.161Z",
-  "position": 234,
-  "stars": 2713,
-  "gap": 9,
+  "dateAndTime": "2021-06-02T00:24:24.145Z",
+  "position": 235,
+  "stars": 2714,
+  "gap": 1,
   "contenders": [
     {
-      "name": "ravendb/ravendb",
-      "link": "https://github.com/ravendb/ravendb"
+      "name": "ExcelDataReader/ExcelDataReader",
+      "link": "https://github.com/ExcelDataReader/ExcelDataReader"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 4,
-    "stars": 2759,
+    "gap": 5,
+    "stars": 2760,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 87
+    "gap": 86
   }
 }
