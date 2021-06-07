@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2021-06-06T00:14:20.159Z",
+  "dateAndTime": "2021-06-07T00:13:54.543Z",
   "position": 236,
-  "stars": 2721,
-  "gap": 1,
+  "stars": 2725,
+  "gap": 2,
   "contenders": [
     {
       "name": "SteamTools-Team/SteamTools",
       "link": "https://github.com/SteamTools-Team/SteamTools"
+    },
+    {
+      "name": "ExcelDataReader/ExcelDataReader",
+      "link": "https://github.com/ExcelDataReader/ExcelDataReader"
     }
   ],
   "positionMilestones": {
@@ -52,6 +56,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 79
+    "gap": 75
   }
 }
