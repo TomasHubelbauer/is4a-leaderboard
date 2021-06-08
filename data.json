@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2021-06-07T00:13:54.543Z",
-  "position": 236,
-  "stars": 2725,
-  "gap": 2,
+  "dateAndTime": "2021-06-08T00:17:08.306Z",
+  "position": 235,
+  "stars": 2728,
+  "gap": 4,
   "contenders": [
     {
-      "name": "SteamTools-Team/SteamTools",
-      "link": "https://github.com/SteamTools-Team/SteamTools"
-    },
-    {
-      "name": "ExcelDataReader/ExcelDataReader",
-      "link": "https://github.com/ExcelDataReader/ExcelDataReader"
+      "name": "ivanpaulovich/clean-architecture-manga",
+      "link": "https://github.com/ivanpaulovich/clean-architecture-manga"
     }
   ],
   "positionMilestones": {
@@ -33,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 6,
-    "stars": 2767,
+    "gap": 5,
+    "stars": 2768,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -56,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 75
+    "gap": 72
   }
 }
