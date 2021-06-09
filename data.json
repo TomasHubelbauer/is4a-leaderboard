@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2021-06-08T00:17:08.306Z",
+  "dateAndTime": "2021-06-09T00:06:10.610Z",
   "position": 235,
-  "stars": 2728,
-  "gap": 4,
+  "stars": 2733,
+  "gap": 2,
   "contenders": [
     {
-      "name": "ivanpaulovich/clean-architecture-manga",
-      "link": "https://github.com/ivanpaulovich/clean-architecture-manga"
+      "name": "SteamTools-Team/SteamTools",
+      "link": "https://github.com/SteamTools-Team/SteamTools"
+    },
+    {
+      "name": "ravendb/ravendb",
+      "link": "https://github.com/ravendb/ravendb"
     }
   ],
   "positionMilestones": {
@@ -30,7 +34,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 5,
-    "stars": 2768,
+    "stars": 2773,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -52,6 +56,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 72
+    "gap": 67
   }
 }
