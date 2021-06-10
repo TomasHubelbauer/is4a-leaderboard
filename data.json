@@ -1,13 +1,9 @@
 {
-  "dateAndTime": "2021-06-09T00:06:10.610Z",
+  "dateAndTime": "2021-06-10T00:05:44.078Z",
   "position": 235,
-  "stars": 2733,
-  "gap": 2,
+  "stars": 2736,
+  "gap": 1,
   "contenders": [
-    {
-      "name": "SteamTools-Team/SteamTools",
-      "link": "https://github.com/SteamTools-Team/SteamTools"
-    },
     {
       "name": "ravendb/ravendb",
       "link": "https://github.com/ravendb/ravendb"
@@ -34,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 5,
-    "stars": 2773,
+    "stars": 2775,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -56,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 67
+    "gap": 64
   }
 }
