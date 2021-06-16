@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-06-15T00:06:12.362Z",
-  "position": 234,
+  "dateAndTime": "2021-06-16T00:05:42.710Z",
+  "position": 235,
   "stars": 2743,
-  "gap": 12,
+  "gap": 3,
   "contenders": [
     {
-      "name": "siteserver/cms",
-      "link": "https://github.com/siteserver/cms"
+      "name": "btcpayserver/btcpayserver",
+      "link": "https://github.com/btcpayserver/btcpayserver"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 4,
-    "stars": 2785,
+    "gap": 5,
+    "stars": 2792,
     "name": "ivanpaulovich/clean-architecture-manga"
   },
   "starsMilestones": {
