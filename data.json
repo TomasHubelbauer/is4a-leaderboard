@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-06-16T00:05:42.710Z",
+  "dateAndTime": "2021-06-17T00:05:51.251Z",
   "position": 235,
-  "stars": 2743,
-  "gap": 3,
+  "stars": 2746,
+  "gap": 2,
   "contenders": [
     {
       "name": "btcpayserver/btcpayserver",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 5,
-    "stars": 2792,
-    "name": "ivanpaulovich/clean-architecture-manga"
+    "stars": 2797,
+    "name": "Jays2Kings/DS4Windows"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 57
+    "gap": 54
   }
 }
