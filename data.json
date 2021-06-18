@@ -1,7 +1,7 @@
 {
-  "dateAndTime": "2021-06-17T00:05:51.251Z",
+  "dateAndTime": "2021-06-18T00:05:54.111Z",
   "position": 235,
-  "stars": 2746,
+  "stars": 2748,
   "gap": 2,
   "contenders": [
     {
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 5,
-    "stars": 2797,
+    "stars": 2799,
     "name": "Jays2Kings/DS4Windows"
   },
   "starsMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 54
+    "gap": 52
   }
 }
