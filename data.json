@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-06-21T00:06:48.393Z",
-  "position": 235,
-  "stars": 2752,
-  "gap": 1,
+  "dateAndTime": "2021-06-22T00:10:18.842Z",
+  "position": 234,
+  "stars": 2754,
+  "gap": 8,
   "contenders": [
     {
-      "name": "btcpayserver/btcpayserver",
-      "link": "https://github.com/btcpayserver/btcpayserver"
+      "name": "siteserver/cms",
+      "link": "https://github.com/siteserver/cms"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 5,
-    "stars": 2802,
+    "gap": 4,
+    "stars": 2803,
     "name": "Jays2Kings/DS4Windows"
   },
   "starsMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 48
+    "gap": 46
   }
 }
