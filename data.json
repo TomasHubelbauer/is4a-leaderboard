@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-06-23T00:05:58.968Z",
+  "dateAndTime": "2021-06-24T00:05:16.239Z",
   "position": 234,
-  "stars": 2754,
-  "gap": 10,
+  "stars": 2757,
+  "gap": 8,
   "contenders": [
     {
       "name": "siteserver/cms",
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 46
+    "gap": 43
   }
 }
