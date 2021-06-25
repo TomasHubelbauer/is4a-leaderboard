@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-06-24T00:05:16.239Z",
+  "dateAndTime": "2021-06-25T00:05:58.503Z",
   "position": 234,
-  "stars": 2757,
-  "gap": 8,
+  "stars": 2762,
+  "gap": 3,
   "contenders": [
     {
       "name": "siteserver/cms",
@@ -30,8 +30,8 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 4,
-    "stars": 2805,
-    "name": "Jays2Kings/DS4Windows"
+    "stars": 2809,
+    "name": "xceedsoftware/wpftoolkit"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 43
+    "gap": 38
   }
 }
