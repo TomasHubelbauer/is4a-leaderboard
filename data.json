@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-06-25T00:05:58.503Z",
-  "position": 234,
-  "stars": 2762,
-  "gap": 3,
+  "dateAndTime": "2021-06-26T00:05:16.430Z",
+  "position": 233,
+  "stars": 2765,
+  "gap": 2,
   "contenders": [
     {
-      "name": "siteserver/cms",
-      "link": "https://github.com/siteserver/cms"
+      "name": "projectkudu/kudu",
+      "link": "https://github.com/projectkudu/kudu"
     }
   ],
   "positionMilestones": {
@@ -29,9 +29,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 4,
-    "stars": 2809,
-    "name": "xceedsoftware/wpftoolkit"
+    "gap": 3,
+    "stars": 2810,
+    "name": "KeenSoftwareHouse/SpaceEngineers"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 38
+    "gap": 35
   }
 }
