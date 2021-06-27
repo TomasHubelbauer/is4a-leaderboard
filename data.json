@@ -1,7 +1,7 @@
 {
-  "dateAndTime": "2021-06-26T00:05:16.430Z",
-  "position": 233,
-  "stars": 2765,
+  "dateAndTime": "2021-06-27T00:05:58.891Z",
+  "position": 234,
+  "stars": 2766,
   "gap": 2,
   "contenders": [
     {
@@ -29,9 +29,9 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 3,
-    "stars": 2810,
-    "name": "KeenSoftwareHouse/SpaceEngineers"
+    "gap": 4,
+    "stars": 2812,
+    "name": "Jays2Kings/DS4Windows"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 35
+    "gap": 34
   }
 }
