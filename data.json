@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-06-29T00:05:47.566Z",
-  "position": 234,
-  "stars": 2767,
-  "gap": 1,
+  "dateAndTime": "2021-06-30T00:05:37.492Z",
+  "position": 233,
+  "stars": 2770,
+  "gap": 31,
   "contenders": [
     {
-      "name": "projectkudu/kudu",
-      "link": "https://github.com/projectkudu/kudu"
+      "name": "inkle/ink",
+      "link": "https://github.com/inkle/ink"
     }
   ],
   "positionMilestones": {
@@ -29,8 +29,8 @@
   },
   "positionMilestoneToGo": {
     "milestone": 230,
-    "gap": 4,
-    "stars": 2815,
+    "gap": 3,
+    "stars": 2819,
     "name": "xceedsoftware/wpftoolkit"
   },
   "starsMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 33
+    "gap": 30
   }
 }
