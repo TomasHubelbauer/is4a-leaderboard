@@ -1,12 +1,12 @@
 {
-  "dateAndTime": "2021-07-02T00:05:42.355Z",
+  "dateAndTime": "2021-07-03T00:05:38.672Z",
   "position": 233,
-  "stars": 2775,
+  "stars": 2777,
   "gap": 28,
   "contenders": [
     {
-      "name": "inkle/ink",
-      "link": "https://github.com/inkle/ink"
+      "name": "OfficeDev/Open-XML-SDK",
+      "link": "https://github.com/OfficeDev/Open-XML-SDK"
     }
   ],
   "positionMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 25
+    "gap": 23
   }
 }
