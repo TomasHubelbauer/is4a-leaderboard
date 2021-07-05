@@ -1,16 +1,12 @@
 {
-  "dateAndTime": "2021-07-04T00:05:54.622Z",
+  "dateAndTime": "2021-07-05T00:05:37.079Z",
   "position": 233,
-  "stars": 2778,
-  "gap": 28,
+  "stars": 2780,
+  "gap": 26,
   "contenders": [
     {
       "name": "OfficeDev/Open-XML-SDK",
       "link": "https://github.com/OfficeDev/Open-XML-SDK"
-    },
-    {
-      "name": "inkle/ink",
-      "link": "https://github.com/inkle/ink"
     }
   ],
   "positionMilestones": {
@@ -34,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 3,
-    "stars": 2821,
+    "stars": 2822,
     "name": "xceedsoftware/wpftoolkit"
   },
   "starsMilestones": {
@@ -56,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 22
+    "gap": 20
   }
 }
