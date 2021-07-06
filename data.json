@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-07-05T00:05:37.079Z",
+  "dateAndTime": "2021-07-06T00:05:37.702Z",
   "position": 233,
   "stars": 2780,
-  "gap": 26,
+  "gap": 27,
   "contenders": [
     {
       "name": "OfficeDev/Open-XML-SDK",
@@ -31,7 +31,7 @@
     "milestone": 230,
     "gap": 3,
     "stars": 2822,
-    "name": "xceedsoftware/wpftoolkit"
+    "name": "Jays2Kings/DS4Windows"
   },
   "starsMilestones": {
     "1300": "2019-12-05T02:01:39.753Z",
