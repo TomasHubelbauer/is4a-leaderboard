@@ -1,12 +1,16 @@
 {
-  "dateAndTime": "2021-07-06T00:05:37.702Z",
+  "dateAndTime": "2021-07-07T00:06:10.182Z",
   "position": 233,
-  "stars": 2780,
-  "gap": 27,
+  "stars": 2782,
+  "gap": 29,
   "contenders": [
     {
       "name": "OfficeDev/Open-XML-SDK",
       "link": "https://github.com/OfficeDev/Open-XML-SDK"
+    },
+    {
+      "name": "inkle/ink",
+      "link": "https://github.com/inkle/ink"
     }
   ],
   "positionMilestones": {
@@ -30,7 +34,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 3,
-    "stars": 2822,
+    "stars": 2820,
     "name": "Jays2Kings/DS4Windows"
   },
   "starsMilestones": {
@@ -52,6 +56,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 20
+    "gap": 18
   }
 }
