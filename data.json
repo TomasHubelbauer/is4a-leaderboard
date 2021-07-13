@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-07-12T00:05:56.632Z",
+  "dateAndTime": "2021-07-13T00:05:14.562Z",
   "position": 233,
-  "stars": 2794,
-  "gap": 19,
+  "stars": 2795,
+  "gap": 17,
   "contenders": [
     {
       "name": "KeenSoftwareHouse/SpaceEngineers",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 3,
-    "stars": 2825,
+    "stars": 2827,
     "name": "xceedsoftware/wpftoolkit"
   },
   "starsMilestones": {
@@ -52,6 +52,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2800,
-    "gap": 6
+    "gap": 5
   }
 }
