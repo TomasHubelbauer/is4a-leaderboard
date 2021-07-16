@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-07-15T00:08:02.010Z",
+  "dateAndTime": "2021-07-16T00:05:44.357Z",
   "position": 232,
-  "stars": 2801,
-  "gap": 11,
+  "stars": 2803,
+  "gap": 9,
   "contenders": [
     {
       "name": "KeenSoftwareHouse/SpaceEngineers",
@@ -30,7 +30,7 @@
   "positionMilestoneToGo": {
     "milestone": 230,
     "gap": 2,
-    "stars": 2826,
+    "stars": 2828,
     "name": "OfficeDev/Open-XML-SDK"
   },
   "starsMilestones": {
@@ -53,6 +53,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2900,
-    "gap": 99
+    "gap": 97
   }
 }
