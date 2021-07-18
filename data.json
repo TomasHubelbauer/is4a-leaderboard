@@ -1,8 +1,8 @@
 {
-  "dateAndTime": "2021-07-17T00:05:34.971Z",
+  "dateAndTime": "2021-07-18T00:06:04.547Z",
   "position": 232,
-  "stars": 2803,
-  "gap": 9,
+  "stars": 2805,
+  "gap": 8,
   "contenders": [
     {
       "name": "KeenSoftwareHouse/SpaceEngineers",
@@ -53,6 +53,6 @@
   },
   "starsMilestoneToGo": {
     "milestone": 2900,
-    "gap": 97
+    "gap": 95
   }
 }
